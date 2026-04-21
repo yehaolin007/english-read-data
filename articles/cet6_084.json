@@ -1,0 +1,118 @@
+{
+  "id": "cet6_084",
+  "category": "cet6",
+  "title": "The Hidden Cost of Proving You're Human Online",
+  "subtitle": "证明自己是人：验证码背后的无偿数字劳动",
+  "readTime": 3,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "The other day I had to log into a service I hadn't used before. Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine. I was presented with an image of a roadside scene over which was laid a grid.",
+      "zh": "前几天，我不得不登录一个从未用过的服务。由于我是新用户，网站认定需要核查我并非机器人，于是给我设置了一个验证码测试，以判断用户是人还是机器。屏幕上出现了一幅路边场景图像，上面覆盖着方格网。",
+      "words": [
+        {
+          "word": "Captcha",
+          "phonetic": "/ˈkæptʃə/",
+          "meaning": "n. 验证码"
+        }
+      ]
+    },
+    {
+      "en": "My “challenge” was to click on each cell in the grid that contained a traffic sign. I did so, a bit irritated. Then I was presented with another image and another grid — also with a request to identify road signs.",
+      "zh": "我的“挑战”是点击网格中每个包含交通标志的方格。我略带烦躁地照做了。接着又出现了另一张图像和另一个方格网——同样要求识别路标。",
+      "words": [
+        {
+          "word": "irritated",
+          "phonetic": "/ˈɪrɪteɪtɪd/",
+          "meaning": "adj. 恼怒的；烦躁的"
+        }
+      ]
+    },
+    {
+      "en": "Like a lamb, I complied, after which the website accepted my input. And then I realised what I had been doing was adding to a dataset for training the machine-learning software that guides self-driving cars. So, to gain access to an automated service that will benefit financially from my input, I first have to do some unpaid labor to help improve the performance of autonomous vehicles.",
+      "zh": "我像只羔羊般顺从了，随后网站接受了我的输入。这时我才意识到，我刚才所做的，其实是在为训练自动驾驶汽车机器学习软件的数据库添砖加瓦。于是乎，为了获取一项将从我的输入中获利的自动化服务，我首先得无偿劳动一番，帮忙提升自动驾驶汽车的性能。",
+      "words": [
+        {
+          "word": "comply",
+          "phonetic": "/kəmˈplaɪ/",
+          "meaning": "v. 遵从；服从"
+        },
+        {
+          "word": "autonomous",
+          "phonetic": "/ɔːˈtɑːnəməs/",
+          "meaning": "adj. 自动的；自主的"
+        }
+      ]
+    },
+    {
+      "en": "Neat, eh? But note also the delicious additional irony that the Captcha is described as an “automated Turing test”. The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn't tell whether it was a human or a robot.",
+      "zh": "挺妙是吧？但请注意这其中还多了一层绝妙的讽刺：验证码竟被描述为“自动化图灵测试”。你可能还记得，图灵测试的初衷，是让人类能够判断一台机器是否能以令人无法分辨人机的方式进行回应。",
+      "words": [
+        {
+          "word": "irony",
+          "phonetic": "/ˈaɪrəni/",
+          "meaning": "n. 讽刺"
+        },
+        {
+          "word": "conceive",
+          "phonetic": "/kənˈsiːv/",
+          "meaning": "v. 构想；设想"
+        }
+      ]
+    },
+    {
+      "en": "So we have wandered into a world in which machines make us do tricks to prove that we are humans! The strangest aspect of this unparalleled shift is how under-discussed it has been. The metaphor of the boiling frog comes to mind.",
+      "zh": "我们就这样走入了一个由机器来让我们耍把戏以证明自己是人类的世界！这一前所未有的转变最奇怪之处在于，它得到的讨论竟是如此之少。我不禁想起温水煮青蛙的比喻。",
+      "words": [
+        {
+          "word": "unparalleled",
+          "phonetic": "/ʌnˈpærəleld/",
+          "meaning": "adj. 空前的；无比的"
+        },
+        {
+          "word": "metaphor",
+          "phonetic": "/ˈmetəfər/",
+          "meaning": "n. 比喻；隐喻"
+        }
+      ]
+    },
+    {
+      "en": "Have we become so subtly conditioned by digital technology that we don't see what's been happening to us? Have we been conditioned to accept a world governed by “smart” tech, trading convenience to the point where we become a bit like machines ourselves? In a recent startling and thoughtful book, two scholars argue that the answer to that question is “yes”.",
+      "zh": "我们是否已被数字技术如此潜移默化地驯化，以至于对发生在我们身上的事视而不见？我们是否已被驯化得接受一个由“智能”科技统治的世界，用便利作为交换，直到我们自己都有点像机器了？在最近一本令人警醒且发人深省的书中，两位学者认为，这个问题的答案是肯定的。",
+      "words": [
+        {
+          "word": "subtly",
+          "phonetic": "/ˈsʌtli/",
+          "meaning": "adv. 微妙地；潜移默化地"
+        }
+      ]
+    },
+    {
+      "en": "There's nothing technophobic about that. We shape our tools and then our tools shape us. Technology is supposed to provide tools that serve human ends.",
+      "zh": "这并非什么技术恐惧论。我们塑造工具，而后工具反过来塑造我们。技术本应提供服务于人类目的的工具。",
+      "words": [
+        {
+          "word": "technophobic",
+          "phonetic": "/ˌteknəˈfoʊbɪk/",
+          "meaning": "adj. 恐惧技术的"
+        }
+      ]
+    },
+    {
+      "en": "But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours. In the process, they reduce us to the status of cheery rats running on treadmills designed by people who do not have our interests at heart. So back to the frog metaphor.",
+      "zh": "然而，正如机器学习验证码所表明的那样，如今相当大一部分数字技术将人类视为（并当作）实现非我属目的的手段。在这一过程中，它们将我们降格为在跑步机上欢快奔跑的老鼠，而设计这跑步机的人心中并无我们的利益。回到青蛙的比喻。",
+      "words": [
+        {
+          "word": "treadmill",
+          "phonetic": "/ˈtredmɪl/",
+          "meaning": "n. 跑步机；繁重重复的工作"
+        }
+      ]
+    },
+    {
+      "en": "Are we smart enough to jump out before it's too late? You don't even have to Google it to know the answer.",
+      "zh": "我们是否有足够的智慧，在为时已晚之前跳脱出来？你甚至不必去谷歌搜索，心里也清楚答案。",
+      "words": []
+    }
+  ]
+}

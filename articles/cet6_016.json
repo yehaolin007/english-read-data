@@ -1,0 +1,114 @@
+{
+  "id": "cet6_016",
+  "category": "cet6",
+  "title": "Bringing Dead Actors Back to Life with CGI",
+  "subtitle": "用CGI复活已故明星：技术能做到，但该不该？",
+  "readTime": 3,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Digital humans are coming to a screen near you. As computer-generated imagery has become cheaper and more sophisticated, the film industry can now convincingly recreate people on screen — even actors who have been dead for decades. The technology's ability to keep celebrities alive beyond the grave is raising questions about public legacies and image rights.",
+      "zh": "数字人类即将登上你身边的屏幕。随着计算机生成图像变得更便宜、更精密，电影业如今可以在屏幕上逼真地重现人物——甚至包括已去世数十年的演员。这项技术在死后延续名人影响力的能力，正引发关于公众遗产和肖像权的种种疑问。",
+      "words": [
+        {
+          "word": "sophisticated",
+          "phonetic": "/səˈfɪstɪkeɪtɪd/",
+          "meaning": "adj. 精密的，复杂的"
+        },
+        {
+          "word": "legacies",
+          "phonetic": "/ˈleɡəsiz/",
+          "meaning": "n. 遗产，遗留影响"
+        }
+      ]
+    },
+    {
+      "en": "Late in 2019, it was announced that US actor James Dean, who died in 1955, will star in a Vietnam War film called Finding Jack. Dean will be recreated with CGI based on old footage and photographs, with another actor voicing him. The news drew sharp criticism alongside excitement.",
+      "zh": "2019年底宣布，1955年去世的美国演员詹姆斯·迪恩将出演越战电影《寻找杰克》。迪恩将基于旧影像和照片用CGI重建，由另一位演员配音。这一消息在引发兴奋的同时也招致了尖锐批评。",
+      "words": [
+        {
+          "word": "footage",
+          "phonetic": "/ˈfʊtɪdʒ/",
+          "meaning": "n. 影像片段，镜头"
+        }
+      ]
+    },
+    {
+      "en": "This is puppeteering the dead for their fame alone, actress Zelda Williams wrote on Twitter. It sets an awful precedent for the future of performance. Her father Robin Williams, who died in 2014, filed a deed before his death protecting the use of his image until 2039, preventing others from recreating him using CGI.",
+      "zh": "女演员泽尔达·威廉姆斯在推特上写道：“这纯粹是为了名气而操纵死者。它为表演的未来开创了可怕的先例。”她的父亲罗宾·威廉姆斯于2014年去世，生前已签署契约将其肖像使用权保护至2039年，以防他人用CGI重建他。",
+      "words": [
+        {
+          "word": "precedent",
+          "phonetic": "/ˈpresɪdənt/",
+          "meaning": "n. 先例，前例"
+        }
+      ]
+    },
+    {
+      "en": "Other actors have been revived for advertising: a 2011 Dior ad featured Charlize Theron alongside digitally recreated Marilyn Monroe, Grace Kelly and Marlene Dietrich. Audrey Hepburn was recreated for a chocolate commercial in 2013. In the same year, a CGI Bruce Lee appeared in a whisky ad, offending many fans because Lee was known not to drink alcohol.",
+      "zh": "还有其他演员被用于广告：2011年迪奥广告中，查理兹·塞隆与数字重建的玛丽莲·梦露、格蕾丝·凯利和玛琳·黛德丽同框。奥黛丽·赫本于2013年被重建用于巧克力广告。同年，CGI李小龙出现在威士忌广告中，因李小龙众所周知不饮酒而得罪了许多粉丝。",
+      "words": [
+        {
+          "word": "revived",
+          "phonetic": "/rɪˈvaɪvd/",
+          "meaning": "v. 复活，重现"
+        }
+      ]
+    },
+    {
+      "en": "In the last five years, it's become more affordable and achievable in a whole movie, says Tim Webber at UK visual effects firm Framestore. Now a person can be animated from scratch. If they're alive today, you can put them in scanning rigs and get every detail analysed carefully, whereas working from photographs is tricky, says Webber.",
+      "zh": "英国视觉效果公司Framestore的蒂姆·韦伯说：“近五年来，在整部电影中实现这一技术已变得更可负担、更可行。”现在可以从零开始动画化一个人。韦伯说：“如果本人还在世，可以用扫描设备获取每个细节仔细分析，而从照片工作则很棘手。”",
+      "words": [
+        {
+          "word": "from scratch",
+          "phonetic": "/frəm skrætʃ/",
+          "meaning": "phr. 从零开始"
+        }
+      ]
+    },
+    {
+      "en": "A hidden hazard of digitally recreating a deceased celebrity is damaging their legacy. We have to respect the integrity of rights holders, says John Canning at Digital Domain. Legally, a person's rights to control commercial use of their name and image after death differ between countries. In California, celebrity personality rights last for 70 years after death.",
+      "zh": "数字重建已故名人的一个隐藏风险是损害其遗产。Digital Domain的约翰·坎宁说：“我们必须尊重权利持有人的完整性。”法律上，一个人死后控制其姓名和肖像商业使用的权利因国而异。在加州，名人人格权在死后持续70年。",
+      "words": [
+        {
+          "word": "hazard",
+          "phonetic": "/ˈhæzərd/",
+          "meaning": "n. 危险，隐患"
+        },
+        {
+          "word": "integrity",
+          "phonetic": "/ɪnˈteɡrəti/",
+          "meaning": "n. 完整，正直"
+        }
+      ]
+    },
+    {
+      "en": "A recreation, however lifelike, will never be indistinguishable from a real actor, says Webber. A performance is a lot more than a physical resemblance. As it becomes easier to digitally recreate celebrities, could this put actors out of jobs? I think actors are worried about this, says Edwards, but it will take a very long time.",
+      "zh": "韦伯说，无论多么逼真，重建的形象永远无法与真人演员毫无区别。“表演远不止是外貌相似。”随着数字重建名人变得更容易，这是否会让演员失业？爱德华兹说：“我觉得演员们很担心这一点，但这需要很长时间。”",
+      "words": [
+        {
+          "word": "indistinguishable",
+          "phonetic": "/ˌɪndɪˈstɪŋɡwɪʃəbl/",
+          "meaning": "adj. 无法区分的"
+        }
+      ]
+    },
+    {
+      "en": "This is partly because viewers find virtual humans scary — the uncanny valley effect, where near-perfect but slightly off digital humans make people uneasy. There are a thousand things that could go wrong with a computer-generated face, and any one could make it fall into the uncanny valley, says Webber. Your brain just knows there's something wrong.",
+      "zh": "这在一定程度上是因为观众觉得虚拟人类可怕——这就是恐怖谷效应，近乎完美但略有偏差的数字人类会让人不安。韦伯说：“计算机生成的面孔有一千种可能出错的地方，任何一个都可能让它坠入恐怖谷。你的大脑就是知道哪里不对劲。”",
+      "words": [
+        {
+          "word": "uncanny",
+          "phonetic": "/ʌnˈkæni/",
+          "meaning": "adj. 诡异的，离奇的"
+        }
+      ]
+    },
+    {
+      "en": "An unfamiliar digital human also lacks the appeal of an established name. We're a long way from having virtual beings that can pre-sell content, says Cloyd. Webber expects more digital humans on screen: It's happening because it can happen. People are too busy thinking about what they can do to think about whether they should.",
+      "zh": "陌生的数字人类也缺乏知名人物的吸引力。克洛伊德说：“我们距离拥有能预售内容的虚拟形象还很远。”韦伯预计屏幕上会出现更多数字人类：“这正在发生，因为它可以发生。人们忙于思考能做什么，却没思考该不该做。”",
+      "words": []
+    }
+  ],
+  "words": []
+}

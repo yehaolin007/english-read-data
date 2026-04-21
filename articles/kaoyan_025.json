@@ -1,0 +1,81 @@
+{
+  "id": "kaoyan_025",
+  "category": "kaoyan",
+  "title": "The Codebreaker Who Helped Defeat Napoleon",
+  "subtitle": "拿破仑战场的秘密战争：一位密码破译者的传奇",
+  "readTime": 3,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Between 1807 and 1814 the Iberian Peninsula was the scene of a titanic and merciless struggle. It took place on many different planes: between Napoleon's French army and the angry inhabitants; between the British, ever keen to exacerbate the emperor's difficulties, and the marshals sent from Paris to try to keep them in check; between new forces of science and meritocracy and old ones of conservatism and birth. It was also, and this is unknown even to many people well read about the period, a battle between those who made codes and those who broke them.",
+      "zh": "1807年至1814年间，伊比利亚半岛上演了一场规模宏大且残酷无情的斗争。这场斗争在多个层面上展开：拿破仑的法国军队与愤怒的当地居民之间；热衷于给皇帝添乱的英国人与巴黎派来试图遏制他们的元帅之间；科学与贤能政治的新生力量与保守主义及血统论的传统势力之间。此外，还有一场战役——即便对许多熟读这段历史的人来说也鲜为人知——那就是编码者与破译者之间的较量。",
+      "words": [
+        {
+          "word": "titanic",
+          "phonetic": "/taɪˈtænɪk/",
+          "meaning": "adj. 巨大的；极其强大的"
+        },
+        {
+          "word": "meritocracy",
+          "phonetic": "/ˌmerɪˈtɑːkrəsi/",
+          "meaning": "n. 贤能政治；精英领导体制"
+        }
+      ]
+    },
+    {
+      "en": "I first discovered the Napoleonic cryptographic battle a few years ago when I was reading Sir Charles Oman's epic History of the Peninsular War. In volume V he had attached an appendix, \"The Scovell Ciphers\". It listed many documents in code that had been captured from the French army of Spain, and whose secrets had been revealed by the work of one George Scovell, an officer in British headquarters.",
+      "zh": "几年前，我在阅读查尔斯·奥曼爵士的史诗巨著《半岛战争史》时，首次发现了拿破仑战争中的密码战。在该书第五卷中，奥曼附上了一篇题为《斯科维尔密码》的附录，其中罗列了从法国驻西班牙军队中缴获的大量加密文件，而这些文件的秘密都是由英军指挥部的一名军官乔治·斯科维尔揭示出来的。",
+      "words": [
+        {
+          "word": "cryptographic",
+          "phonetic": "/ˌkrɪptəˈɡræfɪk/",
+          "meaning": "adj. 密码的；密码学的"
+        }
+      ]
+    },
+    {
+      "en": "Oman rated Scovell's significance highly, but at the same time, the general nature of his History meant that he could not analyze carefully what this obscure officer may or may not have contributed to that great struggle between nations or indeed tell us anything much about the man himself. I was keen to read more, but was surprised to find that Oman's appendix, published in 1914, was the only considered thing that had been written about this secret war.",
+      "zh": "奥曼高度评价了斯科维尔的重要性，但受其通史体裁所限，他未能仔细分析这位名不见经传的军官在那场大国博弈中究竟做出了哪些贡献——或许也未能做出哪些贡献，甚至未能告诉我们太多关于这个人物本身的信息。我渴望读到更多相关内容，却惊讶地发现，1914年出版的奥曼附录竟是关于这场秘密战争唯一经过深思熟虑的著述。",
+      "words": [
+        {
+          "word": "obscure",
+          "phonetic": "/əbˈskjʊr/",
+          "meaning": "adj. 无名的；鲜为人知的"
+        }
+      ]
+    },
+    {
+      "en": "I became convinced that this story was every bit as exciting and significant as that of Enigma and the breaking of German codes in the Second World War. The question was, could it be told? Studying Scovell's papers at the Public Record Office, London, I found that he had left an extensive journal and copious notes about his work in the Peninsula.",
+      "zh": "我逐渐确信，这段故事丝毫不亚于二战中恩尼格玛密码机与德国密码破译那般激动人心、意义重大。问题在于，这段往事能被完整讲述出来吗？我在伦敦公共档案馆研究斯科维尔的文件时发现，他留下了一部内容翔实的日记以及大量关于他在半岛工作的笔记。",
+      "words": [
+        {
+          "word": "copious",
+          "phonetic": "/ˈkoʊpiəs/",
+          "meaning": "adj. 丰富的；大量的"
+        }
+      ]
+    },
+    {
+      "en": "What was more, many original French dispatches had been preserved in this collection, which I realized was priceless. There may have been many spies and intelligence officers during the Napoleonic Wars, but it is usually extremely difficult to find the material they actually provided or worked on. As I researched Scovell's story I found far more of interest besides his intelligence work.",
+      "zh": "更重要的是，这批收藏中还保存了大量原始的法国急件，我意识到这堪称无价之宝。拿破仑战争期间或许活跃着众多间谍和情报官员，但通常极难找到他们实际提供或经手的材料。在研究斯科维尔生平的过程中，我发现除了他的情报工作之外，还有更多引人入胜之处。",
+      "words": [
+        {
+          "word": "dispatch",
+          "phonetic": "/dɪˈspætʃ/",
+          "meaning": "n. 急件；快信"
+        }
+      ]
+    },
+    {
+      "en": "His status in Lord Wellington's headquarters and the recognition given to him for his work were all bound up with the class politics of the army at the time. His tale of self-improvement and hard work would make a fascinating biography in its own right, but represents something more than that. Just as the code breaking has its wider relevance in the struggle for Spain, so his attempts to make his way up the promotion ladder speak volumes about British society.",
+      "zh": "他在威灵顿勋爵指挥部的地位，以及他因工作而获得的认可，都与当时军队中的阶级政治密不可分。他自我精进、勤奋工作的故事本身就足以写就一部引人入胜的传记，但其意义远不止于此。正如密码破译对西班牙战局具有更广泛的影响一样，他努力向上攀登晋升阶梯的历程，也深刻地折射出当时英国社会的全貌。",
+      "words": [
+        {
+          "word": "speak volumes",
+          "phonetic": "/spiːk ˈvɑːljuːmz/",
+          "meaning": "phr. 充分说明；清楚表明"
+        }
+      ]
+    }
+  ]
+}

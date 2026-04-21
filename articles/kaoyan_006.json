@@ -1,0 +1,59 @@
+{
+  "id": "kaoyan_006",
+  "category": "kaoyan",
+  "title": "Even Rats Can Tell a Friendly Robot",
+  "subtitle": "连老鼠都能分辨谁是「好人」：动物的社交智慧",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Rats rely on social cues to decide whom to trust, avoid, or cooperate with. Researchers asked whether this sensitivity could extend to simple robotic rats. Eight adult rats were housed for four days with one social robot and one asocial robot.",
+      "zh": "老鼠依赖社会线索来判断该信任、回避或合作的对象。研究人员进一步追问，这种敏感性是否会延伸到简单的机器鼠身上。实验中，八只成年老鼠与一只社交型机器鼠和一只非社交型机器鼠共同生活了四天。",
+      "words": [
+        {
+          "word": "cues",
+          "phonetic": "/kjuːz/",
+          "meaning": "n. 提示，线索"
+        },
+        {
+          "word": "asocial",
+          "phonetic": "/ˌeɪˈsoʊʃəl/",
+          "meaning": "adj. 不合群的，缺乏社交性的"
+        }
+      ]
+    },
+    {
+      "en": "The social robot followed rats, played with nearby objects, and opened a door for trapped rats, while the asocial robot only moved mechanically. Later, rats could free either robot by pressing a lever. They released the social robot far more often, indicating they treated it as a meaningful social partner.",
+      "zh": "社交型机器鼠会跟随老鼠、参与摆弄周边物品，并为受困老鼠打开小门，而非社交型机器鼠仅做机械移动。在随后的测试中，老鼠可以通过按压杠杆选择释放任一机器鼠。结果显示它们释放社交型机器鼠的频率远高于另一只，表明它们将其视为有意义的社会伙伴。",
+      "words": [
+        {
+          "word": "mechanically",
+          "phonetic": "/məˈkænɪkli/",
+          "meaning": "adv. 机械地，呆板地"
+        },
+        {
+          "word": "lever",
+          "phonetic": "/ˈlevər/",
+          "meaning": "n. 杠杆，控制杆"
+        }
+      ]
+    },
+    {
+      "en": "Researchers suspect the rats expected reciprocity, because reciprocal helping is common in rat societies. The surprising part is that rich appearance was unnecessary, since the robot looked like a plain wheeled box. Much like children responding to friendly machines, minimal social behavior was enough to trigger attachment.",
+      "zh": "研究者推测老鼠可能期待互惠，因为互助行为在鼠群中十分常见。令人惊讶的是，复杂的外形并非必要，因为该机器鼠看上去只是一个带轮子的简易盒子。就像儿童会对友好的机器产生回应一样，最低限度的社交行为已足以触发依附感。",
+      "words": [
+        {
+          "word": "reciprocity",
+          "phonetic": "/ˌresɪˈprɑːsəti/",
+          "meaning": "n. 互惠，互助"
+        },
+        {
+          "word": "attachment",
+          "phonetic": "/əˈtætʃmənt/",
+          "meaning": "n. 依恋，依附"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

@@ -1,0 +1,118 @@
+{
+  "id": "cet6_045",
+  "category": "cet6",
+  "title": "The Reading Wars: Why Phonics Finally Won",
+  "subtitle": "阅读战争终结：自然拼读法为何笑到最后",
+  "readTime": 3,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Phonics, which involves sounding out words syllable by syllable, is the best way to teach children to read. But in many classrooms, this can be a dirty word. So much so that some teachers have had to sneak phonics teaching materials into the classroom.",
+      "zh": "自然拼读法，即逐个音节将单词读出声来，是教儿童阅读的最佳方法。但在许多课堂里，这却可能是个忌讳的字眼。其程度之严重，以至于一些教师不得不将自然拼读教材偷偷带进教室。",
+      "words": [
+        {
+          "word": "phonics",
+          "phonetic": "/ˈfɑːnɪks/",
+          "meaning": "n. 自然拼读法"
+        }
+      ]
+    },
+    {
+      "en": "Most American children are taught to read in a way that study after study has found to be wrong. The consequences of this are striking. Less than half of all American adults were proficient readers in 2017. American fourth graders rank 15th on the Progress in International Literacy Study, an international exam.",
+      "zh": "大多数美国孩子所接受的阅读教学方式，已被反复研究证明是错误的。其后果令人震惊。2017年，熟练阅读的美国成年人不足一半。美国四年级学生在国际阅读素养进展研究这一国际测试中排名第15位。",
+      "words": [
+        {
+          "word": "proficient",
+          "phonetic": "/prəˈfɪʃnt/",
+          "meaning": "adj. 熟练的；精通的"
+        }
+      ]
+    },
+    {
+      "en": "America is stuck in a debate about teaching children to read that has been going on for decades. Some advocate teaching symbol-sound relationships (the sound k can be spelled as c, k, ck, or ch), known as phonics. Others support an immersive approach (using pictures of a cat to learn the word cat), known as \"whole language\".",
+      "zh": "美国深陷一场关于儿童阅读教学的争论已达数十年之久。一些人主张教授符号与发音之间的关系（例如/k/音可拼写为c、k、ck或ch），即自然拼读法。另一些人则支持沉浸式教学法（借助猫的图片来学习“cat”一词），即所谓的“全语言”教学法。",
+      "words": [
+        {
+          "word": "advocate",
+          "phonetic": "/ˈædvəkeɪt/",
+          "meaning": "v. 提倡；主张"
+        },
+        {
+          "word": "immersive",
+          "phonetic": "/ɪˈmɜːrsɪv/",
+          "meaning": "adj. 沉浸式的"
+        }
+      ]
+    },
+    {
+      "en": "Most teachers today, almost three out of four according to a survey by the EdWeek Research Centre in 2019, use a mix called \"balanced literacy\". This combination of methods is ineffective. \"You can't sprinkle in a little phonics,\" says Tenette Smith, executive director of elementary education and reading at Mississippi's education department. \"It has to be systematic and explicitly taught.\"",
+      "zh": "根据EdWeek研究中心2019年的一项调查，如今大多数教师（近四分之三）采用的是一种被称为“均衡读写”的混合方法。这种方法的组合是无效的。密西西比州教育部小学教育与阅读事务执行主任特内特·史密斯说：“你不能只是撒上一点自然拼读。它必须被系统且明确地教授。”",
+      "words": [
+        {
+          "word": "sprinkle",
+          "phonetic": "/ˈsprɪŋkl/",
+          "meaning": "v. 撒；零星添加"
+        },
+        {
+          "word": "explicitly",
+          "phonetic": "/ɪkˈsplɪsɪtli/",
+          "meaning": "adv. 明确地；清楚地"
+        }
+      ]
+    },
+    {
+      "en": "Mississippi, often behind in social policy, has set an example here. In a state once notorious for its low reading scores, the Mississippi state legislature passed new literacy standards in 2013. Since then Mississippi has seen remarkable gains. Its fourth graders have moved from 49th (out of 50 states) to 29th on the National Assessment of Educational Progress, a nationwide exam.",
+      "zh": "在社会政策方面常常落后的密西西比州，却在此处树立了榜样。这个曾因阅读成绩低而声名狼藉的州，其州议会于2013年通过了新的读写标准。自那以后，密西西比州取得了显著进步。该州四年级学生在全美教育进展评估这一全国性考试中的排名，已从第49位（共50个州）上升至第29位。",
+      "words": [
+        {
+          "word": "notorious",
+          "phonetic": "/noʊˈtɔːriəs/",
+          "meaning": "adj. 声名狼藉的"
+        }
+      ]
+    },
+    {
+      "en": "In 2019 it was the only state to improve its scores. For the first time since measurement began, Mississippi's pupils are now average readers, a remarkable achievement in such a poor state. Mississippi's success is attributed to implementing reading methods supported by a body of research known as the science of reading.",
+      "zh": "2019年，它是唯一一个成绩有所提高的州。自有测评以来，密西西比州的学生首次达到了全国平均阅读水平，这对一个如此贫困的州而言堪称非凡成就。密西西比州的成功归功于实施了由“阅读科学”研究体系所支持的阅读方法。",
+      "words": [
+        {
+          "word": "attribute to",
+          "phonetic": "/əˈtrɪbjuːt tuː/",
+          "meaning": "phr. 归因于"
+        }
+      ]
+    },
+    {
+      "en": "In 1997 Congress requested the National Institute of Child Health and Human Development and the Department of Education to convene a National Reading Panel to end the \"reading wars\" and synthesize the evidence. The panel found that phonics, along with explicit instruction in phonemic awareness, fluency and comprehension, worked best. Yet over two decades on, \"balanced literacy\" is still being taught in classrooms.",
+      "zh": "1997年，国会要求国家儿童健康与人类发展研究所和教育部召集全国阅读专家组，以终结“阅读战争”并综合现有证据。专家组发现，自然拼读法，连同对音素意识、流畅度和理解能力的明确指导，效果最佳。然而二十多年过去了，“均衡读写”仍在课堂上传授。",
+      "words": [
+        {
+          "word": "synthesize",
+          "phonetic": "/ˈsɪnθəsaɪz/",
+          "meaning": "v. 综合；合成"
+        },
+        {
+          "word": "phonemic awareness",
+          "phonetic": "/fəˈniːmɪk əˈwernəs/",
+          "meaning": "n. 音素意识"
+        }
+      ]
+    },
+    {
+      "en": "But advances in statistics and brain imaging have disproved the whole-language method. To the teacher who is a proficient reader, literacy seems like a natural process that requires educated guessing, rather than the deliberate process emphasized by phonics. Teachers can imagine that they learned to read through osmosis when they were children.",
+      "zh": "但统计学和脑成像技术的进步已推翻全语言教学法。对于身为熟练阅读者的教师而言，识字似乎是一个需要合理猜测的自然过程，而非自然拼读法所强调的刻意练习过程。教师们可能会想象自己小时候是通过潜移默化学会阅读的。",
+      "words": [
+        {
+          "word": "osmosis",
+          "phonetic": "/ɑːzˈmoʊsɪs/",
+          "meaning": "n. 渗透；潜移默化"
+        }
+      ]
+    },
+    {
+      "en": "Without proper training, they bring this to classrooms.",
+      "zh": "缺乏适当的培训，他们便将这种观念带入了课堂。",
+      "words": []
+    }
+  ]
+}

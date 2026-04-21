@@ -1,0 +1,58 @@
+{
+  "id": "kaoyan_017",
+  "category": "kaoyan",
+  "title": "Can Britain Feed Itself Again",
+  "subtitle": "脱欧后的英国能实现粮食自给吗？现实很骨感",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Brexit revived calls for Britain to rely less on imported food and move toward greater self-sufficiency. Supporters connect this vision with sovereignty, rural revival, and national resilience. The ambition is politically appealing but constrained by land realities.",
+      "zh": "脱欧重新点燃了减少粮食进口、提升自给水平的呼声。支持者将这一愿景与主权独立、乡村振兴及国家韧性联系在一起。这一抱负在政治上颇具吸引力，却受到土地现实的硬性约束。",
+      "words": [
+        {
+          "word": "sovereignty",
+          "phonetic": "/ˈsɑːvrənti/",
+          "meaning": "n. 主权"
+        },
+        {
+          "word": "resilience",
+          "phonetic": "/rɪˈzɪliəns/",
+          "meaning": "n. 韧性；复原力"
+        }
+      ]
+    },
+    {
+      "en": "Much of the UK is better suited to grazing and dairy than to intensive crop production. Soil and climate conditions limit how far fruit and vegetable output can scale domestically. Even aggressive land conversion would leave significant supply gaps.",
+      "zh": "英国大部分地区更适合放牧和乳制品生产，而非集约化作物种植。土壤和气候条件限制了本土果蔬产量的可扩张空间。即便进行激进的土地用途转换，供给缺口仍将十分显著。",
+      "words": [
+        {
+          "word": "intensive",
+          "phonetic": "/ɪnˈtensɪv/",
+          "meaning": "adj. 集约的；密集的"
+        },
+        {
+          "word": "conversion",
+          "phonetic": "/kənˈvɜːrʒn/",
+          "meaning": "n. 转换；转变"
+        }
+      ]
+    },
+    {
+      "en": "A resilient food strategy therefore needs practical adaptation rather than symbolic targets. Reducing waste, diversifying import partners, and improving sustainable productivity may lower risk more effectively. Food security is usually stronger in flexible systems than in absolute self-sufficiency models.",
+      "zh": "因此，一个有韧性的粮食战略需要务实适配，而非追求象征性目标。减少浪费、分散进口来源、提升可持续生产效率，或许更能有效降低风险。与追求绝对自给的模式相比，灵活的系统通常更能保障粮食安全。",
+      "words": [
+        {
+          "word": "diversify",
+          "phonetic": "/daɪˈvɜːrsɪfaɪ/",
+          "meaning": "v. 使多样化"
+        },
+        {
+          "word": "sustainable",
+          "phonetic": "/səˈsteɪnəbl/",
+          "meaning": "adj. 可持续的"
+        }
+      ]
+    }
+  ]
+}

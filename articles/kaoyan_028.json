@@ -1,0 +1,68 @@
+{
+  "id": "kaoyan_028",
+  "category": "kaoyan",
+  "title": "We Have All Encountered Them",
+  "subtitle": "让你忍不住点的界面设计：被操控的用户决策",
+  "readTime": 3,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "We have all encountered them, in both our personal and professional lives. Think about the times you felt tricked or frustrated by a membership or subscription that had a seamless signup process but was later difficult to cancel. Something that should be simple and transparent can be complicated, intentionally or unintentionally, in ways that impair consumer choice.",
+      "zh": "我们在个人生活和职业生活中都遇到过它们。想象一下您曾因会员资格或订阅流程无缝注册但后来很难取消而感到受骗或沮丧的经历。本来应该简单透明的事情可能会有意无意地变得复杂，从而损害消费者的选择。这些是深色图案的示例。“黑暗模式”由用户体验专家HarryBrignull于2010年首次提出，是一个包罗万象的术语，指的是操纵用户界面以影响用户决策能力的实践。",
+      "words": [
+        {
+          "word": "impair",
+          "phonetic": "/ɪmˈper/",
+          "meaning": "v. 损害，削弱"
+        }
+      ]
+    },
+    {
+      "en": "These are examples of dark patterns. First coined in 2010 by user experience expert Harry Brignull, “dark patterns”",
+      "zh": "由用户体验专家HarryBrignull于2010年首次提出，是一个包罗万象的术语，指的是操纵用户界面以影响用户决策能力的实践。",
+      "words": []
+    },
+    {
+      "en": "is a catch-all term for practices that manipulate user interfaces to influence the decision-making ability of users. Brignull identifies 12 types of common dark patterns, ranging from misdirection and hidden costs to “roach motel,” where a user experience seems easy and intuitive at the start, but turns difficult when the user tries to get out.",
+      "zh": "Brignull识别了12种常见的暗模式，从误导和隐藏成本到“蟑螂汽车旅馆”，用户体验一开始似乎简单直观，但当用户试图退出时就会变得困难。在2019年对53,000个产品页面和11,000个网站的研究中，研究人员发现大约十分之一的人采用了这些设计实践。",
+      "words": [
+        {
+          "word": "misdirection",
+          "phonetic": "/ˌmɪsdəˈrekʃn/",
+          "meaning": "n. 误导"
+        }
+      ]
+    },
+    {
+      "en": "In a 2019 study of 53,000 product pages and 11,000 websites, researchers found that about one in 10 employs these design practices. Though widely prevalent, the concept of dark patterns is still not well understood.",
+      "zh": "在2019年对53,000个产品页面和11,000个网站的研究中，研究人员发现大约十分之一的人采用了这些设计实践。尽管深色图案的概念广泛流行，但仍然没有得到很好的理解。企业和非营利组织的领导者应该意识到黑暗模式，并尽量避免它们产生的灰色区域。",
+      "words": []
+    },
+    {
+      "en": "Business and nonprofit leaders should be aware of dark patterns and try to avoid the gray areas they engender. Where is the line between ethical, persuasive design and dark patterns?",
+      "zh": "道德的、有说服力的设计和黑暗模式之间的界限在哪里？企业应与IT、合规、风险和法律团队进行对话，以审查其隐私政策，并让负责公司用户界面的客户/用户体验设计师和编码人员，以及负责注册、结账篮、定价和促销的营销人员和广告商参与讨论。",
+      "words": []
+    },
+    {
+      "en": "Businesses should engage in conversations with IT, compliance, risk, and legal teams to review their privacy policy, and include in the discussion the customer/user experience designers and coders responsible for the company's user interface, as well as the marketers and advertisers responsible for sign-ups, checkout baskets, pricing, and promotions. Any or all these teams can play a role in creating or avoiding “digital deception.”",
+      "zh": "企业应与IT、合规、风险和法律团队进行对话，以审查其隐私政策，并让负责公司用户界面的客户/用户体验设计师和编码人员，以及负责注册、结账篮、定价和促销的营销人员和广告商参与讨论。任何或所有这些团队都可以在创造或避免“数字欺骗”",
+      "words": []
+    },
+    {
+      "en": "Lawmakers and regulators are slowly starting to address the ambiguity around dark patterns, most recently at the state level. In March, the California Attorney General announced the approval of additional regulations under the California Consumer Privacy Act (CCPA) that “ensure that consumers will not be confused or misled when seeking to exercise their data privacy rights.” The regulations aim to ban dark patterns — this means prohibiting companies from using “confusing language or unnecessary steps such as forcing them to click through multiple screens or listen to reasons why they shouldn't opt out.”",
+      "zh": "方面发挥作用。立法者和监管机构正在慢慢开始解决黑暗模式的模糊性，最近是在州一级。今年3月，加州总检察长宣布批准《加州消费者隐私法》(CCPA)下的附加法规，“确保消费者在寻求行使数据隐私权时不会感到困惑或误导”。这些法规旨在禁止暗模式——这意味着禁止公司使用“令人困惑的语言或不必要的步骤，例如强迫他们点击多个屏幕或听取他们不应该选择退出的理由”",
+      "words": []
+    },
+    {
+      "en": "As more states consider promulgating additional regulations, there is a need for greater accountability from within the business community. Dark patterns also can be addressed on a self-regulatory basis, but only if organizations hold themselves accountable, not just to legal requirements but also to industry best practices and standards.",
+      "zh": "这些法规旨在禁止暗模式——这意味着禁止公司使用“令人困惑的语言或不必要的步骤，例如强迫他们点击多个屏幕或听取他们不应该选择退出的理由”。随着越来越多的州考虑颁布更多法规，商界内部需要加强问责。黑暗模式也可以在自我监管的基础上得到解决，但前提是组织对自己负责，不仅要遵守法律要求，还要遵守行业最佳实践和标准。",
+      "words": [
+        {
+          "word": "promulgating",
+          "phonetic": "/ˈprɑːmlɡeɪtɪŋ/",
+          "meaning": "v. 颁布，公布"
+        }
+      ]
+    }
+  ]
+}

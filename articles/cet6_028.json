@@ -1,0 +1,217 @@
+{
+  "id": "cet6_028",
+  "category": "cet6",
+  "title": "The Doctor Will Skype You Now",
+  "subtitle": "孟加拉孤岛上，医生通过屏幕看病",
+  "readTime": 6,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Fazila is a young woman that has been dealing with eczema, a common skin condition, for the past five years, but never got it treated. The nearest hospital is an hour away, by boat and bus, and her skin condition didn't seem serious enough to make the trek, so she ignored it — until a new technology brought the doctor to her. Fazila lives on one of the remote river islands in northern Bangladesh.",
+      "zh": "法齐拉是一位年轻女性，过去五年来一直受湿疹这种常见皮肤病的困扰，却从未接受过治疗。最近的医院乘船加公交要一小时路程，而她的皮肤状况似乎还没严重到值得长途跋涉，于是她便一直忍着——直到一项新技术把医生带到了她身边。法齐拉住在孟加拉国北部一个偏远的河岛上。",
+      "words": [
+        {
+          "word": "eczema",
+          "phonetic": "/ɪɡˈziːmə/",
+          "meaning": "n. 湿疹"
+        },
+        {
+          "word": "trek",
+          "phonetic": "/trek/",
+          "meaning": "n. 长途跋涉，艰难的旅程"
+        }
+      ]
+    },
+    {
+      "en": "These islands are low-lying, temporary sand islands that are continuously formed and destroyed through sand buildup and erosion. They are home to over six million people, who face repeated displacement from flooding and erosion — which may be getting worse because of climate change — and a range of health risks, including poor nutrition, malaria and other water-borne diseases. The most dangerous thing for these remote island dwellers is land erosion. The second is lack of access to medical supplies and doctors.",
+      "zh": "这些岛屿是地势低洼的临时沙岛，通过沙子堆积和侵蚀不断形成与消亡。岛上居住着超过六百万人，他们面临因洪水和侵蚀导致的反复流离失所——气候变化可能使情况更加恶化——以及营养不良、疟疾和其他水源性疾病等一系列健康风险。对这些偏远岛屿居民来说，最危险的是土地侵蚀，其次是缺乏医疗物资和医生。",
+      "words": [
+        {
+          "word": "erosion",
+          "phonetic": "/ɪˈroʊʒn/",
+          "meaning": "n. 侵蚀，腐蚀"
+        },
+        {
+          "word": "displacement",
+          "phonetic": "/dɪsˈpleɪsmənt/",
+          "meaning": "n. 流离失所，迁移"
+        },
+        {
+          "word": "water-borne",
+          "phonetic": "/ˈwɔːtər bɔːrn/",
+          "meaning": "adj. 水源传播的"
+        }
+      ]
+    },
+    {
+      "en": "There are no doctors within miles, and while child mortality and maternal death have gone down in the rest of the country, this is not the case for the islands. The medical situation is so bad that it really takes away from the quality of their life. Yet for many island inhabitants — some of Bangladesh's poorest — paying for health care is a costly ordeal.",
+      "zh": "方圆数英里内没有医生，尽管该国其他地区的儿童死亡率和孕产妇死亡率已经下降，岛屿上的情况却并非如此。医疗状况糟糕至极，严重降低了他们的生活质量。然而对岛上许多居民——孟加拉国最贫困的人群之一——来说，支付医疗费用是一场代价高昂的磨难。",
+      "words": [
+        {
+          "word": "mortality",
+          "phonetic": "/mɔːrˈtæləti/",
+          "meaning": "n. 死亡率"
+        },
+        {
+          "word": "ordeal",
+          "phonetic": "/ɔːrˈdiːl/",
+          "meaning": "n. 磨难，煎熬"
+        }
+      ]
+    },
+    {
+      "en": "Victims of erosion lose their houses, agricultural land and jobs as farmers, fishermen and day laborers. Though government hospitals are free, many people hesitate to go, citing long commutes, endless lines and questionable diagnoses. For convenience's sake, one-third of rural households visit unqualified village doctors, who rely on unscientific methods of treatment, according to a 2016 study in the peer-reviewed journal Global Health Action.",
+      "zh": "侵蚀的受害者失去房屋、农田以及作为农民、渔民和日工的工作。尽管公立医院免费，许多人仍不愿前往，理由是通勤时间长、排队无尽头以及诊断结果存疑。据同行评审期刊《全球健康行动》2016年的一项研究，为图方便，三分之一的农村家庭会去找不合格的乡村医生，而这些医生依赖不科学的治疗方法。",
+      "words": [
+        {
+          "word": "unqualified",
+          "phonetic": "/ʌnˈkwɑːlɪfaɪd/",
+          "meaning": "adj. 不合格的，无资格的"
+        }
+      ]
+    },
+    {
+      "en": "On the islands, there's even a colloquial expression for the idea of making medical care your lowest priority: it's known as 'rog pushai rakha' in Bengali, which roughly translates to 'stockpiling their diseases' — waiting to seek medical attention until a condition becomes extremely serious. Now, a new virtual medical service called Teledaktar is trying to make health care more easily accessible. Every week, its medical operators travel to the islands by boat, carrying a laptop, a portable printer for prescriptions and tools to run basic medical screenings such as blood pressure, blood sugar, body temperature and weight.",
+      "zh": "在岛上，甚至有一种口语表达来形容将医疗置于最末位的做法：孟加拉语中称为“rog pushai rakha”，大致意思是“囤积疾病”——等到病情极其严重才去就医。如今，一项名为Teledaktar的新型虚拟医疗服务正试图让医疗更易获取。每周，其医疗操作员乘船前往岛屿，携带笔记本电脑、便携式处方打印机以及进行血压、血糖、体温和体重等基本医疗筛查的工具。",
+      "words": [
+        {
+          "word": "colloquial",
+          "phonetic": "/kəˈloʊkwiəl/",
+          "meaning": "adj. 口语的，通俗的"
+        },
+        {
+          "word": "screenings",
+          "phonetic": "/ˈskriːnɪŋz/",
+          "meaning": "n. 筛查，检查"
+        }
+      ]
+    },
+    {
+      "en": "They choose an area of the island with the best Internet reception and set up a makeshift medical center which consists of plastic stools and small tables borrowed from the locals' homes, a tent in case of rain and a sheet that is strung up to give the patients privacy during their session. Launched in October 2018, Teledaktar has eight centers in towns and villages across rural Bangladesh and on three islands. It is funded by a nonprofit organization founded by Bangladeshi entrepreneurs, finance and technology professionals.",
+      "zh": "他们选择岛上网络信号最佳的区域，搭建临时医疗中心，包括从当地人家中借来的塑料凳和小桌子、一顶防雨帐篷以及一张为患者在就诊时提供隐私的挂帘。Teledaktar于2018年10月启动，在孟加拉国农村的城镇村庄以及三个岛屿上设有八个中心。它由孟加拉国企业家、金融和技术专业人士创立的非营利组织资助。",
+      "words": [
+        {
+          "word": "makeshift",
+          "phonetic": "/ˈmeɪkʃɪft/",
+          "meaning": "adj. 临时的，权宜的"
+        }
+      ]
+    },
+    {
+      "en": "Inside the center, the laptop screen lights up to reveal Dr. Tina Mustahid, Teledaktar's head physician, live-streamed from the capital city of Dhaka for free remote medical consultations. Affectionately called Doctor Apa — 'older sister' in Bengali — by her patients, she is one of three volunteer doctors at Teledaktar. 'I diagnose them through conversation,' says Dr. Mustahid. 'Sometimes it's really obvious things that local doctors don't have the patience to talk through with their patients.'",
+      "zh": "在中心内，笔记本电脑屏幕亮起，显示Teledaktar的主治医生蒂娜·穆斯塔希德从首都达卡进行直播，提供免费远程医疗咨询。她被患者亲切地称为“Apa医生”——孟加拉语中意为“姐姐”——她是Teledaktar的三名志愿医生之一。穆斯塔希德医生说：“我通过交谈来诊断他们。有时是非常明显的问题，当地医生却没有耐心与患者详细沟通。”",
+      "words": [
+        {
+          "word": "live-streamed",
+          "phonetic": "/ˈlaɪv striːmd/",
+          "meaning": "adj. 直播的"
+        }
+      ]
+    },
+    {
+      "en": "For example, a common complaint mothers come in with is that their children refuse to eat their meals. The mothers are concerned they are dealing with indigestion, but it's because they are feeding the children packaged chips which are cheap and convenient. I tell them it is ruining their appetite and ask them to cut back on unhealthy snacks. Dr. Mustahid says building awareness about health and nutrition is important for island patients who are cut off from mainland resources.",
+      "zh": "例如，母亲们常抱怨孩子不肯吃饭。她们担心是消化不良，但实际是因为她们给孩子喂食便宜方便的袋装薯片。我告诉她们这会破坏食欲，并要求减少不健康零食。穆斯塔希德医生表示，对于与大陆资源隔绝的岛屿患者来说，建立健康和营养意识非常重要。",
+      "words": [
+        {
+          "word": "indigestion",
+          "phonetic": "/ˌɪndɪˈdʒestʃən/",
+          "meaning": "n. 消化不良"
+        }
+      ]
+    },
+    {
+      "en": "Even off the islands, Bangladesh faces a critical deficit of health services. The country has half the doctors-per-person ratio recommended by the World Health Organization: roughly one doctor per 2,000 people, instead of one doctor per 1,000 people. And of those physicians, many are concentrated in cities: 70 percent of the country's population live in rural areas, yet less than 20 percent of health workers practice there.",
+      "zh": "即便在岛屿之外，孟加拉国也面临医疗服务的严重短缺。该国人均医生比例仅为世界卫生组织建议的一半：约每2000人拥有一名医生，而非每1000人一名。而这些医生中许多集中在城市：全国70%的人口居住在农村地区，却只有不到20%的卫生工作者在那里执业。",
+      "words": [
+        {
+          "word": "deficit",
+          "phonetic": "/ˈdefɪsɪt/",
+          "meaning": "n. 短缺，不足"
+        }
+      ]
+    },
+    {
+      "en": "Over 70 percent of Teledaktar's 3,000 patients are female, in part because many are not comfortable speaking with local doctors who tend to be male. The rural women are mostly not literate or confident enough to travel on their own to the nearest town to visit medical facilities. Many have spent their entire lives rebuilding their homes when the islands flood. Early marriage and young motherhood, which are prevalent in these parts of Bangladesh, also contribute to the early onset of health problems.",
+      "zh": "Teledaktar的3000名患者中超过70%是女性，部分原因是许多人不愿与往往是男性的当地医生交谈。农村妇女大多不识字，也没有足够信心独自前往最近的城镇就医。许多人一生都在岛屿洪水后重建家园。孟加拉国这些地区普遍存在的早婚和年轻母亲现象，也导致健康问题提早出现。",
+      "words": [
+        {
+          "word": "literate",
+          "phonetic": "/ˈlɪtərət/",
+          "meaning": "adj. 有读写能力的"
+        },
+        {
+          "word": "prevalent",
+          "phonetic": "/ˈprevələnt/",
+          "meaning": "adj. 普遍的，盛行的"
+        }
+      ]
+    },
+    {
+      "en": "For most Teledaktar patients on the islands, Dr. Mustahid is the first big-city doctor that they've ever consulted. Teledaktar doctors are not meant to treat serious illnesses or conditions that require a doctor to be physically present, such as pregnancy. But they can write prescriptions, diagnose common ailments — including digestive issues, joint pain, skin diseases, fever and the common cold — and refer patients to doctors at local hospitals.",
+      "zh": "对岛上大多数Teledaktar患者来说，穆斯塔希德医生是他们咨询过的第一位大城市医生。Teledaktar的医生不负责治疗需要医生亲临现场的严重疾病或状况，如怀孕。但他们可以开处方，诊断消化问题、关节疼痛、皮肤病、发烧和普通感冒等常见疾病，并将患者转介给当地医院的医生。",
+      "words": [
+        {
+          "word": "ailments",
+          "phonetic": "/ˈeɪlmənts/",
+          "meaning": "n. 疾病，小病"
+        }
+      ]
+    },
+    {
+      "en": "The visit is also an opportunity for the patients, especially women, to air their concerns about aging, motherhood and reproductive health according to Dr. Mustahid. The doctors also offer health, dietary and lifestyle advice where necessary, including insight on everything from recognizing postnatal depression to daily exercise. Dr. Mustahid regularly recommends her patients to take a daily thirty-minute morning walk before the sun gets too intense.",
+      "zh": "据穆斯塔希德医生说，这次就诊也是患者特别是女性表达对衰老、母性和生殖健康担忧的机会。医生还会在必要时提供健康、饮食和生活方式建议，涵盖从识别产后抑郁到日常锻炼的方方面面。穆斯塔希德医生经常建议患者每天早晨在阳光过强之前散步三十分钟。",
+      "words": [
+        {
+          "word": "postnatal",
+          "phonetic": "/ˌpoʊstˈneɪtl/",
+          "meaning": "adj. 产后的"
+        }
+      ]
+    },
+    {
+      "en": "After a few sessions about general health issues Fazila finally opened up about something else that was bothering her: her persistent skin condition. It can get expensive to travel to the doctor, so usually the women living on the islands describe their illness to their husbands. The husbands then go to the pharmacy, try to describe the issue and return home with some random medicines. Nothing worked for Fazila until she started seeing Doctor Apa.",
+      "zh": "经过几次关于一般健康问题的咨询后，法齐拉终于敞开心扉谈及另一件困扰她的事：她那顽固的皮肤病。去看医生可能花费不菲，因此岛上妇女通常向丈夫描述病情。丈夫们随后去药店，尝试描述问题，然后带些随机的药回家。在见到Apa医生之前，没有哪种药对法齐拉有效。",
+      "words": [
+        {
+          "word": "persistent",
+          "phonetic": "/pərˈsɪstənt/",
+          "meaning": "adj. 持续的，顽固的"
+        }
+      ]
+    },
+    {
+      "en": "Other nonprofits are also starting to provide health services on the islands. A local non-governmental organization called Friendship operates floating boat hospitals that provide health services to islands all over Bangladesh, docking at each for two months at a time. Friendship also runs satellite clinics in which one doctor and one clinic aide who are residents of the community disperse health and hygiene information.",
+      "zh": "其他非营利组织也开始在岛上提供医疗服务。一家名为“友谊”的当地非政府组织运营着浮动船医院，为孟加拉国各地的岛屿提供医疗服务，每次在每个岛屿停靠两个月。友谊还运营卫星诊所，由一名医生和一名社区常驻诊所助理传播健康和卫生信息。",
+      "words": [
+        {
+          "word": "satellite",
+          "phonetic": "/ˈsætəlaɪt/",
+          "meaning": "adj. 卫星的，附属的"
+        }
+      ]
+    },
+    {
+      "en": "Teledaktar still has a few major challenges. Many residents complain the medicines they are prescribed are sometimes unaffordable, but the government isn't doing enough for them. Patients often ask why the medicine isn't free along with the consultation from the doctors. The organizations are linked to local pharmacies and offer discounts to the patients and make sure to prescribe the most cost-effective brands, but still many residents can't afford even that.",
+      "zh": "Teledaktar仍面临一些重大挑战。许多居民抱怨开给他们的药有时买不起，但政府为他们做得不够。患者常问为什么药不能和医生咨询一样免费。这些组织与当地药店有联系，为患者提供折扣，并确保开具最具性价比的品牌处方，但许多居民仍然负担不起。",
+      "words": [
+        {
+          "word": "unaffordable",
+          "phonetic": "/ˌʌnəˈfɔːrdəbl/",
+          "meaning": "adj. 负担不起的"
+        }
+      ]
+    },
+    {
+      "en": "Nevertheless, Teledaktar's remote consultations seem to be popular: of 3,000 patients, at least 200 have returned for follow-ups, according to Teledaktar. The reason, explains one resident, might be the simple gesture of treating the island inhabitants with respect. 'Doctor Apa is patient,' he says. 'At government hospitals, the doctors treat us very badly, but here they listen to us. I can repeat myself many times and no one gets annoyed.'",
+      "zh": "尽管如此，Teledaktar的远程咨询似乎很受欢迎：据其称，在3000名患者中，至少有200人进行了复诊。一位居民解释说，原因或许是对岛民以礼相待这一简单姿态。他说：“Apa医生很有耐心。在公立医院，医生对我们态度很差，但在这里他们倾听我们。我可以重复很多遍，没人会不耐烦。”",
+      "words": [
+        {
+          "word": "follow-ups",
+          "phonetic": "/ˈfɑːloʊ ʌps/",
+          "meaning": "n. 复诊，后续跟进"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

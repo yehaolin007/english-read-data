@@ -1,0 +1,70 @@
+{
+  "id": "cet4_059",
+  "category": "cet4",
+  "title": "The Legal and Human Challenges of Self-Driving Cars",
+  "subtitle": "自动驾驶为何仍需人类关注",
+  "readTime": 2,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof. Recent evidence points to drivers' limited understanding of what these systems can and cannot do as a contributing factor to system misuse. A recent study tackles the issue of over-trusting drivers and the resulting system misuse from a legal viewpoint. It looks at what the manufacturers of self-driving cars should legally do to ensure that drivers understand how to use the vehicles appropriately.",
+      "zh": "人车交互研究表明，即使是设计用于自动驾驶的系统也远非万无一失。近期证据表明，驾驶员对这些系统能做什么和不能做什么的理解有限，是导致系统误用的一个因素。一项新研究从法律角度探讨了驾驶员过度信任及其导致的系统误用问题。它着眼于自动驾驶汽车制造商在法律上应如何确保驾驶员理解如何正确使用车辆。",
+      "words": [
+        {
+          "word": "automate",
+          "phonetic": "/ˈɔːtəmeɪt/",
+          "meaning": "v. 使自动化"
+        },
+        {
+          "word": "misuse",
+          "phonetic": "/ˌmɪsˈjuːs/",
+          "meaning": "n. 误用，滥用"
+        }
+      ]
+    },
+    {
+      "en": "One solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products. But this is far from ideal. The agreement may not provide enough information to the driver, leading to confusion about the nature of the requests for agreement and their implications. Further, most end users don't read EULAs. A 2017 study shows 91 percent of people agree to them without reading. Among young people, 97 percent agree without reviewing the terms.",
+      "zh": "研究中提出的一种解决方案是要求买家签署最终用户许可协议（EULA），类似于使用新软件产品时需同意的条款和条件。但这远非理想。协议可能无法为驾驶员提供足够信息，导致对协议请求的性质及其影响产生困惑。此外，大多数最终用户根本不读EULA。2017年一项研究显示，91%的人未读即同意。在年轻人中，97%的人未查看条款即表示同意。",
+      "words": [
+        {
+          "word": "implications",
+          "phonetic": "/ˌɪmplɪˈkeɪʃnz/",
+          "meaning": "n. 可能的影响，含义"
+        }
+      ]
+    },
+    {
+      "en": "The issue is that, unlike using a smartphone app, operating a car has serious safety risks, whether the driver is human or software. And human drivers need to consent to take responsibility for the outcomes of the software and hardware. 'Warning fatigue' and distracted driving are also causes for concern. For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message. Or, if the message is presented while the vehicle is in motion, it could represent a distraction.",
+      "zh": "问题在于，与使用智能手机应用不同，驾驶汽车具有严重的安全风险，无论驾驶员是人还是软件。而且人类驾驶员需要同意为软硬件的结果承担责任。“警告疲劳”和分心驾驶也令人担忧。例如，驾驶员在收到连续警告后感到厌烦，可能决定直接忽略信息。或者，如果信息在车辆行驶时弹出，则可能构成干扰。",
+      "words": [
+        {
+          "word": "consent",
+          "phonetic": "/kənˈsent/",
+          "meaning": "v. 同意，允许"
+        },
+        {
+          "word": "fatigue",
+          "phonetic": "/fəˈtiːɡ/",
+          "meaning": "n. 疲劳，倦怠"
+        }
+      ]
+    },
+    {
+      "en": "Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won't fully protect automakers from their legal liability should the system malfunction or an accident occur. Driver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations. This needs to occur beyond the vehicle purchase. Recent evidence shows even relying on the information provided by the seller is not going to answer many questions. All of this considered, the road forward for self-driving cars is not going to be a smooth ride after all.",
+      "zh": "鉴于这些局限和担忧，即使这种获取同意的方式得以推行，一旦系统发生故障或发生事故，它可能也无法完全保护汽车制造商免于承担法律责任。针对自动驾驶车辆的驾驶员培训有助于确保驾驶员充分了解系统的功能与局限。这需要在购车之外进行。近期证据表明，即便依赖卖方提供的信息也无法解答许多问题。综上所述，自动驾驶汽车的前行之路终究不会一帆风顺。",
+      "words": [
+        {
+          "word": "liability",
+          "phonetic": "/ˌlaɪəˈbɪləti/",
+          "meaning": "n. 责任，义务"
+        },
+        {
+          "word": "capabilities",
+          "phonetic": "/ˌkeɪpəˈbɪlətiz/",
+          "meaning": "n. 能力，功能"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

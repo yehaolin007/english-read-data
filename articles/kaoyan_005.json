@@ -1,0 +1,64 @@
+{
+  "id": "kaoyan_005",
+  "category": "kaoyan",
+  "title": "The Dawn of Reason: How Science Broke Free",
+  "subtitle": "科学如何挣脱教会的束缚：理性的觉醒",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "The Renaissance shifted European thought away from exclusive church authority toward human inquiry. Art, astronomy, and natural philosophy expanded as scholars tested observation against inherited doctrine. This movement helped bridge medieval frameworks and modern scientific habits.",
+      "zh": "文艺复兴将欧洲思想从单一的教会权威转向以人为中心的探究。随着学者用观察去检验传统教义，艺术、天文学与自然哲学蓬勃发展。这场运动推动了中世纪框架向现代科学习惯的过渡。",
+      "words": [
+        {
+          "word": "doctrine",
+          "phonetic": "/ˈdɑːktrɪn/",
+          "meaning": "n. 教义，学说"
+        },
+        {
+          "word": "medieval",
+          "phonetic": "/ˌmediˈiːvl/",
+          "meaning": "adj. 中世纪的"
+        }
+      ]
+    },
+    {
+      "en": "Copernicus proposed a sun-centered system, and Kepler plus Galileo strengthened it through calculation and observation. In a tense religious climate, such claims were often branded as heresy and punished harshly. Even so, accumulating evidence spread faster than institutions could suppress it.",
+      "zh": "哥白尼提出了日心体系，开普勒与伽利略又通过计算和观测加以强化。在宗教气氛紧张的时代，此类主张常被贴上异端标签并遭到严厉惩罚。即便如此，日益积累的证据传播速度仍超过了制度的压制能力。",
+      "words": [
+        {
+          "word": "heresy",
+          "phonetic": "/ˈherəsi/",
+          "meaning": "n. 异端，异端邪说"
+        },
+        {
+          "word": "suppress",
+          "phonetic": "/səˈpres/",
+          "meaning": "v. 压制，禁止"
+        },
+        {
+          "word": "accumulating",
+          "phonetic": "/əˈkjuːmjəleɪtɪŋ/",
+          "meaning": "adj. 累积的，日益增加的"
+        }
+      ]
+    },
+    {
+      "en": "By the seventeenth century, confidence in reason and method became a defining spirit of intellectual life. Thinkers increasingly treated knowledge as something to verify, not merely receive from authority. That transition laid key groundwork for the Age of Reason and later Enlightenment debates.",
+      "zh": "到了十七世纪，对理性与方法的信心已成为思想生活的标志性精神。思想家们越来越将知识视为需要验证的东西，而非仅仅从权威处被动接受。这一转变为理性时代及随后的启蒙运动争论奠定了关键基础。",
+      "words": [
+        {
+          "word": "verify",
+          "phonetic": "/ˈverɪfaɪ/",
+          "meaning": "v. 证实，核实"
+        },
+        {
+          "word": "groundwork",
+          "phonetic": "/ˈɡraʊndwɜːrk/",
+          "meaning": "n. 基础，根基"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

@@ -1,0 +1,102 @@
+{
+  "id": "cet6_044",
+  "category": "cet6",
+  "title": "How AI Reshapes Human Judgment",
+  "subtitle": "算法取代判断：人工智能如何重塑人性",
+  "readTime": 3,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Technology is never a neutral tool for achieving human ends. Technological innovations reshape people as they use these innovations to control their environment. Artificial intelligence, for example, is altering humanity. While the term AI conjures up anxieties about killer robots or catastrophic levels of unemployment, there are other, deeper implications.",
+      "zh": "技术从来不是实现人类目的的中立工具。技术创新在人们用以控制环境的同时，也重塑了人类自身。例如，人工智能正在改变人性。虽然“人工智能”一词会引发人们对杀手机器人或灾难性失业的焦虑，但其背后还有更深远的影响。",
+      "words": [
+        {
+          "word": "neutral",
+          "phonetic": "/ˈnuːtrəl/",
+          "meaning": "adj. 中立的"
+        },
+        {
+          "word": "conjure up",
+          "phonetic": "/ˈkʌndʒər ʌp/",
+          "meaning": "phr. 使浮现脑海；唤起"
+        }
+      ]
+    },
+    {
+      "en": "As AI increasingly shapes the human experience, how does this change what it means to be human? Central to the problem is a person's capacity to make choices, particularly judgments that have moral implications. Aristotle argued that the capacity for making practical judgments depends on regularly making them — on habit and practice.",
+      "zh": "随着人工智能日益塑造人类体验，这将如何改变“生而为人”的意义？问题的核心在于人做出选择的能力，尤其是那些具有道德意涵的判断。亚里士多德认为，做出实践判断的能力取决于经常运用这种判断——即依赖于习惯与练习。",
+      "words": [
+        {
+          "word": "implication",
+          "phonetic": "/ˌɪmplɪˈkeɪʃn/",
+          "meaning": "n. 含意；影响"
+        }
+      ]
+    },
+    {
+      "en": "We see the emergence of machines as substitute judges in a variety of everyday contexts as a potential threat to people learning how to effectively exercise judgment themselves. In the workplace, managers routinely make decisions about who to hire or fire and which loan to approve, to name a few. These are areas where algorithmic prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will.",
+      "zh": "我们看到，机器在各类日常场景中正作为替代裁判者出现，这对人们学习如何有效运用自身判断力构成了潜在威胁。在工作场所，管理者日常需要决定招聘或解雇谁、批准哪笔贷款等等。在这些领域，算法指令正取代人类判断，因此那些本有机会在这些方面培养实践判断力的人将不再有此机会。",
+      "words": [
+        {
+          "word": "algorithmic",
+          "phonetic": "/ˌælɡəˈrɪðmɪk/",
+          "meaning": "adj. 算法的"
+        },
+        {
+          "word": "prescription",
+          "phonetic": "/prɪˈskrɪpʃn/",
+          "meaning": "n. 指令；规定"
+        }
+      ]
+    },
+    {
+      "en": "Recommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck. By presenting consumers with algorithmically selected choices of what to watch, read, stream and visit next, companies are replacing human taste with machine taste. In one sense, this is helpful.",
+      "zh": "推荐引擎作为人们文化消费中日益普遍的中介，可能会限制选择并减少运气的成分。公司通过向消费者呈现由算法挑选的接下来该看什么、读什么、播放什么、访问哪里的选项，正在用机器品味取代人类品味。从某种意义上说，这颇有助益。",
+      "words": [
+        {
+          "word": "intermediary",
+          "phonetic": "/ˌɪntərˈmiːdieri/",
+          "meaning": "n. 中介；媒介"
+        }
+      ]
+    },
+    {
+      "en": "After all, machines can survey a wider range of choices than any individual is likely to have the time or energy to do on their own. At the same time, though, this selection is optimizing for what people are likely to prefer based on what they've preferred in the past. We think there is some risk that people's options will be constrained by their past in a new and unanticipated way.",
+      "zh": "毕竟，机器能够审视比任何个人凭一己之力和时间精力所能浏览的范围更广的选择。但与此同时，这种筛选是在根据人们过去的偏好来优化他们未来可能喜欢的内容。我们认为存在某种风险，即人们的选择将以一种全新且未曾预料的方式被其过往所束缚。",
+      "words": [
+        {
+          "word": "constrain",
+          "phonetic": "/kənˈstreɪn/",
+          "meaning": "v. 限制；约束"
+        },
+        {
+          "word": "unanticipated",
+          "phonetic": "/ˌʌnænˈtɪsɪpeɪtɪd/",
+          "meaning": "adj. 未预料到的"
+        }
+      ]
+    },
+    {
+      "en": "As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable. The predictions are going to get better and better, and they will ultimately make common experiences more efficient and pleasant. Algorithms could soon — if they don't already — have a better idea about which show you'd like to watch next and which job candidate you should hire than you do.",
+      "zh": "随着机器学习算法的改进及其在更广泛数据集上的训练，日常生活的更大部分可能会变得完全可预测。预测将越来越精准，并最终使日常体验变得更加高效和愉悦。算法可能很快——如果尚未如此的话——就会比你自己更清楚你接下来想看什么节目、该聘用哪位求职者。",
+      "words": [
+        {
+          "word": "utterly",
+          "phonetic": "/ˈʌtərli/",
+          "meaning": "adv. 完全地；彻底地"
+        }
+      ]
+    },
+    {
+      "en": "One day, humans may even find a way for machines to make these decisions without some of the biases that humans typically display. But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant. As they become more and more predictable, the creatures inhabiting the increasingly AI-mediated world will become less and less like us.",
+      "zh": "终有一天，人类甚至可能找到让机器做出这些决策而不带人类常见偏见的方法。但就不可预测性既是人们理解自我的组成部分，也是人们喜爱自身的部分特质而言，人类正在失去某些重要的东西。随着居住在日益由AI介导的世界中的生物变得越来越可预测，他们将变得越来越不像我们。",
+      "words": [
+        {
+          "word": "mediate",
+          "phonetic": "/ˈmiːdieɪt/",
+          "meaning": "v. 介导；调停"
+        }
+      ]
+    }
+  ]
+}

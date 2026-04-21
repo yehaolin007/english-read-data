@@ -1,0 +1,81 @@
+{
+  "id": "kaoyan_002",
+  "category": "kaoyan",
+  "title": "Scientific Publishing and the Price of Access",
+  "subtitle": "开放获取困境：科研知识为何仍然昂贵封闭",
+  "readTime": 2,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Scientific publishing has long been extraordinarily profitable. Scientists submit papers for free, and other scientists perform peer review for free because it builds status and knowledge. Once content is obtained at near-zero cost, publishers mainly need paying subscribers.",
+      "zh": "学术出版长期以来几乎是一门高利润生意。科学家为了发表成果会免费提交论文，同行评审也常由科学家无偿完成，因为这关系到学术声望和知识生产。内容成本接近于零后，出版商主要要做的就是把期刊卖出去。",
+      "words": [
+        {
+          "word": "peer review",
+          "phonetic": "/pɪr rɪˈvjuː/",
+          "meaning": "n. 同行评审"
+        }
+      ]
+    },
+    {
+      "en": "For much of the twentieth century, university libraries were relatively insensitive to price. Even now, when much of publishing faces a crisis, major scientific publishers still report margins near 40 percent. Elsevier alone reported profits above £900 million last year.",
+      "zh": "在20世纪的大部分时间里，大学图书馆对期刊价格并不敏感。即便如今整个出版业都面临压力，主要学术出版商仍经常报告接近40%的利润率。仅爱思唯尔去年利润就超过9亿英镑。",
+      "words": [
+        {
+          "word": "margin",
+          "phonetic": "/ˈmɑːrdʒɪn/",
+          "meaning": "n. 利润率；边缘"
+        }
+      ]
+    },
+    {
+      "en": "At the same time, UK universities spent over £210 million in 2016 to let researchers read work largely funded by public money. Reform efforts have intensified, yet both publisher profits and access costs keep rising. This imbalance helped fuel the growth of Sci-Hub, founded in 2012 and now claiming access to almost all paywalled papers published since 2015.",
+      "zh": "与此同时，仅英国高校在2016年就花费超过2.1亿英镑，让研究者阅读本就主要由公共资金支持的成果。尽管改革呼声越来越高，出版利润和获取成本仍在上升。这种失衡推动了 Sci-Hub 的扩张，该平台建立于2012年，并声称可访问2015年以来几乎所有付费墙论文。",
+      "words": [
+        {
+          "word": "imbalance",
+          "phonetic": "/ɪmˈbæləns/",
+          "meaning": "n. 失衡，不平衡"
+        }
+      ]
+    },
+    {
+      "en": "Sci-Hub operates illegally, but its popularity reveals a deeper problem. It depends on researchers sharing papers they legally obtained, suggesting many users no longer see the current system as legitimate. In Britain, funding bodies have therefore pushed strongly for open-access publishing.",
+      "zh": "Sci-Hub 的运作明显违法，但它的流行揭示了更深层问题。该平台依赖研究者分享自己合法获取的论文副本，说明许多使用者已不再认可现行体系的正当性。正因如此，英国的资助机构近年来持续推动开放获取。",
+      "words": [
+        {
+          "word": "legitimate",
+          "phonetic": "/lɪˈdʒɪtɪmət/",
+          "meaning": "adj. 正当的，合理的"
+        }
+      ]
+    },
+    {
+      "en": "That shift has had partial success. More than half of British scientific research is now open access, either immediately free or released after an embargo period. Yet universities have not seen overall costs fall.",
+      "zh": "这种转向在一定程度上已经见效。如今英国超过一半科研成果采用开放获取，要么发表即免费，要么在封锁期后开放。可大学总体支出并没有因此下降。",
+      "words": [
+        {
+          "word": "embargo",
+          "phonetic": "/ɪmˈbɑːrɡoʊ/",
+          "meaning": "n. 禁令；封锁期"
+        }
+      ]
+    },
+    {
+      "en": "Publishers often respond by charging authors article-processing fees, commonly well above £1,000 per paper. Those charges are usually paid by universities and government agencies, which often funded the research in the first place. One estimate from the University of California puts the global annual bill above $1 billion.",
+      "zh": "出版商常见的应对方式是向作者收取论文处理费，单篇通常远超1000英镑。这些费用大多仍由大学和政府机构支付，而它们往往也是研究经费的原始来源。加州大学一项估算显示，此类支出全球每年超过10亿美元。",
+      "words": []
+    },
+    {
+      "en": "Building a truly open scientific system will require international coordination. But until a fair alternative exists, simply banning Sci-Hub does not solve the underlying injustice.",
+      "zh": "要建立真正开放且可持续的科学传播体系，需要跨国协同与制度重构。但在替代方案尚未成熟之前，简单封禁 Sci-Hub 并不能解决根本不公。",
+      "words": [
+        {
+          "word": "underlying",
+          "phonetic": "/ˌʌndərˈlaɪɪŋ/",
+          "meaning": "adj. 根本的，潜在的"
+        }
+      ]
+    }
+  ]
+}

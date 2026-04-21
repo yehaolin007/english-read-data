@@ -1,0 +1,80 @@
+{
+  "id": "cet4_075",
+  "category": "cet4",
+  "title": "How Reliable Are DNA Tests?",
+  "subtitle": "基因检测到底有多准？",
+  "readTime": 2,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "With genetic testing becoming increasingly popular, many people are left wondering exactly how accurate it is. Whether you are taking a DNA test to build your extended DNA family tree, or want precise information on inborn health conditions, it is important to understand how accurate genetic tests are, and what information we can rely upon. How accurate DNA tests are relies greatly upon the kind of test being taken, on the specific question you ask, and on how complex the genetics behind a trait is.",
+      "zh": "随着基因检测日益普及，许多人不免疑惑：它到底有多准确？无论你是想通过DNA检测构建庞大的家族树，还是希望获取先天健康状况的精确信息，了解基因检测的准确性及可依赖的信息都至关重要。DNA检测的准确性很大程度上取决于检测类型、所问的具体问题以及性状背后遗传机制的复杂程度。",
+      "words": [
+        {
+          "word": "genetic",
+          "phonetic": "/dʒəˈnetɪk/",
+          "meaning": "adj. 基因的，遗传的"
+        },
+        {
+          "word": "inborn",
+          "phonetic": "/ˌɪnˈbɔːrn/",
+          "meaning": "adj. 天生的，先天的"
+        }
+      ]
+    },
+    {
+      "en": "For example, tests for traits that depend on a single gene provide much more reliable results, because you can see whether a disease-causing trait is present. Ancestry tests claim to reveal our genetic identities. But saying you are 30 percent East Asian or American hardly reflects your real ancestry. What about using DNA tests to discover distant family members? There are tools to compare one's DNA with others' to find distant relatives based on their genetic identification. These kinds of applications are generally accurate. It's relatively easy to tell whether two DNA samples belong to close relatives.",
+      "zh": "例如，针对单基因决定的性状进行检测，结果要可靠得多，因为可以直接看出是否存在致病基因。血统检测声称能揭示我们的遗传身份。但说你有30%的东亚或美国血统，远不能反映真实的祖先来源。那么用DNA检测寻找远亲呢？目前有工具可将个人DNA与他人比对，根据基因识别找到远亲。这类应用通常比较准确，判断两份DNA样本是否来自近亲也相对容易。",
+      "words": [
+        {
+          "word": "ancestry",
+          "phonetic": "/ˈænsestri/",
+          "meaning": "n. 祖先，血统"
+        },
+        {
+          "word": "distant",
+          "phonetic": "/ˈdɪstənt/",
+          "meaning": "adj. 远亲的，遥远的"
+        }
+      ]
+    },
+    {
+      "en": "With distant relatives, results become hazier. Genetic health tests claim to be able to detect certain hereditary diseases, or other health conditions. While certain rare diseases can be easily identified, most potential health conditions cannot be identified by genetic testing alone. The large majority of our traits and diseases also depend upon non-genetic factors, such as lifestyle, the environment, and many others. Genetic tests for multi-factorial traits are often very tricky to interpret.",
+      "zh": "但对于远亲，结果就模糊得多了。基因健康检测声称能发现某些遗传病或其他健康状况。虽然某些罕见病容易被识别，但多数潜在健康问题无法仅靠基因检测判定。我们的绝大多数性状和疾病还取决于非遗传因素，如生活方式、环境等。针对多因素性状的基因检测通常很难解读。",
+      "words": [
+        {
+          "word": "hazier",
+          "phonetic": "/ˈheɪziər/",
+          "meaning": "adj. 更模糊的，更朦胧的"
+        },
+        {
+          "word": "hereditary",
+          "phonetic": "/həˈredɪteri/",
+          "meaning": "adj. 遗传的"
+        },
+        {
+          "word": "multi-factorial",
+          "phonetic": "/ˌmʌlti fækˈtɔːriəl/",
+          "meaning": "adj. 多因素的"
+        }
+      ]
+    },
+    {
+      "en": "Height, for example, depends on hundreds of genes, each contributing a little to the outcome, together with a bunch of environmental factors. A test can look at many genes at once, but it's difficult to predict how they will play together. Then you should also account for non-genetic factors that are not written in the DNA. Tests that offer to find your perfect romantic match and those claiming to predict personality or talents based on your DNA are pure nonsense. At the moment, the scientific bases for these applications are nonexistent or incredibly weak.",
+      "zh": "以身高为例，它取决于数百个基因，每个基因贡献微乎其微，再加上一堆环境因素。检测可同时查看多个基因，但很难预测它们如何协同作用。此外还需考虑DNA中未记载的非遗传因素。那些声称能根据DNA找到完美伴侣，或预测性格与天赋的检测纯属无稽之谈。目前这些应用的科学基础根本不存在，或极其薄弱。",
+      "words": [
+        {
+          "word": "contributing",
+          "phonetic": "/kənˈtrɪbjuːtɪŋ/",
+          "meaning": "v. 贡献，起作用"
+        },
+        {
+          "word": "nonsense",
+          "phonetic": "/ˈnɑːnsens/",
+          "meaning": "n. 胡说，废话"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": "cet6_036",
+  "category": "cet6",
+  "title": "The Gender Gap in Academic Journal Editors",
+  "subtitle": "学术期刊编辑的性别鸿沟：谁在决定什么值得发表",
+  "readTime": 3,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Journal editors decide what gets published and what doesn't, affecting the careers of other academics and influencing the direction that a field takes. You'd hope, then, that journals would do everything they can to establish a diverse editorial board, reflecting a variety of voices, experiences, and identities. Unfortunately a new study in Nature Neuroscience makes for disheartening reading.",
+      "zh": "期刊编辑决定着哪些论文能够发表，哪些不能，这影响着其他学者的职业生涯，也左右着一个学科的发展方向。因此，人们自然希望期刊会尽其所能组建多元化的编辑委员会，以反映不同的声音、经验和身份。遗憾的是，《自然·神经科学》杂志上的一项新研究读来令人沮丧。",
+      "words": [
+        {
+          "word": "diverse",
+          "phonetic": "/daɪˈvɜːrs/",
+          "meaning": "adj. 多元的；多样的"
+        },
+        {
+          "word": "disheartening",
+          "phonetic": "/dɪsˈhɑːrtnɪŋ/",
+          "meaning": "adj. 令人沮丧的"
+        }
+      ]
+    },
+    {
+      "en": "The team finds that the majority of editors in top psychology and neuroscience journals are male and based in the United States: a situation that may be amplifying existing gender inequalities in the field and influencing the kind of research that gets published. Men were found to account for 60% of the editors of psychology journals. There were significantly more male than female editors at each level of seniority, and men made up the majority of editors in over three quarters of the journals. Crucially, the proportion of female editors was significantly lower than the overall proportion of women psychology researchers.",
+      "zh": "研究团队发现，顶级心理学和神经科学期刊的编辑大多为男性且来自美国，这种状况可能正在加剧该领域现有的性别不平等，并影响所发表研究的类型。研究发现，心理学期刊编辑中男性占60%。在各级资历层次上，男性编辑数量均显著多于女性，且超过四分之三的期刊中男性编辑占多数。关键的是，女性编辑的比例显著低于女性心理学研究人员的总体比例。",
+      "words": [
+        {
+          "word": "amplify",
+          "phonetic": "/ˈæmplɪfaɪ/",
+          "meaning": "v. 放大；加剧"
+        },
+        {
+          "word": "seniority",
+          "phonetic": "/ˌsiːniˈɔːrəti/",
+          "meaning": "n. 资历；年长"
+        }
+      ]
+    },
+    {
+      "en": "The differences were even starker in the neuroscience journals: 70% of editors were male, and men held the majority of editorial positions in 88% of journals. In this case, the proportion of female editors was not significantly lower than the proportion of female researchers working in neuroscience — a finding that reveals enduring gender disparities in the field more broadly. Based on their results, the team concludes that \"the ideas, values and decision-making biases of men are overrepresented in the editorial positions of the most recognized academic journals in psychology and neuroscience.\"",
+      "zh": "神经科学期刊中的差异更为明显：70%的编辑为男性，且男性在88%的期刊中占据多数编辑职位。不过在此情况下，女性编辑的比例与神经科学领域女性研究人员的总体比例并无显著差异——这一发现更广泛地揭示了该领域长期存在的性别失衡。基于这些结果，研究团队得出结论：“在心理学和神经科学领域最受认可的学术期刊编辑职位中，男性的想法、价值观和决策偏见占据了过高的比例。”",
+      "words": [
+        {
+          "word": "stark",
+          "phonetic": "/stɑːrk/",
+          "meaning": "adj. 鲜明的；明显的"
+        },
+        {
+          "word": "disparity",
+          "phonetic": "/dɪˈspærəti/",
+          "meaning": "n. 差异；不平等"
+        }
+      ]
+    },
+    {
+      "en": "Gender inequality in science is often attributed to the fact that senior academics are more likely to be male, because historically science was male-dominated: it's argued that as time goes on and more women rise to senior roles, the field will become more equal. Yet this study showed that even the junior roles in psychology journals tended to be held disproportionately by men, despite the fact that there are actually more female than male junior psychology faculty. This implies that a lack of female academics is not the problem.",
+      "zh": "科学领域的性别不平等常被归因于资深学者多为男性这一事实，因为历史上科学界由男性主导。人们认为随着时间的推移，更多女性晋升至高级职位，该领域将变得更加平等。然而，这项研究表明，即便心理学期刊中的初级编辑职位，男性比例也往往过高，而事实上心理学初级教员中女性数量多于男性。这意味着问题并不在于女性学者的匮乏。",
+      "words": [
+        {
+          "word": "attribute to",
+          "phonetic": "/əˈtrɪbjuːt tuː/",
+          "meaning": "phr. 归因于"
+        },
+        {
+          "word": "disproportionately",
+          "phonetic": "/ˌdɪsprəˈpɔːrʃənətli/",
+          "meaning": "adv. 不成比例地"
+        }
+      ]
+    },
+    {
+      "en": "Instead, there are structural reasons that women are disadvantaged in science. Women receive lower salaries and face greater childcare demands, for instance, which can result in fewer publications and grants — the kinds of things that journals look for when deciding who to appoint. Rather than simply blaming the inequality of editorial boards on tradition, we should be actively breaking down these existing barriers. A lack of diversity among journal editors also likely contributes to psychology's WEIRD problem. If journal editors are largely men from the United States, then they will probably place higher value on papers that are relevant to Western, male populations, whether consciously or not.",
+      "zh": "相反，女性在科学领域处于劣势有其结构性原因。例如，女性薪资较低、育儿负担更重，这可能导致其发表论文和获得资助的数量减少——而这些恰恰是期刊在决定编辑人选时所看重的。我们不应简单地将编辑委员会的不平等归咎于传统，而应积极打破这些现存的障碍。期刊编辑缺乏多样性，也很可能加剧了心理学领域的“怪异”问题。如果期刊编辑主要是来自美国的男性，那么无论有意无意，他们都可能更看重与西方男性群体相关的论文。",
+      "words": [
+        {
+          "word": "structural",
+          "phonetic": "/ˈstrʌktʃərəl/",
+          "meaning": "adj. 结构性的"
+        },
+        {
+          "word": "consciously",
+          "phonetic": "/ˈkɑːnʃəsli/",
+          "meaning": "adv. 有意识地"
+        }
+      ]
+    }
+  ]
+}

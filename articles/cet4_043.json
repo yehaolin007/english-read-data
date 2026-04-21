@@ -1,0 +1,187 @@
+{
+  "id": "cet4_043",
+  "category": "cet4",
+  "title": "The Spoken Web: Promise and Challenges",
+  "subtitle": "语音网络：让互联网开口说话",
+  "readTime": 5,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "We're growing more used to chatting to our computers, phones and smart speakers through voice assistants like Amazon's Alexa, Apple's Siri and Microsoft's Cortana. Blind and partially sighted people have been using text-to-speech converters for decades. Out of these assistants, Siri is the most well-known. The assistant uses voice inquiries and a natural language user interface to answer questions. The software adapts to users' individual language usages, searches, and preferences, with continuing use. Some think voice could soon take over from typing and clicking as the main way to interact online. But what are the challenges of moving to the spoken web?",
+      "zh": "我们越来越习惯通过亚马逊Alexa、苹果Siri和微软Cortana等语音助手与电脑、手机和智能音箱对话。盲人和弱视人士使用文本转语音转换器已有数十年之久。在这些助手中，Siri最为知名。该助手使用语音查询和自然语言用户界面来回答问题。随着持续使用，软件会适应用户个人的语言习惯、搜索和偏好。有人认为语音很快将取代打字和点击，成为在线互动的主要方式。但转向“语音网络”面临哪些挑战？",
+      "words": [
+        {
+          "word": "text-to-speech",
+          "phonetic": "/tekst tə spiːtʃ/",
+          "meaning": "adj. 文本转语音的"
+        },
+        {
+          "word": "interface",
+          "phonetic": "/ˈɪntərfeɪs/",
+          "meaning": "n. 界面，接口"
+        }
+      ]
+    },
+    {
+      "en": "What use is written online content if you can't read? That is the situation facing illiterate African farmers. They are often denied crucial information the web offers many others. With a literacy rate in some parts of Africa at only 22.6%, farmers are often underpaid for their produce because they might be unaware of the prevailing prices, says Francis Dittoh, a researcher behind Mr Meteo, a speech-based weather information service.",
+      "zh": "如果你不识字，网上的文字内容有什么用？这正是非洲不识字的农民所面临的处境。他们常常无法获取网络为许多人提供的关键信息。基于语音的天气信息服务Mr Meteo的研究员弗朗西斯·迪托表示，非洲某些地区的识字率仅为22.6%，农民往往因不了解现行价格而让自己的农产品卖价过低。",
+      "words": [
+        {
+          "word": "illiterate",
+          "phonetic": "/ɪˈlɪtərət/",
+          "meaning": "adj. 不识字的，文盲的"
+        },
+        {
+          "word": "prevailing",
+          "phonetic": "/prɪˈveɪlɪŋ/",
+          "meaning": "adj. 现行的，普遍的"
+        }
+      ]
+    },
+    {
+      "en": "The most frequently heard complaint is about rainfall predictions, says Mr Dittoh, who lives in Tamale, northern Ghana. They tell us the methods their forefathers used to predict the weather don't seem to work as well these days. This is down to climate change, he believes. Yet knowing when it's going to rain is vital for farmers wanting to sow seeds, irrigate crops or take their animals out to the fields to feed on grass.",
+      "zh": "住在加纳北部塔马利的迪托先生说：“最常听到的抱怨是关于降雨预测。他们告诉我们，祖先用来预测天气的方法如今似乎不再那么管用了。”他认为这归因于气候变化。然而，对于想要播种、灌溉作物或将牲畜带到田间吃草的农民来说，知道何时下雨至关重要。",
+      "words": [
+        {
+          "word": "forefathers",
+          "phonetic": "/ˈfɔːrfɑːðərz/",
+          "meaning": "n. 祖先，先辈"
+        },
+        {
+          "word": "irrigate",
+          "phonetic": "/ˈɪrɪɡeɪt/",
+          "meaning": "v. 灌溉"
+        }
+      ]
+    },
+    {
+      "en": "Mr Dittoh says the idea of converting online weather reports into speech came from the farmers themselves, after a workshop in the village of Guabuligah. They came up with this, he says. Mr Meteo takes the online weather forecast, converts it to a short recording in the appropriate language and makes it available on a basic phone. Farmers ring up to receive the information. The local language Dagbani is spoken by 1.2 million people but is not served by any online translation applications. The service was designed to be cheap and easy to run, says Mr Dittoh. He plans to begin field tests this month, working with Tamale's Savanna Agricultural Research Institute.",
+      "zh": "迪托先生说，将在线天气预报转化为语音的想法来自农民自身，是在瓜布利加村的一次研讨会后提出的。他说：“是他们自己想出来的。”Mr Meteo获取在线天气预报，将其转换为相应语言的简短录音，并让用户能在普通手机上收听。农民打电话即可获取信息。当地语言达格巴尼语有120万人使用，但没有任何在线翻译应用支持该语言。迪托先生表示，这项服务的设计初衷是低成本且易于运行。他计划本月与塔马利的稀树草原农业研究所合作开始实地测试。",
+      "words": [
+        {
+          "word": "converting",
+          "phonetic": "/kənˈvɜːrtɪŋ/",
+          "meaning": "v. 转换，转变"
+        },
+        {
+          "word": "appropriate",
+          "phonetic": "/əˈproʊpriət/",
+          "meaning": "adj. 合适的，恰当的"
+        }
+      ]
+    },
+    {
+      "en": "The spoken web could also help the one-in-five adults in Europe and the US with poor reading skills. But building the spoken web — web-to-voice and voice-to-web — isn't straightforward. For software to understand pizza is served at Italian restaurants is easy. To cover multiple domains and to be able to have a conversation with users on every single topic is still a long way off.",
+      "zh": "语音网络还可以帮助欧洲和美国五分之一阅读能力较差的成年人。但构建语音网络——从网络到语音以及从语音到网络——并非易事。让软件理解“披萨是在意大利餐厅供应的”很容易。但要覆盖多个领域，并能与用户就每个话题进行对话，还有很长的路要走。",
+      "words": [
+        {
+          "word": "straightforward",
+          "phonetic": "/ˌstreɪtˈfɔːrwərd/",
+          "meaning": "adj. 简单的，直接的"
+        },
+        {
+          "word": "domains",
+          "phonetic": "/doʊˈmeɪnz/",
+          "meaning": "n. 领域，范围"
+        }
+      ]
+    },
+    {
+      "en": "So although many computer assistants can answer simple questions about the weather and play music for us, anything resembling a wide-ranging human conversation is decades away. Artificial intelligence just isn't smart enough yet. Even turning your voice into text — automatic speech recognition — is one of the hardest problems to solve, as there are as many ways to pronounce things as there are people on the planet.",
+      "zh": "因此，尽管许多计算机助手能回答简单的天气问题并为我们播放音乐，但任何类似于广泛人类对话的功能还需数十年才能实现。人工智能还不够聪明。即便是将语音转化为文字——自动语音识别——也是极难解决的问题之一，因为地球上有多少人，就有多少种发音方式。",
+      "words": [
+        {
+          "word": "resembling",
+          "phonetic": "/rɪˈzemblɪŋ/",
+          "meaning": "v. 类似于，像"
+        },
+        {
+          "word": "artificial intelligence",
+          "phonetic": "/ˌɑːrtɪˈfɪʃl ɪnˈtelɪdʒəns/",
+          "meaning": "n. 人工智能"
+        }
+      ]
+    },
+    {
+      "en": "Siri has often been praised for its ability to interpret our casual language and deliver very specific and accurate results, sometimes even providing additional information. But it is still somewhat restricted, particularly when the language moves away from stiffer commands into more human interactions. In one example, the phrase 'Send a text to Jason, Clint, Sam, and Lee saying we're having dinner at Silver Cloud restaurant' was interpreted as sending a message to Jason only, containing the text 'Clint Sam and Lee saying we're having dinner at Silver Cloud restaurant'. It has also been noted that Siri lacks a proper editing function, as saying 'Edit message to say: we're at Silver Cloud restaurant and you should come find us' generates 'Clint Sam and Lee saying we're having dinner at Silver Cloud restaurant to say we're at Silver Cloud restaurant and you should come find us'.",
+      "zh": "Siri常因能解读我们的随意语言并给出非常具体准确的结果而受到称赞，有时甚至能提供额外信息。但它仍然存在一定局限，尤其是当语言从生硬的命令转向更人性化的互动时。例如，短语“给Jason、Clint、Sam和Lee发短信说我们在银云餐厅吃晚饭”被解读为只向Jason发送消息，内容为“Clint Sam and Lee说我们在银云餐厅吃晚饭”。人们还注意到Siri缺乏恰当的编辑功能，如果说“编辑消息为：我们在银云餐厅，你该来找我们”，生成的却是“Clint Sam and Lee说我们在银云餐厅吃晚饭，改为我们在银云餐厅，你该来找我们”。",
+      "words": [
+        {
+          "word": "interpret",
+          "phonetic": "/ɪnˈtɜːrprɪt/",
+          "meaning": "v. 解读，理解"
+        },
+        {
+          "word": "restricted",
+          "phonetic": "/rɪˈstrɪktɪd/",
+          "meaning": "adj. 受限制的，有限的"
+        }
+      ]
+    },
+    {
+      "en": "Using voice interaction feels far more intimate than surfing the net the old-fashioned way. This is intentional as the informal tone of the assistant helps create an emotional attachment. But if something speaks, it must also listen. Our phones are always near us and they are collecting data about us all the time. This has already raised privacy concerns. The American Civil Liberties Union has stated that digital assistants create a threat to privacy from hackers. Some people have other concerns. They worry assistants will one day be used to deliver advertising directly to us.",
+      "zh": "使用语音交互感觉比传统上网方式要亲密得多。这是有意为之，因为助手随意的语调有助于建立情感依恋。但会说话的东西也必然会倾听。我们的手机始终在身边，它们一直在收集关于我们的数据。这已经引发了隐私担忧。美国公民自由联盟指出，数字助手带来了黑客侵犯隐私的威胁。一些人还有其他顾虑，他们担心有朝一日助手会被用来直接向我们推送广告。",
+      "words": [
+        {
+          "word": "intimate",
+          "phonetic": "/ˈɪntɪmət/",
+          "meaning": "adj. 亲密的，私密的"
+        },
+        {
+          "word": "attachment",
+          "phonetic": "/əˈtætʃmənt/",
+          "meaning": "n. 依恋，情感联系"
+        }
+      ]
+    },
+    {
+      "en": "But digital voices need more personality to make them popular. Robots are not yet witty, Siri is boring. The benefits of using voice instead of tapping fingers obviously depend on the context. Doctors completing online forms about their patients by speech, for example, can dictate 150 words a minute, three times faster than typing on a keyboard. This enables them to spend less time on administration and more time with patients.",
+      "zh": "但数字声音需要更多个性才能流行起来。机器人还不够风趣，Siri有些乏味。使用语音而非敲击手指的好处显然取决于具体情境。例如，医生通过语音填写患者在线表格时，每分钟可听写150个词，比键盘打字快三倍。这让他们能花更少时间在行政事务上，把更多时间留给患者。",
+      "words": [
+        {
+          "word": "witty",
+          "phonetic": "/ˈwɪti/",
+          "meaning": "adj. 风趣的，诙谐的"
+        },
+        {
+          "word": "dictate",
+          "phonetic": "/ˈdɪkteɪt/",
+          "meaning": "v. 口述，听写"
+        }
+      ]
+    },
+    {
+      "en": "Last year, speech recognition company Nuance helped a doctors' surgery in Dukinfield, near Manchester, set up a speech system for the practice's six doctors. Now they can dictate notes on a patient's health condition and treatment and a smart assistant automatically enters the information into the right fields on a web form. Previously, the doctors made voice recordings that were then transcribed by secretaries — a process that was costly and likely to cause delays. The new system means letters to patients now have more detail.",
+      "zh": "去年，语音识别公司Nuance帮助曼彻斯特附近杜金菲尔德的一家诊所为其六名医生建立了语音系统。现在，医生可以口述关于患者健康状况和治疗方案的记录，智能助手会自动将信息填入网页表单的正确字段。此前，医生先进行录音，再由秘书转录——这一过程成本高昂且容易造成延误。新系统意味着给患者的信件现在包含了更多细节。",
+      "words": [
+        {
+          "word": "transcribed",
+          "phonetic": "/trænˈskraɪbd/",
+          "meaning": "v. 转录，记录"
+        },
+        {
+          "word": "costly",
+          "phonetic": "/ˈkɔːstli/",
+          "meaning": "adj. 昂贵的，代价高的"
+        }
+      ]
+    },
+    {
+      "en": "Using voice also makes sense when you're doing other things with your hands. Think about when you're cooking, and you just want to know what the next step in the recipe is. Your hands are covered with oil; you're not going to get on the iPad, so it's a lot more natural to talk. And speech obviously makes sense when you're driving. In the US, 29% of drivers admit they surf behind the wheel, according to insurance firm State Farm. This is up from 13% in 2009. No wonder using mobile phones while driving causes more crashes a year than drink driving, says the US National Safety Council.",
+      "zh": "当你双手在做其他事情时，使用语音也很有意义。设想你正在做饭，只想看看食谱的下一步是什么。你双手沾满油渍，不会去碰iPad，此时用语音就自然得多。开车时使用语音显然也合情合理。据保险公司State Farm的数据，美国29%的司机承认曾在开车时上网，这一比例在2009年仅为13%。美国国家安全委员会称，难怪开车使用手机每年造成的交通事故比酒驾还多。",
+      "words": [
+        {
+          "word": "recipe",
+          "phonetic": "/ˈresəpi/",
+          "meaning": "n. 食谱，烹饪法"
+        },
+        {
+          "word": "behind the wheel",
+          "phonetic": "/bɪˈhaɪnd ðə wiːl/",
+          "meaning": "phr. 在驾驶中"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

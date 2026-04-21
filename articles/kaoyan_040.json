@@ -1,0 +1,43 @@
+{
+  "id": "kaoyan_040",
+  "category": "kaoyan",
+  "title": "Why Poetry Still Matters",
+  "subtitle": "诗歌为何仍能打动我们",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "In the late 18th century, William Wordsworth became famous for his poems about nature. And he was one of the founders of a movement called Romanticism, which celebrated the wonders of the natural world. Poetry is powerful. Its energy and rhythm can capture a reader, transport them to another world and make them see things differently. Through carefully selected words and phrases, poems can be dramatic, funny, beautiful, moving and inspiring.",
+      "zh": "18世纪末，威廉·华兹华斯因其描写自然的诗歌而闻名。他是浪漫主义运动的创始人之一，该运动颂扬自然界的奇观。诗歌是强大的。它的能量和节奏能抓住读者，将他们带到另一个世界，让他们以不同的眼光看待事物。通过精心挑选的字词和短语，诗歌可以戏剧化、有趣、优美、动人且鼓舞人心。",
+      "words": [
+        {
+          "word": "Romanticism",
+          "phonetic": "/roʊˈmæntɪsɪzəm/",
+          "meaning": "n. 浪漫主义"
+        },
+        {
+          "word": "dramatic",
+          "phonetic": "/drəˈmætɪk/",
+          "meaning": "adj. 戏剧性的，激动人心的"
+        }
+      ]
+    },
+    {
+      "en": "No one knows for sure when poetry began but it has been around for thousands of years, even before people could write. It was a way to tell stories and pass down history. It is closely related to song and even when written it is usually created to be performed out loud. Poems really come to life when they are recited. This can also help with understanding them too, because the rhythm and sounds of the words become clearer.",
+      "zh": "没有人确切知道诗歌始于何时，但它已存在数千年，甚至在人类会书写之前就已存在。它是一种讲述故事和传承历史的方式。它与歌曲密切相关，即使是书面形式，通常也是为大声朗诵而创作的。诗歌在被背诵时才真正鲜活起来。这也有助于理解它们，因为词语的节奏和发音变得更加清晰。",
+      "words": [
+        {
+          "word": "recited",
+          "phonetic": "/rɪˈsaɪtɪd/",
+          "meaning": "v. 背诵，朗诵"
+        },
+        {
+          "word": "rhythm",
+          "phonetic": "/ˈrɪðəm/",
+          "meaning": "n. 节奏，韵律"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

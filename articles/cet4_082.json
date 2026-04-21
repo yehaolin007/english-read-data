@@ -1,0 +1,141 @@
+{
+  "id": "cet4_082",
+  "category": "cet4",
+  "title": "How to Stop Phantom Traffic Jams",
+  "subtitle": "前方明明没事故，你为什么堵了半小时？",
+  "readTime": 6,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "Traffic jams are a common problem of most big cities, either in developed or in developing countries, but one kind of traffic jams in particular can be especially frustrating. These are generally known as phantom traffic jams, in which dense traffic crawls to a halt for no apparent reason at all. When caught in such a traffic jam, it is common for drivers to assume that there must be an accident, or construction or something, said Massachusetts Institute of Technology (MIT) computer science professor Berthold Horn. And then you drive and drive and drive... and there isn't anything there.",
+      "zh": "交通拥堵是大多数大城市的通病，无论在发达国家还是发展中国家，但有一种堵车尤其令人恼火。这就是通常所说的“幽灵堵车”——密集的车流毫无明显缘由地慢慢停滞。麻省理工学院计算机科学教授贝特霍尔德·霍恩说：“遇到这种堵车时，司机通常以为前方一定有事故、施工或别的什么。然后你开啊开啊开……结果什么也没有。”",
+      "words": [
+        {
+          "word": "phantom",
+          "phonetic": "/ˈfæntəm/",
+          "meaning": "adj. 幽灵般的，虚幻的"
+        },
+        {
+          "word": "crawls to a halt",
+          "phonetic": "/krɔːlz tə ə hɔːlt/",
+          "meaning": "phr. 缓慢停下"
+        }
+      ]
+    },
+    {
+      "en": "The exact cause of these phantom traffic jams has long remained a mystery. But now, new research has found the cause and researchers may have come up with a solution for this frustrating traffic pattern: maintaining equal spacing between cars on the road, rather than driving so closely behind another vehicle that a collision is likely if that vehicle brakes suddenly. Horn said phantom traffic jams are an emergent property of the flow of vehicles down a highway.",
+      "zh": "幽灵堵车的确切原因长期以来一直是个谜。但如今新研究找到了原因，研究人员或许还为这一恼人的交通模式提出了解决方案：在路上保持车辆之间的等距，而非紧跟前车以至于前车急刹时极易追尾。霍恩说，幽灵堵车是高速公路上车流的一种涌现特性。",
+      "words": [
+        {
+          "word": "emergent",
+          "phonetic": "/ɪˈmɜːrdʒənt/",
+          "meaning": "adj. 涌现的，突现的"
+        }
+      ]
+    },
+    {
+      "en": "A phantom jam begins when a car in dense traffic slows down even slightly, which causes the car behind that vehicle to slow even more — and the slowing action spreads backward through the lane of traffic like a wave, getting worse the farther it spreads. Eventually, the cars far behind are forced to stop completely or risk hitting the slower vehicles ahead — and so the traffic grinds to a halt over nothing, Horn said. Horn has been working on the problem of phantom traffic jams for years, and he has come up with a solution.",
+      "zh": "幽灵堵车始于密集车流中某辆车略微减速，导致后车减速更甚——减速效应如波浪般沿车道向后传播，越远越严重。霍恩说，最终远处车辆被迫完全停下，否则就有撞上前方慢车的风险——于是交通毫无缘由地陷入停滞。霍恩研究幽灵堵车问题多年，已提出一个解决方案。",
+      "words": [
+        {
+          "word": "spreads",
+          "phonetic": "/spredz/",
+          "meaning": "v. 传播，蔓延"
+        }
+      ]
+    },
+    {
+      "en": "By splitting the difference between the cars in front and the cars behind, the spacing of cars in a stream of traffic can act as a damper on phantom traffic jams. That is, it can prevent the slow-down effect from being amplified by the cars that follow behind, he said. In essence, each driver would constantly make adjustments to keep their car roughly halfway between the car in front and the car behind. Horn calls this method of vehicle spacing bilateral control, and he said it could be achieved with relatively simple modifications to the adaptive cruise control that many new cars already have.",
+      "zh": "他说，通过分摊与前后车的距离差，车流中的车辆间距可充当幽灵堵车的阻尼器，即防止减速效应被后车放大。实质上，每位驾驶员需不断调整，使自己的车大致处于前车与后车的中间位置。霍恩将这种车辆间距方法称为“双边控制”，并表示对许多新车已有的自适应巡航控制系统进行相对简单的改造即可实现。",
+      "words": [
+        {
+          "word": "damper",
+          "phonetic": "/ˈdæmpər/",
+          "meaning": "n. 阻尼器，减震器"
+        },
+        {
+          "word": "bilateral",
+          "phonetic": "/ˌbaɪˈlætərəl/",
+          "meaning": "adj. 双边的"
+        }
+      ]
+    },
+    {
+      "en": "Adaptive cruise control is a driver assistance technology that sets a maximum speed for vehicles and automatically slows the speed of the car when traffic is sensed in front of the vehicle. The technology is also known as autonomous cruise control. Such modifications, Horn said, could help fight phantom jams within a few years, maybe decades before an alternative solution, such as networked self-driving cars, becomes a reality on the roads. Traffic jams are caused by a number of factors, such as roads that are poorly designed or over-capacity, localized factors like city traffic-lighting patterns, and events like accidents and construction. But phantom traffic jams can make all those problems worse, Horn said.",
+      "zh": "自适应巡航控制是一种驾驶辅助技术，可为车辆设定最高速度，并在探测到前方有车流时自动减速，也称自动巡航控制。霍恩说，此类改造有望在几年内帮助对抗幽灵堵车，或许比联网自动驾驶汽车等替代方案上路提前数十年。交通拥堵由多种因素造成，如道路设计不佳或超负荷、城市交通信号模式等局部因素，以及事故和施工等事件。但霍恩表示，幽灵堵车会令所有这些问题雪上加霜。",
+      "words": [
+        {
+          "word": "autonomous",
+          "phonetic": "/ɔːˈtɑːnəməs/",
+          "meaning": "adj. 自动的，自主的"
+        }
+      ]
+    },
+    {
+      "en": "And the researchers in the new study have calculated that solving phantom jams could save at least some of the estimated $121 billion per year that traffic jams are estimated to cost the U.S. economy, Horn told Live Science. New research by Horn and MIT postdoctoral associate Liang Wang, published in the journal IEEE Transactions on Intelligent Transportation Systems, shows how bilateral control can fight the problem. The researchers made computer models of real-world traffic conditions, showing how a typical U.S. freeway could benefit from cars using bilateral control.",
+      "zh": "霍恩告诉《生活科学》网站，新研究的研究人员计算得出，解决幽灵堵车至少可节省一部分每年给美国经济造成约1210亿美元损失的堵车成本。霍恩与麻省理工学院博士后梁王发表在《IEEE智能交通系统汇刊》上的新研究展示了双边控制如何应对这一问题。研究人员制作了真实交通状况的计算机模型，展示了典型美国高速公路如何受益于采用双边控制的车辆。",
+      "words": [
+        {
+          "word": "postdoctoral",
+          "phonetic": "/ˌpoʊstˈdɑːktərəl/",
+          "meaning": "adj. 博士后的"
+        }
+      ]
+    },
+    {
+      "en": "That would be in place when human drivers fail to slow down, thus avoiding tailgating the car in front, Horn said. Under reasonable conditions today, you might get 1,800 cars per lane per hour throughput (the volume of traffic passing through), he added. But with bilateral control, you could almost double that. The main alternative to increasing traffic throughput per lane has been to build more lanes and more highways, and putting in new roads is very expensive, he said. If we can increase the throughput on major highways, even if it's only by 50 percent, that would be a big deal, Horn said.",
+      "zh": "霍恩说，当人类驾驶员未能减速时，该系统可发挥作用，从而避免紧跟前方车辆。他补充道，在当今合理条件下，每条车道每小时通行量（通过的车流量）约为1800辆车，但采用双边控制几乎可翻倍。他说，增加单车道通行量的主要替代方案是修建更多车道和高速公路，而新建道路耗资巨大。霍恩说：“如果我们能提高主干道通行量，哪怕只提高50%，那也将意义重大。”",
+      "words": [
+        {
+          "word": "tailgating",
+          "phonetic": "/ˈteɪlɡeɪtɪŋ/",
+          "meaning": "v. 紧跟前车行驶"
+        },
+        {
+          "word": "throughput",
+          "phonetic": "/ˈθruːpʊt/",
+          "meaning": "n. 吞吐量，通行量"
+        }
+      ]
+    },
+    {
+      "en": "With the help of engineering students at high schools in Maine, Horn and Wang have also built a robot simulation that shows how bilateral control can suppress phantom traffic jams. Increasing the spacing of vehicles dampens the effect of slowdowns by cars in front of a given car, so that the slowing is not worsened until it becomes a phantom jam, the researchers said. A video from the project shows a train of autonomous robots running along a track without bilateral control; they eventually back up in phantom jams. But when the robots are switched over to bilateral control (by flashing the lights in the room), each autonomous robot tries to keep itself halfway between the robot in front and the one behind; the phantom jams disappear as a result, Horn said.",
+      "zh": "在缅因州高中工程系学生的帮助下，霍恩和王还构建了一个机器人模拟演示，展示双边控制如何抑制幽灵堵车。研究人员称，增大车距可削弱前方车辆减速对后车的影响，使减速效应不致恶化成幽灵堵车。项目视频显示，一列自动机器人在轨道上行驶，未使用双边控制时最终因幽灵堵车而停滞。但当机器人切换到双边控制（通过闪烁室内灯光），每台机器人都试图保持在前方机器人与后方机器人的中间位置，幽灵堵车随之消失。",
+      "words": [
+        {
+          "word": "suppress",
+          "phonetic": "/səˈpres/",
+          "meaning": "v. 抑制，压制"
+        }
+      ]
+    },
+    {
+      "en": "Since starting his research on phantom traffic jams, Horn has learned that schools of fish and flocks of birds and bats use similar spacing strategies to avoid hitting each other while swimming or flying in densely packed groups. In particular, studies of millions of bats emerging at dusk from caves in Southeast Asia showed that each bat used a form of bilateral control to reduce the likelihood of collisions with other bats in the densely packed swarm, Horn said. Unlike bats, birds and fish, however, humans have difficulty judging distances behind them.",
+      "zh": "自研究幽灵堵车以来，霍恩了解到鱼群、鸟群和蝙蝠群在密集游动或飞行时，也会使用类似的间距策略避免碰撞。霍恩说，特别是对东南亚洞穴中黄昏时分涌出的数百万只蝙蝠的研究表明，每只蝙蝠都使用某种形式的双边控制，以降低在密集群体中与其他蝙蝠相撞的可能性。然而，与蝙蝠、鸟类和鱼类不同，人类难以判断后方距离。",
+      "words": [
+        {
+          "word": "flocks",
+          "phonetic": "/flɑːks/",
+          "meaning": "n. 群"
+        },
+        {
+          "word": "collisions",
+          "phonetic": "/kəˈlɪʒnz/",
+          "meaning": "n. 碰撞"
+        }
+      ]
+    },
+    {
+      "en": "To address that weakness, Horn is now working with the car company Toyota to enable a form of bilateral control via modifications to existing adaptive cruise control systems, which use forward-facing sensors to judge the distance to the vehicle ahead. The bilateral control approach would include adding rear-facing sensors to determine the distance to the vehicle following a car. But until those systems become standard, human drivers can help reduce phantom traffic jams simply by not following the car in front so closely. As Horn argues, 'There's absolutely no advantage of tailgating the car in front of you.'",
+      "zh": "为解决这一弱点，霍恩正与丰田汽车公司合作，通过改造现有的自适应巡航控制系统来实现某种双边控制，该系统使用前置传感器判断与前车距离。双边控制方案将加入后置传感器，以确定与后车的距离。但在这些系统成为标配之前，人类驾驶员仅需不紧跟前方车辆，就能帮助减少幽灵堵车。正如霍恩所言：“紧跟前车绝对没有任何好处。”",
+      "words": [
+        {
+          "word": "sensors",
+          "phonetic": "/ˈsensərz/",
+          "meaning": "n. 传感器"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

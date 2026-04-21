@@ -1,0 +1,247 @@
+{
+  "id": "cet6_007",
+  "category": "cet6",
+  "title": "Why Facts Don't Change Our Minds",
+  "subtitle": "事实为何无法说服人？答案或许在部落本能里",
+  "readTime": 7,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Galbraith once wrote, \"Faced with a choice between changing one's mind and proving there is no need to do so, almost everyone gets busy with the proof.\" Leo Tolstoy was even bolder: \"The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of a doubt, what is laid before him.\"",
+      "zh": "加尔布雷思曾写道：“面对改变想法和证明无需改变之间的选择，几乎每个人都会忙于寻找证明。”列夫·托尔斯泰说得更大胆：“如果一个人对最困难的话题尚未形成任何概念，再迟钝的人也能听懂；但如果一个最聪明的人坚信自己已毫无疑虑地了解眼前之事，那最简单的东西也无法向他解释清楚。”",
+      "words": [
+        {
+          "word": "slow-witted",
+          "phonetic": "/ˈsloʊ ˈwɪtɪd/",
+          "meaning": "adj. 迟钝的；头脑不灵的"
+        }
+      ]
+    },
+    {
+      "en": "What's going on here? Why don't facts change our minds? And why would someone continue to believe a false or inaccurate idea anyway? How do such behaviors serve us?",
+      "zh": "这究竟是怎么回事？为什么事实无法改变我们的想法？为何有人会坚持相信一个错误或不准确的观点？这种行为对我们有何用处？",
+      "words": []
+    },
+    {
+      "en": "Humans need a reasonably accurate view of the world in order to survive. If your model of reality is wildly different from the actual world, then you struggle to take effective actions each day. However, truth and accuracy are not the only things that matter to the human mind.",
+      "zh": "人类需要相对准确的世界观才能生存。如果你对现实的认知模型与实际世界大相径庭，那么你每天的有效行动都会举步维艰。然而，对人心而言，真实与准确并非唯一重要的东西。",
+      "words": [
+        {
+          "word": "reasonably",
+          "phonetic": "/ˈriːznəbli/",
+          "meaning": "adv. 合理地；相当地"
+        }
+      ]
+    },
+    {
+      "en": "Humans also seem to have a deep desire to belong. In Atomic Habits, I wrote, \"Humans are herd animals. We want to fit in, to bond with others, and to earn the respect and approval of our peers.\" Such inclinations are essential to our survival.",
+      "zh": "人类似乎还有一种深切的归属渴望。我在《原子习惯》中写道：“人类是群居动物。我们想融入群体，与他人建立联系，赢得同辈的尊重和认可。”这种倾向对我们的生存至关重要。",
+      "words": [
+        {
+          "word": "inclination",
+          "phonetic": "/ˌɪnklɪˈneɪʃn/",
+          "meaning": "n. 倾向；意愿"
+        }
+      ]
+    },
+    {
+      "en": "For most of our evolutionary history, our ancestors lived in tribes. Becoming separated from the tribe—or worse, being cast out—was a death sentence. Understanding the truth of a situation is important, but so is remaining part of a tribe.",
+      "zh": "在人类进化史的大部分时间里，我们的祖先生活在部落中。与部落分离——更糟的是被逐出——无异于被判死刑。了解真相固然重要，但留在部落里同样重要。",
+      "words": [
+        {
+          "word": "cast out",
+          "phonetic": "/kæst aʊt/",
+          "meaning": "phr. 驱逐；赶走"
+        }
+      ]
+    },
+    {
+      "en": "While these two desires often work well together, they occasionally come into conflict. In many circumstances, social connection is actually more helpful to your daily life than understanding the truth of a particular fact or idea. The Harvard psychologist Steven Pinker put it this way, \"People are embraced or condemned according to their beliefs, so one function of the mind may be to hold beliefs that bring the belief-holder the greatest number of allies, protectors, or disciples, rather than beliefs that are most likely to be true.\"",
+      "zh": "这两种渴望虽常能协同作用，但偶尔也会冲突。在许多情况下，社会联系对日常生活的帮助，实际上大于弄清某个事实或想法的真相。哈佛心理学家史蒂芬·平克这样说：“人们因其信念而受到接纳或谴责，因此心智的功能之一，或许是持有能为信念者带来最多盟友、保护者或追随者的信念，而非最可能为真的信念。”",
+      "words": [
+        {
+          "word": "condemn",
+          "phonetic": "/kənˈdem/",
+          "meaning": "v. 谴责；宣告有罪"
+        },
+        {
+          "word": "disciple",
+          "phonetic": "/dɪˈsaɪpl/",
+          "meaning": "n. 信徒；追随者"
+        }
+      ]
+    },
+    {
+      "en": "We don't always believe things because they are correct. Sometimes we believe things because they make us look good to the people we care about. I thought Kevin Simler put it well when he wrote, \"If a brain anticipates that it will be rewarded for adopting a particular belief, it's perfectly happy to do so, and doesn't much care where the reward comes from.\"",
+      "zh": "我们并不总是因为事情正确才相信它。有时我们相信某事，是因为它让我们在乎的人觉得我们不错。我认为凯文·西姆勒说得好：“如果大脑预期到接受某个特定信念会得到奖励，它很乐意这么做，而且不太在乎奖励来自何处。”",
+      "words": [
+        {
+          "word": "anticipate",
+          "phonetic": "/ænˈtɪsɪpeɪt/",
+          "meaning": "v. 预期；预料"
+        }
+      ]
+    },
+    {
+      "en": "False beliefs can be useful in a social sense even if they are not useful in a factual sense. For lack of a better phrase, we might call this approach \"factually false, but socially accurate.\" When we have to choose between the two, people often select friends and family over facts.",
+      "zh": "错误信念在社会意义上可能有用，即便在事实意义上毫无用处。找不到更好的说法，我们姑且称之为“事实上错误，但社交上正确”。当必须在二者之间选择时，人们往往选择亲友而非事实。",
+      "words": []
+    },
+    {
+      "en": "This insight not only explains why we might hold our tongue at a dinner party or look the other way when our parents say something offensive, but also reveals a better way to change the minds of others. Convincing someone to change their mind is really the process of convincing them to change their tribe.",
+      "zh": "这一洞见不仅解释了为什么我们会在晚宴上保持沉默，或在父母说冒犯话时装作没看见，也揭示了一种改变他人想法的更好方式。说服某人改变想法，实际上就是说服他们更换自己的部落。",
+      "words": [
+        {
+          "word": "hold one's tongue",
+          "phonetic": "/hoʊld wʌnz tʌŋ/",
+          "meaning": "phr. 保持沉默"
+        }
+      ]
+    },
+    {
+      "en": "If they abandon their beliefs, they run the risk of losing social ties. You can't expect someone to change their mind if you take away their community too. You have to give them somewhere to go.",
+      "zh": "如果他们放弃原有信念，就面临失去社会关系的风险。如果你连他们的社群也一并夺走，就不能指望他们会改变想法。你必须给他们一个去处。",
+      "words": []
+    },
+    {
+      "en": "Nobody wants their worldview torn apart if loneliness is the outcome. The way to change people's minds is to become friends with them, to integrate them into your tribe, to bring them into your circle. Now, they can change their beliefs without the risk of being abandoned socially.",
+      "zh": "如果结局是孤独，没人愿意自己的世界观被撕裂。改变他人想法的途径是和他们成为朋友，把他们融入你的部落，带入你的圈子。这样他们就可以在不被社会抛弃的风险下改变信念。",
+      "words": [
+        {
+          "word": "integrate",
+          "phonetic": "/ˈɪntɪɡreɪt/",
+          "meaning": "v. 使融入；使成为一体"
+        }
+      ]
+    },
+    {
+      "en": "Perhaps it is not difference, but distance, that breeds tribalism and hostility. As proximity increases, so does understanding. I am reminded of Abraham Lincoln's quote, \"I don't like that man. I must get to know him better.\"",
+      "zh": "或许滋生部落主义和敌意的，并非差异，而是距离。随着距离拉近，理解也会加深。我想起亚伯拉罕·林肯的名言：“我不喜欢那个人。我必须更好地了解他。”",
+      "words": [
+        {
+          "word": "proximity",
+          "phonetic": "/prɑːkˈsɪməti/",
+          "meaning": "n. 接近；邻近"
+        }
+      ]
+    },
+    {
+      "en": "Facts don't change our minds, friendship does. Years ago, Ben Casnocha mentioned an idea to me that I haven't been able to shake: The people who are most likely to change our minds are the ones we agree with on 98 percent of topics.",
+      "zh": "改变我们想法的不是事实，而是友谊。多年前，本·卡斯诺查向我提到一个我至今难忘的观点：最有可能改变我们想法的人，是那些在98%的话题上与我们意见一致的人。",
+      "words": []
+    },
+    {
+      "en": "If someone you know, like, and trust believes a radical idea, you are more likely to give it merit, weight, or consideration. You already agree with them in most areas of life. Maybe you should change your mind on this one too.",
+      "zh": "如果你认识、喜欢且信任的人相信某个激进观点，你更可能给予它价值、分量或考虑。你们在生活的大部分领域本已意见一致。也许在这件事上你也该改变想法。",
+      "words": [
+        {
+          "word": "radical",
+          "phonetic": "/ˈrædɪkl/",
+          "meaning": "adj. 激进的；彻底的"
+        }
+      ]
+    },
+    {
+      "en": "But if someone wildly different than you proposes the same radical idea, well, it's easy to dismiss them as nuts. One way to visualize this distinction is by mapping beliefs on a spectrum. If you divide this spectrum into 10 units and you find yourself at Position 7, then there is little sense in trying to convince someone at Position 1.",
+      "zh": "但如果一个与你截然不同的人提出同样的激进观点，你很容易将其斥为疯子。将这种区别具象化的一种方式是把信念映射在一个频谱上。若将频谱分为10个单位，而你处于第7位，那么试图说服第1位的人就没什么意义。",
+      "words": [
+        {
+          "word": "dismiss",
+          "phonetic": "/dɪsˈmɪs/",
+          "meaning": "v. 不予理会；摒弃"
+        },
+        {
+          "word": "spectrum",
+          "phonetic": "/ˈspektrəm/",
+          "meaning": "n. 频谱；范围"
+        }
+      ]
+    },
+    {
+      "en": "The gap is too wide. When you're at Position 7, your time is better spent connecting with people who are at Positions 6 and 8, gradually pulling them in your direction. The most heated arguments often occur between people on opposite ends of the spectrum, but the most frequent learning occurs from people who are nearby.",
+      "zh": "差距太大了。当你在第7位时，你的时间更应该花在与第6位和第8位的人建立联系上，逐渐将他们拉向你的方向。最激烈的争论往往发生在频谱两端的人之间，但最频繁的学习却来自附近的人。",
+      "words": []
+    },
+    {
+      "en": "The closer you are to someone, the more likely it becomes that the one or two beliefs you don't share will bleed over into your own mind and shape your thinking. The further away an idea is from your current position, the more likely you are to reject it outright.",
+      "zh": "你离某人越近，那一两个你不认同的信念就越可能渗透进你的思想，塑造你的思维方式。一个想法离你当前的位置越远，你就越可能断然拒绝它。",
+      "words": [
+        {
+          "word": "outright",
+          "phonetic": "/ˈaʊtraɪt/",
+          "meaning": "adv. 彻底地；断然地"
+        }
+      ]
+    },
+    {
+      "en": "When it comes to changing people's minds, it is very difficult to jump from one side to another. You can't jump down the spectrum. You have to slide down it.",
+      "zh": "说到改变他人想法，从一边直接跳到另一边非常困难。你不能从频谱上跳下去，只能一步步滑下去。",
+      "words": []
+    },
+    {
+      "en": "Any idea that is sufficiently different from your current worldview will feel threatening. And the best place to ponder a threatening idea is in a non-threatening environment. As a result, books are often a better vehicle for transforming beliefs than conversations or debates.",
+      "zh": "任何与你当前世界观差异足够大的想法，都会带来威胁感。思考有威胁性的想法的最佳场所，是在没有威胁的环境中。因此，书籍往往是比对话或辩论更好的信念转变载体。",
+      "words": [
+        {
+          "word": "ponder",
+          "phonetic": "/ˈpɑːndər/",
+          "meaning": "v. 沉思；琢磨"
+        }
+      ]
+    },
+    {
+      "en": "In conversation, people have to carefully consider their status and appearance. They want to save face and avoid looking stupid. When confronted with an uncomfortable set of facts, the tendency is often to double down on their current position rather than publicly admit to being wrong.",
+      "zh": "在对话中，人们不得不小心翼翼地考虑自己的身份和形象。他们想保全面子，避免显得愚蠢。当面对令人不适的一系列事实时，本能倾向往往是更坚定地固守当前立场，而不是公开认错。",
+      "words": [
+        {
+          "word": "double down",
+          "phonetic": "/ˈdʌbl daʊn/",
+          "meaning": "phr. 加倍；变本加厉"
+        }
+      ]
+    },
+    {
+      "en": "Books resolve this tension. With a book, the conversation takes place inside someone's head and without the risk of being judged by others. It's easier to be open-minded when you aren't feeling defensive.",
+      "zh": "书籍化解了这种紧张。读书时，对话发生在个人头脑中，没有被他人评判的风险。当你不必防御时，保持开放心态就容易多了。",
+      "words": []
+    },
+    {
+      "en": "There is another reason bad ideas continue to live on, which is that people continue to talk about them. Silence is death for any idea. An idea that is never spoken or written down dies with the person who conceived it.",
+      "zh": "错误想法持续存在的另一个原因是人们不断谈论它们。沉默是一切想法的死敌。一个从未被言说或记录下来的想法，会随其构思者一同消亡。",
+      "words": [
+        {
+          "word": "conceive",
+          "phonetic": "/kənˈsiːv/",
+          "meaning": "v. 构想；想出"
+        }
+      ]
+    },
+    {
+      "en": "Ideas can only be remembered when they are repeated. They can only be believed when they are repeated. I have already pointed out that people repeat ideas to signal they are part of the same social group.",
+      "zh": "想法唯有被重复才能被记住，也唯有被重复才能被相信。我已经指出过，人们重复某些观点是为了表明自己属于同一个社会群体。",
+      "words": []
+    },
+    {
+      "en": "But here's a crucial point most people miss: People also repeat bad ideas when they complain about them. Before you can criticize an idea, you have to reference that idea. You end up repeating the ideas you're hoping people will forget.",
+      "zh": "但这里有个大多数人忽略的关键点：人们在抱怨坏主意时，也在重复传播它们。要批评一个想法，你首先得提及它。结果就是，你不断重复着那些你希望大家忘掉的想法。",
+      "words": [
+        {
+          "word": "reference",
+          "phonetic": "/ˈrefrəns/",
+          "meaning": "v. 提及；引用"
+        }
+      ]
+    },
+    {
+      "en": "The more you repeat a bad idea, the more likely people are to believe it. Let's call this phenomenon Clear's Law of Recurrence: The number of people who believe an idea is directly proportional to the number of times it has been repeated during the last year—even if the idea is false.",
+      "zh": "坏主意重复得越多，人们就越可能相信它。我们姑且称之为“克利尔回归法则”：相信某个想法的人数，与过去一年中它被重复的次数成正比——即便这个想法是错的。",
+      "words": [
+        {
+          "word": "proportional",
+          "phonetic": "/prəˈpɔːrʃənl/",
+          "meaning": "adj. 成比例的"
+        }
+      ]
+    }
+  ]
+}

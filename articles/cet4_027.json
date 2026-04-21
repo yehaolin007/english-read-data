@@ -1,0 +1,96 @@
+{
+  "id": "cet4_027",
+  "category": "cet4",
+  "title": "Social Class, Diet Quality and Health",
+  "subtitle": "穷人为什么更难吃得健康",
+  "readTime": 2,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "Research shows that in developed countries, more affluent and educated people tend to consume higher-quality diets — including more fruits and vegetables, fish and whole grains. On the contrary, economically disadvantaged people report diets that are nutrient-poor and energy-dense. They are less likely to have food-purchasing habits that conform to public health recommendations. These dietary differences are often accompanied by higher rates of obesity and diabetes among lower-income people. This relationship between social class and diet quality and health is extensively documented.",
+      "zh": "研究表明，在发达国家，越富裕、受教育程度越高的人，饮食质量往往越高——包括更多的水果蔬菜、鱼类和全谷物。相反，经济弱势群体的饮食往往营养不足但热量密集。他们的食品购买习惯也较少符合公共卫生建议。这些饮食差异常伴随着低收入人群更高的肥胖和糖尿病发病率。社会阶层与饮食质量及健康之间的关系已被广泛记录。",
+      "words": [
+        {
+          "word": "affluent",
+          "phonetic": "/ˈæfluənt/",
+          "meaning": "adj. 富裕的"
+        },
+        {
+          "word": "conform to",
+          "phonetic": "/kənˈfɔːrm tuː/",
+          "meaning": "phr. 遵守；符合"
+        }
+      ]
+    },
+    {
+      "en": "However, the research does not explain why this is the case — a question that has significant implications for designing effective policies and initiatives to improve diets and prevent chronic diseases. Public-health initiatives to promote healthy diets often focus on providing nutrition education and recipes. These approaches, however, often presume less food literacy among low-income people.",
+      "zh": "然而，研究并未解释这种现象的原因——而这个问题对于设计有效的政策来改善饮食、预防慢性病至关重要。促进健康饮食的公共卫生举措通常侧重于提供营养教育和食谱。但这些方法往往预设低收入人群的食品素养较低。",
+      "words": [
+        {
+          "word": "implication",
+          "phonetic": "/ˌɪmplɪˈkeɪʃn/",
+          "meaning": "n. 影响；含意"
+        },
+        {
+          "word": "literacy",
+          "phonetic": "/ˈlɪtərəsi/",
+          "meaning": "n. 素养；读写能力"
+        }
+      ]
+    },
+    {
+      "en": "Are unhealthy diets really the result of poor choices, limited food skills and knowledge? Research suggests that adults in food-insecure households are just as likely as those in food-secure households to adjust recipes to make them more healthy. They are also just as proficient in food preparation and cooking skills. There is no indication that increasing food skills or budgeting skills will reduce food insecurity.",
+      "zh": "不健康的饮食真的是选择不当、技能和知识有限的结果吗？研究表明，食品不安全家庭的成年人与食品安全家庭的成年人一样，都会调整食谱使其更健康，且在食物准备和烹饪技能上同样熟练。没有迹象表明提升食品技能或预算技能能减少食品不安全。",
+      "words": [
+        {
+          "word": "proficient",
+          "phonetic": "/prəˈfɪʃnt/",
+          "meaning": "adj. 熟练的；精通的"
+        }
+      ]
+    },
+    {
+      "en": "Instead, disadvantaged groups are constrained by their economic, material and social circumstances. For example, low income is the strongest predictor of food insecurity in Canada, where one in eight households experiences insufficient access to nutritious foods. It's well-established that food prices are an important determinant of food choice.",
+      "zh": "相反，弱势群体受制于经济、物质和社会环境。例如，低收入是加拿大食品不安全的最强预测因素，八分之一的家庭无法充分获取营养食品。众所周知，食品价格是影响食品选择的重要因素。",
+      "words": [
+        {
+          "word": "constrain",
+          "phonetic": "/kənˈstreɪn/",
+          "meaning": "v. 限制；约束"
+        },
+        {
+          "word": "determinant",
+          "phonetic": "/dɪˈtɜːrmɪnənt/",
+          "meaning": "n. 决定因素"
+        }
+      ]
+    },
+    {
+      "en": "Low-income households report that they find it difficult to adopt dietary guidelines because food prices are a barrier to improving their diets. When researchers estimate the cost of diets people actually eat, higher-quality diets are typically more costly. While this may be so, it does not, in itself, prove that healthy diets are necessarily more expensive or cost-prohibitive.",
+      "zh": "低收入家庭表示，食品价格是改善饮食的障碍，导致他们很难遵循膳食指南。当研究人员估算人们实际饮食的花费时，高质量饮食确实通常更贵。尽管如此，这本身并不能证明健康饮食必然更贵或贵得无法承受。",
+      "words": [
+        {
+          "word": "barrier",
+          "phonetic": "/ˈbæriər/",
+          "meaning": "n. 障碍"
+        },
+        {
+          "word": "cost-prohibitive",
+          "phonetic": "/ˌkɔːst prəˈhɪbətɪv/",
+          "meaning": "adj. 贵得令人却步的"
+        }
+      ]
+    },
+    {
+      "en": "After all, not all socioeconomically disadvantaged people consume poor diets. We can easily think of a number of foods and recipes that are both inexpensive and nutritious. The internet is full of recipes for \"eating well on a budget.\"",
+      "zh": "毕竟，并非所有经济弱势群体都吃得很差。我们很容易想到许多既便宜又营养的食物和食谱。互联网上到处都是「用有限预算吃得好」的食谱。",
+      "words": [
+        {
+          "word": "nutritious",
+          "phonetic": "/nuːˈtrɪʃəs/",
+          "meaning": "adj. 有营养的"
+        }
+      ]
+    }
+  ]
+}

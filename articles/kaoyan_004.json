@@ -1,0 +1,64 @@
+{
+  "id": "kaoyan_004",
+  "category": "kaoyan",
+  "title": "The Global Fight Over Digital Tax Rules",
+  "subtitle": "谁该为互联网巨头收税？数字税引发全球博弈",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "France's senate approved a digital services tax aimed at large platforms earning revenue from French users. The levy targets gross revenue from activities like online marketplaces and data-driven advertising, rather than only corporate profit. Because many affected firms are American tech giants, critics quickly labeled it a GAFA tax.",
+      "zh": "法国参议院通过了一项数字服务税，针对从法国用户身上获得收入的大型平台。该税种瞄准的是线上交易平台和数据驱动广告等业务的总收入，而非仅仅针对企业利润。由于受影响企业多为美国科技巨头，批评者迅速将其称为“GAFA税”。",
+      "words": [
+        {
+          "word": "levy",
+          "phonetic": "/ˈlevi/",
+          "meaning": "n. 征收额，税款"
+        },
+        {
+          "word": "gross",
+          "phonetic": "/ɡroʊs/",
+          "meaning": "adj. 总的，毛的"
+        }
+      ]
+    },
+    {
+      "en": "Washington responded by opening a trade investigation and warning that retaliation remained possible. Paris argued the policy was not anti-American but a temporary fix while global tax rules lag behind digital business models. Similar unilateral tools have already appeared in Britain, Australia, India, and several other markets.",
+      "zh": "美国方面随即启动贸易调查，并警告仍可能采取报复措施。法国方面则辩称该政策并非反美，而是在全球税制落后于数字商业模式现实情况下的临时补救措施。类似的单边征税工具已在英国、澳大利亚、印度及其他多个市场出现。",
+      "words": [
+        {
+          "word": "retaliation",
+          "phonetic": "/rɪˌtæliˈeɪʃn/",
+          "meaning": "n. 报复，反击"
+        },
+        {
+          "word": "unilateral",
+          "phonetic": "/ˌjuːnɪˈlætərəl/",
+          "meaning": "adj. 单边的，单方面的"
+        }
+      ]
+    },
+    {
+      "en": "The OECD is still trying to broker a multilateral framework with more than 130 economies. Yet this dispute shows that countries are increasingly unwilling to wait for full consensus before taxing digital value created at home. If negotiations stall, multinational firms will face overlapping rules, heavier compliance costs, and greater legal uncertainty.",
+      "zh": "经合组织仍在努力促成一项涵盖130多个经济体的多边框架。然而这场争端表明，各国越来越不愿在本国产生的数字价值征税问题上等待全面共识。若谈判陷入僵局，跨国企业将面临规则重叠、合规成本上升以及更大的法律不确定性。",
+      "words": [
+        {
+          "word": "multilateral",
+          "phonetic": "/ˌmʌltiˈlætərəl/",
+          "meaning": "adj. 多边的，多国的"
+        },
+        {
+          "word": "compliance",
+          "phonetic": "/kəmˈplaɪəns/",
+          "meaning": "n. 遵守，合规"
+        },
+        {
+          "word": "overlapping",
+          "phonetic": "/ˌoʊvərˈlæpɪŋ/",
+          "meaning": "adj. 重叠的，交叉的"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

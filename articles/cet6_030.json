@@ -1,0 +1,76 @@
+{
+  "id": "cet6_030",
+  "category": "cet6",
+  "title": "The Flawed Appeal to Common Sense",
+  "subtitle": "你以为的「常识」可能大错特错",
+  "readTime": 3,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "When a group of Australians was asked why they believed climate change was not happening, about 36 percent said it was 'common sense', according to a report published last year by the Commonwealth Scientific and Industrial Research Organization. This was the most popular reason for their opinion, with only 11 percent saying their belief that climate change was not happening was based on scientific research. But what do we mean by an appeal to common sense? Presumably it's an appeal to rationality of some sort that forms the basis of more complex reasoning.",
+      "zh": "根据英联邦科学与工业研究组织去年发布的一份报告，当一群澳大利亚人被问及为何认为气候变化并未发生时，约36%的人回答是“常识”。这是他们观点中最常见的原因，只有11%的人表示其看法基于科学研究。但我们所说的诉诸常识究竟是什么意思？它大概是对某种构成更复杂推理基础的理性的诉求。",
+      "words": [
+        {
+          "word": "presumably",
+          "phonetic": "/prɪˈzuːməbli/",
+          "meaning": "adv. 大概，很可能"
+        }
+      ]
+    },
+    {
+      "en": "The appeal to common sense, however, is usually nothing more than an appeal to thinking that just feels right, but what feels right to one person may not feel right to another. Whether it feels right is usually a reflection of the world view and ideologies we have internalised, and that frames how we interact with new ideas. When new ideas are in accord with what we already believe, they are more readily accepted. When they are not, they, and the arguments that lead to them, are more readily rejected.",
+      "zh": "然而，诉诸常识通常只不过是诉诸那些感觉上正确的想法，但一个人感觉正确的事，另一个人未必觉得正确。是否感觉正确通常反映了我们内化的世界观和意识形态，而它又框定了我们与新观念的互动方式。当新观念与我们已有的信念一致时，它们更容易被接受。当不一致时，它们及其推导过程则更容易被拒绝。",
+      "words": [
+        {
+          "word": "internalised",
+          "phonetic": "/ɪnˈtɜːrnəlaɪzd/",
+          "meaning": "v. 内化，吸收"
+        },
+        {
+          "word": "in accord with",
+          "phonetic": "/ɪn əˈkɔːrd wɪð/",
+          "meaning": "phr. 与……一致"
+        }
+      ]
+    },
+    {
+      "en": "We often mistake this automatic compatibility testing of new ideas with existing beliefs as an application of common sense, but, in reality, it is more about judging than thinking. As Nobelist Daniel Kahneman notes in Thinking, Fast and Slow, when we arrive at conclusions in this way, the outcomes also feel true, regardless of whether they are. We are not psychologically well equipped to judge our own thinking. We are also highly susceptible to a range of cognitive biases such as giving preference to the first things that come to mind when making decisions or giving weight to evidence.",
+      "zh": "我们常将这种对新观念与既有信念的自动兼容性测试误认为常识的运用，但实际上这更多是判断而非思考。正如诺贝尔奖得主丹尼尔·卡尼曼在《思考，快与慢》中指出的，当我们以这种方式得出结论时，无论结果是否属实，它们都会感觉像是真的。我们在心理上并不擅长评判自己的思维。我们也极易受到一系列认知偏见的影响，例如在做决定或权衡证据时优先考虑最先想到的事物。",
+      "words": [
+        {
+          "word": "cognitive biases",
+          "phonetic": "/ˈkɑːɡnətɪv ˈbaɪəsɪz/",
+          "meaning": "n. 认知偏见"
+        }
+      ]
+    },
+    {
+      "en": "One way we can check our internal biases and inconsistencies is through the social verification of knowledge, in which we test our ideas in a rigorous and systematic way to see if they make sense not just to us, but to other people. The outstanding example of this socially shared cognition is science. That does not mean that individuals are not capable of excellent thinking, nor does it mean no individual is rational. But the extent to which individuals can do this on their own is a function of how well integrated they are with communities of systematic inquiry in the first place. You can't learn to think well by yourself.",
+      "zh": "我们检查自身内在偏见和矛盾的一种方法是通过知识的社会验证，即以严格、系统的方式检验我们的想法，看它们不仅对自己有意义，对他人也同样有意义。这种社会共享认知的杰出范例就是科学。这并不意味着个体不具备出色的思维能力，也不意味着没有个体是理性的。但个体能独立做到何种程度，首先取决于他们与系统探究社群的融合程度。你无法独自学会好好思考。",
+      "words": [
+        {
+          "word": "verification",
+          "phonetic": "/ˌverɪfɪˈkeɪʃn/",
+          "meaning": "n. 验证，核实"
+        },
+        {
+          "word": "integrated",
+          "phonetic": "/ˈɪntɪɡreɪtɪd/",
+          "meaning": "adj. 融合的，整合的"
+        }
+      ]
+    },
+    {
+      "en": "In matters of science at least, those who value their common sense over methodological, collaborative investigation imagine themselves to be more free in their thinking, unbound by involvement with the group, but in reality they are tightly bound by their capabilities and perspectives. We are smarter together than we are individually, and perhaps that's just common sense.",
+      "zh": "至少在科学问题上，那些重视常识甚于方法论与协作探究的人，自以为思维更加自由、不受群体参与的束缚，但实际上他们却被自身的能力和视角紧紧束缚。我们在一起比单打独斗更聪明，而这或许才是真正的常识。",
+      "words": [
+        {
+          "word": "methodological",
+          "phonetic": "/ˌmeθədəˈlɑːdʒɪkl/",
+          "meaning": "adj. 方法论的"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

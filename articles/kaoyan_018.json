@@ -1,0 +1,58 @@
+{
+  "id": "kaoyan_018",
+  "category": "kaoyan",
+  "title": "When Big Tech Buys Emerging Rivals",
+  "subtitle": "巨头买下初创对手：扼杀竞争还是奖赏创新",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "When major tech firms acquire rising startups, they often gain both user products and engineering teams. Critics worry these deals can neutralize potential competitors before rivalry fully forms. Defenders respond that acquisitions reward founders and spread useful features quickly.",
+      "zh": "大型科技公司收购上升期初创企业时，往往能同时获得产品与工程团队。批评者担心，这类交易可能在竞争真正形成前就消灭潜在对手。辩护者则回应称，并购是对创始人的奖赏，并能将有用的功能快速推广。",
+      "words": [
+        {
+          "word": "neutralize",
+          "phonetic": "/ˈnuːtrəlaɪz/",
+          "meaning": "v. 使无效；消除"
+        },
+        {
+          "word": "rivalry",
+          "phonetic": "/ˈraɪvəlri/",
+          "meaning": "n. 竞争"
+        }
+      ]
+    },
+    {
+      "en": "Examples like Wunderlist and Sunrise intensified concern because popular apps were absorbed and then discontinued. Investors still accept this exit path since selling to giants remains a common way to realize returns. That creates a tension between private incentives and long-term market dynamism.",
+      "zh": "Wunderlist和Sunrise等案例加剧了这种担忧，因为这些热门应用在被收购后最终停运。投资者仍接受这一退出路径，毕竟将公司卖给巨头仍是实现回报的常见方式。这就造成了私人激励与市场长期活力之间的张力。",
+      "words": [
+        {
+          "word": "discontinue",
+          "phonetic": "/ˌdɪskənˈtɪnjuː/",
+          "meaning": "v. 停止；终止"
+        },
+        {
+          "word": "dynamism",
+          "phonetic": "/ˈdaɪnəmɪzəm/",
+          "meaning": "n. 活力；动态"
+        }
+      ]
+    },
+    {
+      "en": "US regulators have begun reviewing many small historical deals that once escaped close examination. Any single transaction may look minor, but cumulative effects can reshape entry barriers in digital markets. The core policy challenge is identifying which acquisition patterns suppress future competition.",
+      "zh": "美国监管机构已开始回溯审查大量曾被忽略的历史小额交易。单笔交易看似微不足道，但累积效应足以重塑数字市场的进入门槛。核心的政策挑战在于识别哪些并购模式会抑制未来竞争。",
+      "words": [
+        {
+          "word": "cumulative",
+          "phonetic": "/ˈkjuːmjələtɪv/",
+          "meaning": "adj. 累积的"
+        },
+        {
+          "word": "suppress",
+          "phonetic": "/səˈpres/",
+          "meaning": "v. 压制；抑制"
+        }
+      ]
+    }
+  ]
+}

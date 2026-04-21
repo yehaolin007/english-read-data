@@ -1,0 +1,70 @@
+{
+  "id": "kaoyan_038",
+  "category": "kaoyan",
+  "title": "Is the Internet Changing How We Remember?",
+  "subtitle": "什么都能搜到的时代，你的大脑还在记东西吗？",
+  "readTime": 2,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "The Internet may be changing merely what we remember, not our capacity to do so, suggests Columbia University psychology professor Betsy Sparrow. In 2011, Sparrow led a study in which participants were asked to record 40 factoids in a computer. Half of the participants were told the information would be erased, while the other half were told it would be saved. The latter group made no effort to recall the information when quizzed on it later, because they knew they could find it on their computers.",
+      "zh": "哥伦比亚大学心理学教授贝齐·斯帕罗认为，互联网可能只是在改变我们记忆的内容，而非我们记忆的能力。2011年，斯帕罗领导了一项研究，要求参与者在电脑中录入40条小知识。一半参与者被告知信息将被删除，另一半则被告知会被保存。后一组在随后被测试时，没有努力回忆这些信息，因为他们知道自己可以在电脑上找到它们。",
+      "words": [
+        {
+          "word": "capacity",
+          "phonetic": "/kəˈpæsəti/",
+          "meaning": "n. 能力，容量"
+        },
+        {
+          "word": "factoids",
+          "phonetic": "/ˈfæktɔɪdz/",
+          "meaning": "n. 小知识，仿真陈述"
+        }
+      ]
+    },
+    {
+      "en": "In the same study, a group was asked to remember both the information and the folders it was stored in. They didn't remember the information, but they remembered how to find the folders. In other words, human memory is not deteriorating but 'adapting to new communications technology,' Sparrow says. In a very practical way, the Internet is becoming an external hard drive for our memories, a process known as 'cognitive offloading.'",
+      "zh": "在同一项研究中，一组人被要求记住信息及其存储的文件夹。他们没有记住信息，却记住了如何找到这些文件夹。斯帕罗说，换句话说，人类的记忆力并没有退化，而是在“适应新的通信技术”。以一种非常实际的方式，互联网正成为我们记忆的外部硬盘，这一过程被称为“认知卸载”。",
+      "words": [
+        {
+          "word": "deteriorating",
+          "phonetic": "/dɪˈtɪriəreɪtɪŋ/",
+          "meaning": "v. 恶化，退化"
+        },
+        {
+          "word": "cognitive offloading",
+          "phonetic": "/ˈkɑːɡnɪtɪv ˈɔːfloʊdɪŋ/",
+          "meaning": "n. 认知卸载"
+        }
+      ]
+    },
+    {
+      "en": "Some worry that this is having a destructive effect on society, but Sparrow sees an upside. Perhaps, she suggests, the trend will change our approach to learning from a focus on individual facts and memorization to an emphasis on more conceptual thinking — something that is not available on the Internet. 'I personally have never seen all that much intellectual value in memorizing things,' Sparrow says, adding that we haven't lost our ability to do it.",
+      "zh": "有人担心这会对社会产生破坏性影响，但斯帕罗看到了积极的一面。她认为，也许这一趋势将改变我们的学习方式，从关注单个事实和记忆转向强调更概念化的思维——这是互联网上无法获取的东西。斯帕罗说：“我个人从未见过记忆事物有那么大的智力价值。”她补充道，我们并没有失去这样做的能力。",
+      "words": [
+        {
+          "word": "conceptual",
+          "phonetic": "/kənˈseptʃuəl/",
+          "meaning": "adj. 概念的"
+        }
+      ]
+    },
+    {
+      "en": "Still other experts say it's too soon to understand how the Internet affects our brains. There is no experimental evidence showing that it interferes with our ability to focus, wrote psychologists Christopher Chabris and Daniel J. Simons. And surfing the web exercised the brain more than reading did among computer-savvy older adults in a 2008 study. 'There may be costs associated with our increased reliance on the Internet, but I'd have to imagine that overall the benefits are going to outweigh those costs,' observes psychology professor Benjamin Storm.",
+      "zh": "还有一些专家表示，现在了解互联网如何影响我们的大脑还为时过早。心理学家克里斯托弗·查布里斯和丹尼尔·J·西蒙斯写道，没有实验证据表明它干扰了我们的专注能力。2008年一项研究显示，在精通电脑的老年人中，上网比阅读更能锻炼大脑。心理学教授本杰明·斯托姆评论道：“我们对互联网日益依赖可能带来代价，但我不得不想象，总体而言收益将超过那些代价。”",
+      "words": [
+        {
+          "word": "savvy",
+          "phonetic": "/ˈsævi/",
+          "meaning": "adj. 精通的，有见识的"
+        },
+        {
+          "word": "outweigh",
+          "phonetic": "/ˌaʊtˈweɪ/",
+          "meaning": "v. 超过，胜过"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "kaoyan_010",
+  "category": "kaoyan",
+  "title": "Why Failure Teaches Better Than Success",
+  "subtitle": "为什么失败比成功更能让你成长？",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Failure is almost unavoidable on any meaningful life path. Its long-term impact depends less on the event itself than on the interpretation that follows. When framed constructively, failure becomes usable feedback instead of final judgment.",
+      "zh": "在任何有意义的人生道路上，失败几乎都是无法避免的。其长期影响与其说取决于事件本身，不如说取决于事后的解读方式。若以建设性的框架看待，失败就会从终局审判转变为可供使用的反馈。",
+      "words": [
+        {
+          "word": "interpretation",
+          "phonetic": "/ɪnˌtɜːrprɪˈteɪʃn/",
+          "meaning": "n. 解释，解读"
+        },
+        {
+          "word": "constructively",
+          "phonetic": "/kənˈstrʌktɪvli/",
+          "meaning": "adv. 建设性地，积极地"
+        }
+      ]
+    },
+    {
+      "en": "Setbacks expose weak assumptions and force us to adjust methods before repeating the same error. They can also reveal hidden strengths, such as resilience under pressure and disciplined recovery. In many cases, disappointment even clarifies who genuinely supports us.",
+      "zh": "挫折会暴露脆弱的假设，并迫使我们在重蹈覆辙之前调整方法。它也能揭示隐藏的优势，例如压力下的韧性和有条不紊的复原能力。在许多情况下，失望甚至能帮我们看清谁是真正支持自己的人。",
+      "words": [
+        {
+          "word": "setbacks",
+          "phonetic": "/ˈsetbæks/",
+          "meaning": "n. 挫折，阻碍"
+        },
+        {
+          "word": "resilience",
+          "phonetic": "/rɪˈzɪliəns/",
+          "meaning": "n. 韧性，复原力"
+        }
+      ]
+    },
+    {
+      "en": "The practical goal is not to glorify failure, but to extract information from it quickly and honestly. People who rebound well usually separate identity from outcome and keep experimenting. Growth often starts exactly where certainty collapses.",
+      "zh": "务实的目标并非美化失败，而是快速且诚实地从中提取信息。善于反弹的人通常能将自我认同与阶段性结果区分开来，并持续进行尝试。成长往往正是从确定性崩塌的地方开始的。",
+      "words": [
+        {
+          "word": "glorify",
+          "phonetic": "/ˈɡlɔːrɪfaɪ/",
+          "meaning": "v. 美化，颂扬"
+        },
+        {
+          "word": "rebound",
+          "phonetic": "/rɪˈbaʊnd/",
+          "meaning": "v. 反弹，恢复"
+        },
+        {
+          "word": "collapses",
+          "phonetic": "/kəˈlæpsɪz/",
+          "meaning": "v. 倒塌，崩溃"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "kaoyan_011",
+  "category": "kaoyan",
+  "title": "Who Should Pay for Britain's Railways",
+  "subtitle": "英国铁路谁来买单：涨价能换来好服务吗",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Britain's regulated rail fares rise almost every year, adding visible pressure to commuters. Governments defend this approach by saying frequent users should carry more of the system's cost than general taxpayers. In principle, that argument appears fiscally fair.",
+      "zh": "英国受管制的铁路票价几乎年年上涨，给通勤者带来肉眼可见的压力。政府为此辩护称，高频使用者理应比普通纳税人承担更多系统成本。从财政逻辑看，这一论点表面上是公平的。",
+      "words": [
+        {
+          "word": "commuter",
+          "phonetic": "/kəˈmjuːtər/",
+          "meaning": "n. 通勤者"
+        },
+        {
+          "word": "fiscally",
+          "phonetic": "/ˈfɪskəli/",
+          "meaning": "adv. 财政上"
+        }
+      ]
+    },
+    {
+      "en": "In practice, passengers often pay more while still enduring delays, overcrowding, and strike disruption. That gap between price and reliability erodes trust faster than any single fare increase. Regional inequality deepens the frustration because service quality differs sharply across the network.",
+      "zh": "然而实际上，乘客往往付了更多的钱，却仍需忍受延误、拥挤和罢工带来的混乱。价格与可靠性之间的落差，对信任的侵蚀远快于任何一次单独涨价。铁路网络内各区域服务质量悬殊，进一步加剧了这种挫败感。",
+      "words": [
+        {
+          "word": "erode",
+          "phonetic": "/ɪˈroʊd/",
+          "meaning": "v. 侵蚀；削弱"
+        },
+        {
+          "word": "disruption",
+          "phonetic": "/dɪsˈrʌpʃn/",
+          "meaning": "n. 中断；扰乱"
+        }
+      ]
+    },
+    {
+      "en": "A durable settlement needs investment plus stronger accountability for performance failures. Compensation for severe disruption and enforceable minimum service levels during strikes can reduce public anger. If service quality keeps lagging, pressure for heavier state intervention will return.",
+      "zh": "一个可持续的方案既需要投资，也需要对服务失误建立更强的问责机制。对严重中断进行赔偿，并在罢工期间设置可执行的最低服务水平，有助于平息公众怒火。如果服务质量持续落后，要求国家加强干预的呼声仍将卷土重来。",
+      "words": [
+        {
+          "word": "accountability",
+          "phonetic": "/əˌkaʊntəˈbɪləti/",
+          "meaning": "n. 问责；责任制"
+        },
+        {
+          "word": "enforceable",
+          "phonetic": "/ɪnˈfɔːrsəbl/",
+          "meaning": "adj. 可执行的"
+        }
+      ]
+    }
+  ]
+}

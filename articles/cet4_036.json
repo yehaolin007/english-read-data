@@ -1,0 +1,85 @@
+{
+  "id": "cet4_036",
+  "category": "cet4",
+  "title": "Why Women Book Cheaper Flights",
+  "subtitle": "女性为何总能订到更便宜的机票",
+  "readTime": 2,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "Female employees consistently pay lower airfares than men do for the same flights because they tend to book earlier. We compared the airfare paid by employees in the same position within a company for the same class of travel and used a common statistical technique to account for other factors that might affect differences in airfares. We found that women paid on average $18 less per ticket than their male colleagues.",
+      "zh": "对于相同的航班，女性员工支付的机票价格始终低于男性员工，因为她们往往更早预订。我们比较了同一公司内同一职位的员工为同一舱位支付的机票价格，并用统计方法控制了其他可能影响价格差异的因素。结果发现，女性每张票平均比男性同事少付18美元。",
+      "words": [
+        {
+          "word": "consistently",
+          "phonetic": "/kənˈsɪstəntli/",
+          "meaning": "adv. 始终；一贯地"
+        },
+        {
+          "word": "account for",
+          "phonetic": "/əˈkaʊnt fɔːr/",
+          "meaning": "phr. 解释；考虑"
+        }
+      ]
+    },
+    {
+      "en": "Further investigation allowed us to conclude that this gap is largely explained by the fact that women tended to book earlier than men, 1.8 days on average. We wanted to determine what was causing these gender differences in booking business trips so we tested a variety of possible explanations, such as women choosing to plan ahead or male frequent travelers being inclined to book late.",
+      "zh": "进一步研究表明，这种差距很大程度上是因为女性平均提前1.8天预订。我们想弄清是什么导致了商务旅行预订中的性别差异，于是测试了多种可能的解释，例如女性倾向于提前计划，或男性常旅客倾向于延迟预订。",
+      "words": [
+        {
+          "word": "inclined to",
+          "phonetic": "/ɪnˈklaɪnd tuː/",
+          "meaning": "phr. 倾向于"
+        }
+      ]
+    },
+    {
+      "en": "None of these explained away the gender gap, so we applied data collected from surveys that express consumer preferences that play a central role in economic decisions, such as patience and risk avoidance. We found that only the concept of \"negative reciprocity\" — in which an employee who feels unfairly treated engages in negative behaviors, such as spending their company's money less carefully — explains these differences. The surveys showed men tend to exhibit more of these negative behaviors than women.",
+      "zh": "这些都无法解释性别差距，因此我们引入了调查中收集的消费者偏好数据——如耐心和风险规避——它们在经济决策中起着核心作用。我们发现，只有「消极互惠」这一概念能解释这种差异：即感到被不公平对待的员工会做出消极行为，比如不那么谨慎地花公司的钱。调查显示，男性比女性更容易表现出此类消极行为。",
+      "words": [
+        {
+          "word": "reciprocity",
+          "phonetic": "/ˌresɪˈprɑːsəti/",
+          "meaning": "n. 互惠；相互作用"
+        },
+        {
+          "word": "exhibit",
+          "phonetic": "/ɪɡˈzɪbɪt/",
+          "meaning": "v. 表现出；显示"
+        }
+      ]
+    },
+    {
+      "en": "This isn't to say that all men engage in these behaviors — or that booking relatively late is a sign of abnormal behavior. It only means that the gender gap disappears when we plug in the negative reciprocity variable. Prior research on negative reciprocity among workers found that it can result in lower employee motivation, business performance and workplace morale and culture.",
+      "zh": "这并不是说所有男性都会有这些行为，或者预订较晚就是异常行为的表现。这仅意味着当我们将消极互惠变量纳入分析后，性别差距就消失了。此前关于员工消极互惠的研究发现，它会导致员工积极性降低、业务绩效下滑以及工作场所士气和文化恶化。",
+      "words": [
+        {
+          "word": "variable",
+          "phonetic": "/ˈveriəbl/",
+          "meaning": "n. 变量"
+        },
+        {
+          "word": "morale",
+          "phonetic": "/məˈræl/",
+          "meaning": "n. 士气；精神面貌"
+        }
+      ]
+    },
+    {
+      "en": "Our results show another way these negative behaviors can manifest themselves, like in airline bookings, and add to evidence that women are less likely to engage in them. Companies spend significant sums of money on business travel. While that $18 difference per ticket may seem small, it adds up. Our analysis suggests early booking by women can translate into savings of $1 million a year for a large multinational company with 20,000 regular travelers.",
+      "zh": "我们的研究结果揭示了这些消极行为的另一种表现形式——如在机票预订中的体现，并进一步证明女性不太可能参与此类行为。公司在商务旅行上花费巨额资金，虽然每张票18美元的差额看似微小，但积少成多。我们的分析表明，对于一家拥有两万名常旅客的大型跨国公司，女性的提前预订习惯每年可节省约一百万美元。",
+      "words": [
+        {
+          "word": "manifest",
+          "phonetic": "/ˈmænɪfest/",
+          "meaning": "v. 显现；表现"
+        },
+        {
+          "word": "translate into",
+          "phonetic": "/trænsˈleɪt ˈɪntuː/",
+          "meaning": "phr. 转化为；导致"
+        }
+      ]
+    }
+  ]
+}

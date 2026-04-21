@@ -1,0 +1,98 @@
+{
+  "id": "cet4_018",
+  "category": "cet4",
+  "title": "What You Ate Yesterday",
+  "subtitle": "你昨天吃了什么？大多数人根本记不清",
+  "readTime": 2,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "Can you remember what you ate yesterday? If asked, most people will be able to give a vague description of their main meals: breakfast, lunch, dinner. But can you be sure you've noted every snack bar in your car, or every handful of nuts at your desk?",
+      "zh": "你记得昨天吃过什么吗？如果被问到，大多数人都能大致说出自己的主餐：早餐、午餐、晚餐。但你能确定自己记住了在车里吃的每一根能量棒，或在办公桌前随手抓的每一把坚果吗？",
+      "words": [
+        {
+          "word": "vague",
+          "phonetic": "/veɪɡ/",
+          "meaning": "adj. 模糊的；不明确的"
+        }
+      ]
+    },
+    {
+      "en": "Most people will have a feeling that they've missed something out. We originally had this suspicion back in 2016, puzzled by the fact that national statistics showed calorie consumption falling dramatically over past decades.",
+      "zh": "大多数人都会有自己遗漏了某些东西的感觉。我们早在2016年就有了这种怀疑，当时国家统计数据显示过去几十年来热量摄入在急剧下降，这让我们十分困惑。",
+      "words": [
+        {
+          "word": "suspicion",
+          "phonetic": "/səˈspɪʃn/",
+          "meaning": "n. 怀疑；猜疑"
+        }
+      ]
+    },
+    {
+      "en": "We found reliable evidence that people were drastically under-reporting what they ate. Now the Office for National Statistics has confirmed that we are consuming 50% more calories than our national statistics claim. Why is this happening?",
+      "zh": "我们找到了可靠证据，表明人们严重少报了自己的饮食量。如今国家统计局已证实，我们实际摄入的热量比官方数据声称的要高出50%。这究竟是为什么？",
+      "words": [
+        {
+          "word": "drastically",
+          "phonetic": "/ˈdræstɪkli/",
+          "meaning": "adv. 剧烈地；大幅度地"
+        }
+      ]
+    },
+    {
+      "en": "We can point to at least three potential causes. One is the rise in obesity levels itself. Under-reporting rates are much higher for obese people, because they simply consume more food, and thus have more to remember.",
+      "zh": "我们至少可以指出三个潜在原因。一是肥胖率本身的上升。肥胖人群的漏报率高得多，原因很简单，他们吃的食物更多，要记住的内容也就更多。",
+      "words": [
+        {
+          "word": "obesity",
+          "phonetic": "/oʊˈbiːsəti/",
+          "meaning": "n. 肥胖；过度肥胖"
+        }
+      ]
+    },
+    {
+      "en": "Another cause is that the proportion of people who are trying to lose weight has been increasing over time. People who want to lose weight are more likely to under-report their eating — regardless of whether they are overweight or not. This may be driven partly by self-deception or wishful thinking.",
+      "zh": "另一个原因是，试图减肥的人群比例随着时间的推移一直在增加。想减肥的人更可能少报饮食——无论他们本身是否超重。这种情况背后可能是自欺欺人或一厢情愿的心理在作祟。",
+      "words": [
+        {
+          "word": "proportion",
+          "phonetic": "/prəˈpɔːrʃn/",
+          "meaning": "n. 比例；部分"
+        }
+      ]
+    },
+    {
+      "en": "The final potential cause is an increase in snacking and eating out over recent decades -- both in terms of how often they happen and how much they contribute to our overall energy intake. There is evidence that food consumed out of the home is one of the most poorly recorded categories in surveys.",
+      "zh": "最后一个潜在原因是近几十年来零食和外出就餐的增加——无论是频率还是对总能量摄入的贡献都在增长。有证据表明，在外面吃的食物是调查中记录最不准确的类别之一。",
+      "words": [
+        {
+          "word": "intake",
+          "phonetic": "/ˈɪnteɪk/",
+          "meaning": "n. 摄入量；摄取"
+        }
+      ]
+    },
+    {
+      "en": "So, what's the message conveyed? For statistics, we should invest in more accurate measurement options. For policy, we need to focus on options that make it easy for people to eat fewer calories.",
+      "zh": "那么，这说明了什么问题？在统计方面，我们应投资开发更精确的测量方法。在政策方面，我们需要把重点放在让人们更容易减少热量摄入的措施上。",
+      "words": [
+        {
+          "word": "convey",
+          "phonetic": "/kənˈveɪ/",
+          "meaning": "v. 传达；表达"
+        }
+      ]
+    },
+    {
+      "en": "If people do not know how much they are eating, it can be really hard for them to stick to a diet. We should also be looking for new ways to ensure what people eat wouldn't have much impact on their waistlines. If this works, it won't matter if they can't remember what they ate yesterday.",
+      "zh": "如果人们根本不清楚自己吃了多少，那坚持节食就会变得异常困难。我们也应该探索新方法，确保人们吃的食物不会对腰围产生太大影响。如果这个方法奏效，那么他们记不记得昨天吃了什么也就无关紧要了。",
+      "words": [
+        {
+          "word": "waistline",
+          "phonetic": "/ˈweɪstlaɪn/",
+          "meaning": "n. 腰围；腰身"
+        }
+      ]
+    }
+  ]
+}

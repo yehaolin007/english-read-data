@@ -1,0 +1,268 @@
+{
+  "id": "cet6_082",
+  "category": "cet6",
+  "title": "The History and Meaning of Colored Traffic Lights",
+  "subtitle": "红绿灯的前世今生：从煤气灯到智能信号",
+  "readTime": 7,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Timed traffic lights are set according to schedules that are supposed to coordinate with peak traffic hours. Cities need to monitor and update signal light time schedules at least every two years to keep these systems effective. In Los Angeles, California, an ambitious project to go a step further and synchronize every red light in Los Angeles cost over 400 million dollars.",
+      "zh": "定时交通灯根据与高峰时段相协调的时间表设置。城市至少每两年需要对信号灯配时方案进行监测和更新，以保持系统有效运行。在加利福尼亚州洛杉矶，一项更进一步的宏大工程耗资超过4亿美元，旨在将全市所有红灯同步起来。",
+      "words": [
+        {
+          "word": "synchronize",
+          "phonetic": "/ˈsɪŋkrənaɪz/",
+          "meaning": "v. 使同步；使协调"
+        }
+      ]
+    },
+    {
+      "en": "Ask a resident of the city and they are likely to agree that saving time on the road is well worth it. If implemented nationwide, synchronization could shave 10% off traffic congestion and 20% off air pollution. Congestion costs time, money, and lives.",
+      "zh": "如果询问该市居民，他们很可能会认同省下的路上时间绝对值回票价。如果在全美范围推行，信号灯同步可减少10%的交通拥堵和20%的空气污染。交通拥堵浪费的是时间、金钱，乃至生命。",
+      "words": [
+        {
+          "word": "implement",
+          "phonetic": "/ˈɪmplɪment/",
+          "meaning": "v. 实施；执行"
+        },
+        {
+          "word": "congestion",
+          "phonetic": "/kənˈdʒestʃən/",
+          "meaning": "n. 拥堵；拥挤"
+        }
+      ]
+    },
+    {
+      "en": "Big data can help improve how millions of people safely share the road. However, none of this would be possible without the traffic light! The first traffic light was invented in London in the 1860's, but it was hardly recognizable — or effective.",
+      "zh": "大数据有助于改善数百万人在道路上安全共行的方式。然而，若无交通信号灯，这一切都将无从谈起！第一盏交通信号灯于19世纪60年代在伦敦发明，但当时的设计几乎难以辨认，效果也不尽如人意。",
+      "words": []
+    },
+    {
+      "en": "It had been adapted from the railroad signal system by a railway manager, John Peak Knight, in 1868. The railroads used red gas lights at night to signal stops and green gas lights during the daytime. Knight installed a similar gas light, semaphore system near London's Westminster Bridge in December of 1868.",
+      "zh": "它由铁路经理约翰·皮克·奈特于1868年从铁路信号系统改造而来。铁路上夜间使用红色煤气灯表示停车，白天则使用绿色煤气灯。1868年12月，奈特在伦敦威斯敏斯特桥附近安装了类似的煤气灯及臂板信号系统。",
+      "words": [
+        {
+          "word": "semaphore",
+          "phonetic": "/ˈseməfɔːr/",
+          "meaning": "n. 臂板信号；信号机"
+        }
+      ]
+    },
+    {
+      "en": "The life of the first traffic light signal was short-lived. A gas leak caused one of the signal lights to explode on its police officer operator within a month of being installed. Automating traffic signals stalled after the London incident.",
+      "zh": "第一盏交通信号灯的寿命十分短暂。安装后不到一个月，煤气泄漏导致其中一个信号灯在操作的警察身上爆炸。伦敦事故之后，交通信号自动化的进程陷入了停滞。",
+      "words": [
+        {
+          "word": "stall",
+          "phonetic": "/stɔːl/",
+          "meaning": "v. 停滞；熄火"
+        }
+      ]
+    },
+    {
+      "en": "Forty years passed before cars crowding city streets urged the development of traffic lights in the United States. London would not see another traffic light until 1929. The United States is a car culture like no other country.",
+      "zh": "四十年后，挤满城市街道的汽车才迫使美国开始发展交通信号灯。而伦敦直到1929年才再次出现红绿灯。美国的汽车文化与其他任何国家都迥然不同。",
+      "words": []
+    },
+    {
+      "en": "Unlike most European cities that started urban planning when horses were high-tech, many cities in the United States were designed around urban sprawl, suburban tracts, and motor cars. As traffic and cities grew, so did the race to solve growing traffic problems. The first traffic signals were semaphores.",
+      "zh": "与多数欧洲城市在马匹尚属“高科技”时代便开始城市规划不同，美国的许多城市是围绕城市扩张、郊区地块和机动车设计而成的。随着交通流量与城市规模的增长，解决日益严峻交通问题的竞赛也随之展开。最早的交通信号是臂板信号机。",
+      "words": [
+        {
+          "word": "sprawl",
+          "phonetic": "/sprɔːl/",
+          "meaning": "n. 蔓延；扩展"
+        }
+      ]
+    },
+    {
+      "en": "Semaphores are towers with moving arms signaling for traffic to stop or go. They could be manual or automatic. There was no consistent design.",
+      "zh": "臂板信号机是带有可动臂杆的塔架，用以示意车辆停止或通行。它们可以是手动或自动的，设计样式也各不相同。",
+      "words": [
+        {
+          "word": "manual",
+          "phonetic": "/ˈmænjuəl/",
+          "meaning": "adj. 手动的"
+        }
+      ]
+    },
+    {
+      "en": "Various models were invented and put into place in cities as the need arose. In 1912, Lester Wire was a police officer exhausted by traffic at Main Street and 200 South. He developed a manually switched stop light.",
+      "zh": "随着需求的出现，各种型号被发明并在城市中投入使用。1912年，警察莱斯特·威尔因主街与南200街交叉口的交通状况疲惫不堪，于是发明了一种手动切换的停车灯。",
+      "words": []
+    },
+    {
+      "en": "The four-sided box, raised on a ten-foot pole, looked like a birdhouse and was operated manually by an officer. The officer would flip a switch to change between the dipped red and green lights. Like the 1910 semaphore, the first electric signal used words.",
+      "zh": "这个四面箱体架在一根10英尺高的杆子上，形似鸟屋，由警察手动操作。警官扳动开关，在暗红灯与绿灯之间切换。与1910年的臂板信号机类似，最初的电子信号灯使用的也是文字。",
+      "words": []
+    },
+    {
+      "en": "However, the words were no longer written on arms that raised and fell. The words “stop” or “move” were on lights. The posts lit up on each of four cornerposts around an intersection.",
+      "zh": "然而，文字不再写于起落的臂杆之上，而是直接出现在灯光上，显示“停止”或“通行”。十字路口周围的四个角柱上，灯柱会逐个亮起。",
+      "words": []
+    },
+    {
+      "en": "It was not automated, though. A booth with an operator was required to flip the switches. The system allowed police officers to move from the middle of the street to a corner.",
+      "zh": "不过，这套系统并非自动化的。需要一个配有操作员的值班亭来拨动开关。该系统使得警察能从街道中央转移到街角。",
+      "words": []
+    },
+    {
+      "en": "From that vantage, an officer could oversee the crowd. If an emergency vehicle came, the officer could flip a switch and clear the intersection by triggering all red lights. The emergency vehicle could now pass effortlessly.",
+      "zh": "在那个有利位置，警官可以纵览全局。若有紧急车辆通过，警察便可扳动开关，触发全部红灯以清空路口。紧急车辆如今便能畅行无阻。",
+      "words": [
+        {
+          "word": "vantage",
+          "phonetic": "/ˈvæntɪdʒ/",
+          "meaning": "n. 有利位置"
+        }
+      ]
+    },
+    {
+      "en": "Finally, in San Francisco the first red and green electric light system that could be operated automatically (or manually) was introduced in 1917. In 1920, the first three-color light system was introduced in Detroit — also known as Motor City, USA. The evolution of traffic light signals could not have a more appropriate context than Motor City.",
+      "zh": "最终，1917年在旧金山推出了首套可自动（或手动）操作的红绿电灯系统。1920年，第一套三色灯光系统在底特律——也就是美国的“汽车城”——投入使用。交通信号灯的演变，再没有比“汽车城”更合适的背景了。",
+      "words": [
+        {
+          "word": "context",
+          "phonetic": "/ˈkɑːntekst/",
+          "meaning": "n. 背景；环境"
+        }
+      ]
+    },
+    {
+      "en": "Ford Motor Company was founded in Detroit in 1903 (and other motor companies followed). Ford made cars affordable for more common people, rather than the wealthy, by creating larger scale factory production. Stop and go were insufficient for the new volumes of cars zooming through intersections.",
+      "zh": "福特汽车公司于1903年在底特律成立，其他汽车公司也紧随其后。福特通过大规模工厂生产，让更多普通人而非仅是富人买得起汽车。对于在十字路口呼啸而过的庞大新车流量而言，简单的“停”和“行”已远远不够。",
+      "words": [
+        {
+          "word": "zoom",
+          "phonetic": "/zuːm/",
+          "meaning": "v. 疾行；飞驰"
+        }
+      ]
+    },
+    {
+      "en": "Streets were full of new numbers of cars in addition to delivery wagons, bustling crowds, bicycles, horse-drawn carriages, and street cars. The introduction of the cautionary yellow light helped increase driver safety, decreasing accidents that come from running red lights. Stop lights were incredibly important in chaotic city streets.",
+      "zh": "街道上除了新涌现的大量汽车，还挤满了货车、熙攘人群、自行车、马车及有轨电车。警示性黄灯的引入有助于提升驾驶员安全，减少了因闯红灯造成的事故。在混乱的城市街道上，停车灯的重要性无可估量。",
+      "words": [
+        {
+          "word": "cautionary",
+          "phonetic": "/ˈkɔːʃəneri/",
+          "meaning": "adj. 警示的；告诫的"
+        }
+      ]
+    },
+    {
+      "en": "Crosswalks weren't even introduced until 1951. The first pedestrian fatality in the United States was in 1899. The development of the modern traffic light may have started in London, but it grew up in the United States.",
+      "zh": "人行横道甚至直到1951年才被引入。美国第一起行人死亡事故发生于1899年。现代交通信号灯的发展或许始于伦敦，却是在美国真正成熟起来的。",
+      "words": [
+        {
+          "word": "fatality",
+          "phonetic": "/fəˈtæləti/",
+          "meaning": "n. 死亡事故"
+        }
+      ]
+    },
+    {
+      "en": "In Cleveland, an African-American inventor named Garrett Morgan came up with an affordable, patented traffic signal. The yellow light made intersections safer than the old stop and go system. The new design was inexpensive enough that it allowed the installation of a lot more lights.",
+      "zh": "在克利夫兰，非裔美国发明家加勒特·摩根发明了一种价格实惠并获专利的交通信号灯。黄灯使得十字路口比旧式的“停-行”系统安全得多。新设计足够便宜，使得安装更多信号灯成为可能。",
+      "words": [
+        {
+          "word": "patented",
+          "phonetic": "/ˈpætntɪd/",
+          "meaning": "adj. 获专利的"
+        }
+      ]
+    },
+    {
+      "en": "Morgan sold the patent to General Electric — and the spread of the traffic light was green lighted. Green means go. It is that simple, but it's still best to check both ways for oncoming traffic that may not be paying attention or is running the light.",
+      "zh": "摩根将专利出售给了通用电气公司——交通信号灯的推广就此“绿灯”放行。绿灯意味着通行。道理就这么简单，但最好还是察看左右两侧有无未加注意或闯红灯的来车。",
+      "words": []
+    },
+    {
+      "en": "Yellow means slow down and prepare to stop. It does not mean full-throttle ahead. While you may get away with gunning it into the intersection, running a yellow can lead to tickets and dangerous accidents.",
+      "zh": "黄灯意味着减速并准备停车，并不代表全速冲刺。虽然你可能侥幸冲过路口，但闯黄灯可能导致罚单和危险事故。",
+      "words": [
+        {
+          "word": "full-throttle",
+          "phonetic": "/ˈfʊl ˌθrɑːtl/",
+          "meaning": "adj. 全速的"
+        }
+      ]
+    },
+    {
+      "en": "Red lights are a clear and consistent warning to stop. Even where right turns are allowed on red lights, you must come to a complete stop before turning right. You must also yield to any through traffic, which has the right of way.",
+      "zh": "红灯是明确且始终如一的停车警告。即使在允许红灯右转的地方，也必须在完全停稳后方可右转。你还必须礼让享有路权的直行车辆。",
+      "words": [
+        {
+          "word": "yield",
+          "phonetic": "/jiːld/",
+          "meaning": "v. 让行；屈服"
+        }
+      ]
+    },
+    {
+      "en": "In most states and cities, you can take a right on red unless otherwise indicated. New York City does not allow a right on red. Red arrows mean you cannot turn right on a red in most states.",
+      "zh": "在多数州和城市，除非另有指示，红灯时可以右转。纽约市不允许红灯右转。在多数州，红色箭头意味着红灯时不得右转。",
+      "words": []
+    },
+    {
+      "en": "The green arrow, in these cases, is the only time you can make the turn. However, you can take a right on a red arrow after a full stop in the states of Illinois, Kansas, Louisiana, Maryland, Michigan, New Hampshire, North Dakota, Oregon, South Carolina, Utah, Washington State and Wyoming.",
+      "zh": "在这些情况下，绿色箭头是唯一允许转弯的时机。不过，在伊利诺伊、堪萨斯、路易斯安那、马里兰、密歇根、新罕布什尔、北达科他、俄勒冈、南卡罗来纳、犹他、华盛顿州和怀俄明等州，你可以在红色箭头亮起时完全停车后右转。",
+      "words": []
+    },
+    {
+      "en": "Flashing Red is the same as a stop sign, generally used at four-way intersections where there is minimal traffic. When arriving at a flashing red light, make a full and complete stop. Flashing Red Arrows similarly mean to stop and then proceed to take the turn.",
+      "zh": "闪烁红灯与停车标志含义相同，通常用于交通流量极小的四向路口。抵达闪烁红灯时，须完全停稳。闪烁红色箭头同样意味着先停车，然后再进行转弯。",
+      "words": [
+        {
+          "word": "minimal",
+          "phonetic": "/ˈmɪnɪməl/",
+          "meaning": "adj. 极小的；最低限度的"
+        }
+      ]
+    },
+    {
+      "en": "Flashing Yellow lights mean yield or signal caution, like outside of a fire station. There are no all-direction flashing yellow lights, since it is prohibited in the United States. If you have a flashing yellow light, you are to yield to oncoming traffic.",
+      "zh": "闪烁黄灯意味着让行或发出警告，比如在消防站外。全方向闪烁黄灯在美国是被禁止的。如果遇到闪烁黄灯，你应当礼让迎面而来的车辆。",
+      "words": []
+    },
+    {
+      "en": "Flashing Yellow Arrows are part of a four-signal traffic light. These are used in some states after a protected green turn signal, or arrow, but before a steady yellow arrow. When a flashing yellow arrow is shown, you can take the turn after yielding to pedestrians and traffic.",
+      "zh": "闪烁黄色箭头是四信号交通灯的一部分。在某些州，它用于受保护的绿色转向灯（或箭头）之后、稳定黄色箭头之前。当闪烁黄色箭头亮起时，你可以在让行行人和车辆后进行转弯。",
+      "words": [
+        {
+          "word": "pedestrian",
+          "phonetic": "/pəˈdestriən/",
+          "meaning": "n. 行人"
+        }
+      ]
+    },
+    {
+      "en": "Steady Yellow Arrows maintain the normal yellow light caution in three-light signals, meaning to stop or prepare to stop. In a four-signal system that has a flashing yellow arrow, the steady yellow arrow is a signal that the yield period is ending. The red arrow is about to start.",
+      "zh": "稳定黄色箭头保持了三灯信号中普通黄灯的警示含义，即停车或准备停车。在设有闪烁黄色箭头的四信号系统中，稳定黄色箭头意味着让行时段即将结束，红色箭头即将开始。",
+      "words": []
+    },
+    {
+      "en": "Vehicles should stop if safely possible. Traffic tickets are possible for running a steady yellow arrow. Traffic light meaning is fairly consistent across the board with various deviations.",
+      "zh": "若安全可行，车辆应当停下。闯稳定黄色箭头可能会收到交通罚单。交通信号灯的含义总体相当一致，但也有一些偏差。",
+      "words": [
+        {
+          "word": "deviation",
+          "phonetic": "/ˌdiːviˈeɪʃn/",
+          "meaning": "n. 偏差；偏离"
+        }
+      ]
+    },
+    {
+      "en": "Green means it's safe to proceed (though you should still exercise caution). Yellow means caution and yield. Red means danger and stop. Always drive defensively and obey traffic signals.",
+      "zh": "绿灯表示可以安全通行（但仍需保持谨慎）。黄灯表示警告并需让行。红灯表示危险且必须停车。始终采取防御性驾驶并遵守交通信号。",
+      "words": [
+        {
+          "word": "defensively",
+          "phonetic": "/dɪˈfensɪvli/",
+          "meaning": "adv. 防御性地"
+        }
+      ]
+    }
+  ]
+}

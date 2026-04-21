@@ -1,0 +1,75 @@
+{
+  "id": "kaoyan_046",
+  "category": "kaoyan",
+  "title": "The Geography of AI Wealth",
+  "subtitle": "数字经济越发达，贫富差距越大？",
+  "readTime": 2,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "In her new book Cogs and Monsters: What Economics Is, and What It Should Be, Diane Coyle, an economist at Cambridge University, argues that the digital economy requires new ways of thinking about progress. 'Whatever we mean by the economy growing, by things getting better, the gains will have to be more evenly shared than in the recent past,' she writes. 'An economy of tech millionaires or billionaires and gig workers, with middle-income jobs undercut by automation, will not be politically sustainable.'",
+      "zh": "剑桥大学经济学家黛安·科伊尔在她的新书《齿轮与怪物：经济学是什么，以及它应该是什么》中指出，数字经济需要新的方式来思考进步。她写道：“无论我们所说的经济增长、情况好转意味着什么，其收益都必须比最近更均匀地分享。一个由科技百万富翁或亿万富翁和零工工人组成、中等收入工作岗位被自动化削弱的经济，在政治上是不可持续的。”",
+      "words": [
+        {
+          "word": "undercut",
+          "phonetic": "/ˌʌndərˈkʌt/",
+          "meaning": "v. 削弱，压低"
+        },
+        {
+          "word": "sustainable",
+          "phonetic": "/səˈsteɪnəbl/",
+          "meaning": "adj. 可持续的"
+        }
+      ]
+    },
+    {
+      "en": "Improving living standards and increasing prosperity for more people will require greater use of digital technologies to boost productivity in various sectors, including health care and construction, says Coyle. But people can't be expected to embrace the changes if they're not seeing the benefits — if they're just seeing good jobs being destroyed. 'We're talking about disruption,' she says. 'These are transformative technologies. To make such tremendous changes, you need social buy-in.'",
+      "zh": "科伊尔说，提高更多人的生活水平和增进繁荣，需要在医疗保健和建筑等各个领域更多地使用数字技术以提高生产力。但如果人们看不到好处——如果他们只看到好工作被摧毁——就不能指望他们拥抱这些变化。“我们在谈论颠覆，”她说，“这些是变革性的技术。要做出如此巨大的改变，你需要社会的认同。”",
+      "words": [
+        {
+          "word": "disruption",
+          "phonetic": "/dɪsˈrʌpʃn/",
+          "meaning": "n. 颠覆，中断"
+        },
+        {
+          "word": "buy-in",
+          "phonetic": "/ˈbaɪ ɪn/",
+          "meaning": "n. 认同，支持"
+        }
+      ]
+    },
+    {
+      "en": "Instead, says Coyle, resentment is simmering among many as the benefits are perceived to go to elites in a handful of prosperous cities. According to the Brookings Institution, a short list of eight American cities had roughly 38% of all tech jobs by 2019. New AI technologies are particularly concentrated: just 15 cities account for two-thirds of the AI assets and capabilities in the United States. The dominance of a few cities means that geographical disparities in wealth will continue to soar.",
+      "zh": "科伊尔说，相反，许多人的不满情绪正在酝酿，因为人们认为好处都流向了少数繁荣城市的精英。根据布鲁金斯学会的数据，到2019年，仅八个美国城市就占据了所有科技岗位的约38%。新的人工智能技术尤其集中：仅15个城市就占据了美国人工智能资产和能力的三分之二。少数城市的主导地位意味着财富的地域差距将继续飙升。",
+      "words": [
+        {
+          "word": "simmering",
+          "phonetic": "/ˈsɪmərɪŋ/",
+          "meaning": "v. 酝酿，积压"
+        },
+        {
+          "word": "disparities",
+          "phonetic": "/dɪˈspærətiz/",
+          "meaning": "n. 差距，不均等"
+        }
+      ]
+    },
+    {
+      "en": "Not only will this foster political and social unrest, but it could hold back the sorts of AI technologies needed for regional economies to grow. Part of the solution could lie in loosening the stranglehold that Big Tech has on defining the AI agenda. A more immediate response is to broaden our digital imaginations to conceive of AI technologies that don't simply replace jobs but expand opportunities in sectors like health care, education, and manufacturing.",
+      "zh": "这不仅会助长政治和社会动荡，还可能阻碍区域经济增长所需的那种AI技术的发展。部分解决方案可能在于放松大型科技公司对定义AI议程的束缚。更直接的回应是拓宽我们的数字想象力，构想出不仅能取代工作，还能扩大医疗保健、教育和制造业等领域机会的AI技术。",
+      "words": [
+        {
+          "word": "foster",
+          "phonetic": "/ˈfɔːstər/",
+          "meaning": "v. 助长，培养"
+        },
+        {
+          "word": "stranglehold",
+          "phonetic": "/ˈstræŋɡlhoʊld/",
+          "meaning": "n. 束缚，压制"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

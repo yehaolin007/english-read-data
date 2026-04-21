@@ -1,0 +1,102 @@
+{
+  "id": "cet4_023",
+  "category": "cet4",
+  "title": "We're Eating More Fish than Ever These Days",
+  "subtitle": "人类吃的鱼翻了一倍：谁在喂饱世界",
+  "readTime": 2,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "We're eating more fish than ever these days. At around 20 kilograms per person global fish consumption is now more than twice what it was in the 1960s. What's really remarkable, though, is where that fish comes from.",
+      "zh": "如今我们吃的鱼比以往任何时候都多。全球人均鱼类消费量约为20公斤，是20世纪60年代的两倍多。但真正引人注目的是这些鱼的来源。",
+      "words": [
+        {
+          "word": "consumption",
+          "phonetic": "/kənˈsʌmpʃn/",
+          "meaning": "n. 消费；消耗量"
+        },
+        {
+          "word": "remarkable",
+          "phonetic": "/rɪˈmɑːrkəbl/",
+          "meaning": "adj. 引人注目的；非凡的"
+        }
+      ]
+    },
+    {
+      "en": "For the first time in human history, most of our aquatic food now comes from farming rather than fishing. People ate around 73 million tonnes of farmed fish — just more than half of the volume of fish that humans consumed — in 2014. That's out of a total fish supply of 167 million tonnes; the remaining 20 million or so tonnes go into things like animal feed and medical products.",
+      "zh": "在人类历史上，我们的水产食品首次主要来自养殖而非捕捞。2014年，人们食用了约7300万吨养殖鱼，刚刚超过人类鱼类消费总量的一半。这个数字出自1.67亿吨的鱼类总供应量；其余2000万吨左右用于动物饲料和医药产品等。",
+      "words": [
+        {
+          "word": "aquatic",
+          "phonetic": "/əˈkwætɪk/",
+          "meaning": "adj. 水生的；水产的"
+        }
+      ]
+    },
+    {
+      "en": "To keep eating fish at the current rate, we're definitely going to need to keep aquaculture developing. That's because the volume of fish caught in the wild has leveled off since the 1990s. Back in 1974, only 10% of marine fish stocks had been overfished. Now, more than three-tenths are.",
+      "zh": "要保持目前的鱼类消费速度，我们必须继续发展水产养殖。这是因为野生捕捞量自20世纪90年代以来已经趋于平稳。1974年，只有10%的海洋鱼类资源被过度捕捞，而现在这一比例已超过十分之三。",
+      "words": [
+        {
+          "word": "aquaculture",
+          "phonetic": "/ˈækwəkʌltʃər/",
+          "meaning": "n. 水产养殖"
+        },
+        {
+          "word": "overfish",
+          "phonetic": "/ˌoʊvərˈfɪʃ/",
+          "meaning": "v. 过度捕捞"
+        }
+      ]
+    },
+    {
+      "en": "Only a tenth of our oceans' fish stocks could sustain heavier fishing than current levels. But while catchings at sea have suffered, fish-farming has been growing at a fast rate. A lot of that is coming from China, which produces 60% of the world's farmed fish.",
+      "zh": "海洋中只有十分之一的鱼类资源能承受比目前更大的捕捞压力。但在海洋捕捞量受挫的同时，水产养殖业却在快速增长。其中很大一部分来自中国，中国的养殖鱼产量占全球的60%。",
+      "words": [
+        {
+          "word": "sustain",
+          "phonetic": "/səˈsteɪn/",
+          "meaning": "v. 承受；维持"
+        }
+      ]
+    },
+    {
+      "en": "In fact, some 35 countries, including China, now produce more farmed than wild-caught fish. This shift toward aquaculture isn't just good for ensuring salmon on your plate; it's also crucial to ensuring food security and sustainability. By 2050, the world will need to feed an estimated 9.7 billion people. They'll have to get their protein somewhere.",
+      "zh": "包括中国在内的约35个国家，养殖鱼产量已超过野生捕捞量。这种向水产养殖的转变不仅能保证你的餐桌上有三文鱼，对确保粮食安全和可持续性也至关重要。到2050年，全球人口预计将达到97亿，这些人都需要从某处获取蛋白质。",
+      "words": [
+        {
+          "word": "sustainability",
+          "phonetic": "/səˌsteɪnəˈbɪləti/",
+          "meaning": "n. 可持续性"
+        }
+      ]
+    },
+    {
+      "en": "However, raising cattle, pigs, and other landbased animals requires vast sums of grain and water. For example, pound for pound, beef requires 15 times more feed to raise than carp, a freshwater fish farmed all over Asia. That grain — and the water needed to grow it — could be consumed by people instead.",
+      "zh": "然而，养殖牛、猪等陆生动物需要消耗大量谷物和水资源。例如，同等重量下，养牛所需的饲料是鲤鱼的15倍，而鲤鱼是一种在亚洲各地广泛养殖的淡水鱼。这些谷物以及种植它们所需的水，本可以用来直接养活人类。",
+      "words": [
+        {
+          "word": "vast",
+          "phonetic": "/væst/",
+          "meaning": "adj. 大量的；广阔的"
+        }
+      ]
+    },
+    {
+      "en": "However, aquaculture is no silver bullet. In some southeast Asian countries, shrimp farming does disastrous damage to marine ecosystems. Despite these problems, however, shrimp continues to be among the most popular seafoods worldwide.",
+      "zh": "然而，水产养殖也并非万能的解决方案。在一些东南亚国家，对虾养殖对海洋生态系统造成了严重破坏。尽管如此，虾仍然是全球最受欢迎的海鲜之一。",
+      "words": [
+        {
+          "word": "silver bullet",
+          "phonetic": "/ˈsɪlvər ˈbʊlɪt/",
+          "meaning": "phr. 万灵药；高招"
+        },
+        {
+          "word": "disastrous",
+          "phonetic": "/dɪˈzæstrəs/",
+          "meaning": "adj. 灾难性的"
+        }
+      ]
+    }
+  ]
+}

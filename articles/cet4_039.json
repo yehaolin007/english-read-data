@@ -1,0 +1,75 @@
+{
+  "id": "cet4_039",
+  "category": "cet4",
+  "title": "Can Humans Truly Multitask?",
+  "subtitle": "人类真的能一心多用吗",
+  "readTime": 2,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "A multitasker is one who can perform two or more tasks effectively at the same time, which — apart from the obvious differences — is similar to what a computer does. The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time. However, the question is: can a person really be a multitasker? For most scientists, the answer is no. So much so that, according to experts in neuroscience, our brains do not handle multitasking situations well.",
+      "zh": "多任务处理者是指能够同时有效执行两项或多项任务的人，这——除了明显的差异外——与计算机的工作方式类似。这个概念确实来自技术领域，用于指代能同时执行多个任务的操作系统。然而问题是：人类真的能同时处理多项任务吗？对大多数科学家来说，答案是否定的。据神经科学专家称，我们的大脑并不擅长多任务处理。",
+      "words": [
+        {
+          "word": "realms",
+          "phonetic": "/relmz/",
+          "meaning": "n. 领域，范围"
+        },
+        {
+          "word": "neuroscience",
+          "phonetic": "/ˈnʊroʊsaɪəns/",
+          "meaning": "n. 神经科学"
+        }
+      ]
+    },
+    {
+      "en": "As soon as two tasks require our attention, productivity suffers. What we call multitasking, therefore, is in reality the ability to move more or less quickly from one task to another. This requires two essential conditions: that one of the tasks needs to be automatic, like walking or eating, and that they both need different mental processes. Answering the phone and writing at the same time, for example. However, on the other side of the coin there are people who maintain that it is possible to be, or at least seem to be, multitasking.",
+      "zh": "一旦两项任务同时需要我们关注，生产力就会下降。因此，我们所谓的多任务处理实际上是或快或慢地在不同任务之间切换的能力。这需要两个基本条件：其中一项任务必须是自动化的（如走路或吃饭），且两者需要不同的心理加工过程——例如同时接电话和写字。不过，也有人坚持认为多任务处理是可以做到的，至少看起来可以。",
+      "words": [
+        {
+          "word": "productivity",
+          "phonetic": "/ˌprɑːdʌkˈtɪvəti/",
+          "meaning": "n. 生产力，效率"
+        },
+        {
+          "word": "essential",
+          "phonetic": "/ɪˈsenʃl/",
+          "meaning": "adj. 必要的，基本的"
+        }
+      ]
+    },
+    {
+      "en": "A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance. The business perspective offers a different view: multitasking is understood as the ability to adapt to all types of environment within a company and effectively undertake different activities within a set time frame. Indeed, many companies look for people who are skilled in multitasking to improve their productivity.",
+      "zh": "最近一项研究得出结论：无论人们是否真的在同时处理多项任务，只要他们将自己的活动视为多任务处理，就会对表现产生积极影响。商业视角则提供了另一种观点：多任务处理被理解为在公司内部适应各种环境并在规定时间内有效开展不同活动的能力。事实上，许多公司都在寻找擅长多任务处理的人来提高生产力。",
+      "words": [
+        {
+          "word": "perceive",
+          "phonetic": "/pərˈsiːv/",
+          "meaning": "v. 视为，认为"
+        },
+        {
+          "word": "undertake",
+          "phonetic": "/ˌʌndərˈteɪk/",
+          "meaning": "v. 承担，从事"
+        }
+      ]
+    },
+    {
+      "en": "From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organizations, which favor flexibility in their working practices. The benefits of multitasking are clear. Being quicker and more efficient increases our performance and the number of tasks completed. But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes.",
+      "zh": "从这个角度看，你不仅可以进行多任务处理，而且这种能力还可以被培养——这在倡导工作灵活性的流动型组织中更容易实现。多任务处理的好处显而易见：更快、更高效能提升绩效和完成的任务量。但同时关注多件事意味着注意力分散，可能导致更多错误。",
+      "words": [
+        {
+          "word": "fluid",
+          "phonetic": "/ˈfluːɪd/",
+          "meaning": "adj. 流动的，灵活多变的"
+        },
+        {
+          "word": "flexibility",
+          "phonetic": "/ˌfleksəˈbɪləti/",
+          "meaning": "n. 灵活性，弹性"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

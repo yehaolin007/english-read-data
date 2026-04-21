@@ -1,0 +1,91 @@
+{
+  "id": "cet4_054",
+  "category": "cet4",
+  "title": "Can Gene-Editing Save Chocolate from Extinction?",
+  "subtitle": "巧克力可能要灭绝了：基因编辑能救它吗？",
+  "readTime": 2,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "Chocolates save us from many things, especially emotional distress. They comfort us in times of trouble, calming down a racing heart by channeling happy calories inside us. We all have faith in chocolates to delight us in an instant! Recently, chocolate lovers were heartbroken as scientists claimed that they can become extinct by 2050! But hey, we have some happy news for you.",
+      "zh": "巧克力能帮我们摆脱许多烦恼，尤其是情绪困扰。它们在我们困顿时给予安慰，通过向体内输送快乐卡路里来平复狂跳的心。我们都相信巧克力能瞬间带来愉悦！最近，科学家声称巧克力可能在2050年灭绝，令巧克力爱好者心碎不已！不过，我们有好消息要告诉你。",
+      "words": [
+        {
+          "word": "distress",
+          "phonetic": "/dɪˈstres/",
+          "meaning": "n. 痛苦，忧虑"
+        },
+        {
+          "word": "extinct",
+          "phonetic": "/ɪkˈstɪŋkt/",
+          "meaning": "adj. 灭绝的，绝种的"
+        }
+      ]
+    },
+    {
+      "en": "Scientists can still help save chocolates from dying out! If you are not aware as to why scientists made the statement about the death of this wonderful thing, let us tell you the facts. Chocolate trees, whose seeds are used to make chocolate, grow in the tropical plant world and require very specific weather conditions to prosper. Now, fifty percent of the world's cocoa beans come from two countries in West Africa: Côte d'Ivoire and Ghana. Scientists believe that both of these countries will experience a 3.8℉ temperature increase by 2050 due to global warming, endangering the cacao farms in the rainforests.",
+      "zh": "科学家仍能帮助拯救巧克力免于灭绝！如果你不清楚科学家为何宣称这种美妙事物将消亡，让我们告诉你事实。可可树（其种子用于制作巧克力）生长于热带地区，需要非常特定的气候条件才能繁茂。目前，全球50%的可可豆来自西非两个国家：科特迪瓦和加纳。科学家认为，由于全球变暖，到2050年这两个国家的气温将上升3.8华氏度，危及雨林中的可可农场。",
+      "words": [
+        {
+          "word": "prosper",
+          "phonetic": "/ˈprɑːspər/",
+          "meaning": "v. 繁荣，茁壮生长"
+        },
+        {
+          "word": "endangering",
+          "phonetic": "/ɪnˈdeɪndʒərɪŋ/",
+          "meaning": "v. 危及，危害"
+        }
+      ]
+    },
+    {
+      "en": "These farms will then have to be shifted to cooler mountainous areas, which are the natural habitat of wildlife. This will lead to some tough decisions: whether to grow chocolate or save wildlife. Unfortunately, the crisis of global warming has already had a serious negative impact on cacao farms' yields, leading to the prices of chocolates skyrocketing.",
+      "zh": "这些农场将不得不迁往较凉爽的山区，而那里正是野生动物的自然栖息地。这将导致艰难抉择：是种植巧克力还是拯救野生动物。不幸的是，全球变暖危机已对可可农场的产量产生严重负面影响，导致巧克力价格飙升。",
+      "words": [
+        {
+          "word": "habitat",
+          "phonetic": "/ˈhæbɪtæt/",
+          "meaning": "n. 栖息地"
+        },
+        {
+          "word": "skyrocketing",
+          "phonetic": "/ˈskaɪrɑːkɪtɪŋ/",
+          "meaning": "v. 飞涨，猛涨"
+        }
+      ]
+    },
+    {
+      "en": "Scientists, however, are trying to find a long-term and eco-friendly solution to this problem! They are trying to modify the species with a gene-editing technology, which will transform the seedlings into a species that survives even in a drier and warmer climate. According to a report by The Business Insider, in the University of California's new bio-sciences building, tiny green cacao seedlings are lined up in refrigerated greenhouses for a new experiment by using a technology called CRISPR.",
+      "zh": "然而，科学家正努力寻找一个长期且环保的解决方案！他们尝试利用基因编辑技术改造该物种，将幼苗转变为即使在更干燥、更温暖气候下也能存活的品种。据《商业内幕》报道，在加州大学新建的生物科学大楼里，小小的绿色可可幼苗整齐排列在冷藏温室中，等待利用CRISPR技术进行新实验。",
+      "words": [
+        {
+          "word": "modify",
+          "phonetic": "/ˈmɑːdɪfaɪ/",
+          "meaning": "v. 修改，改造"
+        },
+        {
+          "word": "seedlings",
+          "phonetic": "/ˈsiːdlɪŋz/",
+          "meaning": "n. 幼苗，秧苗"
+        }
+      ]
+    },
+    {
+      "en": "By manipulating the DNA of plants, this technology is already being used across the world to make plants tougher and cheaper. Similarly, in this unconventional experiment, scientists will make tiny, precise changes to the DNA of the seedlings to make the cocoa crops survive in warmer and drier climates.",
+      "zh": "通过操控植物DNA，这项技术已在全球范围内用于让植物更强韧、成本更低。同样，在这项非传统实验中，科学家将对幼苗DNA进行微小而精确的改变，使可可作物能在更温暖、更干燥的气候中生存。",
+      "words": [
+        {
+          "word": "manipulating",
+          "phonetic": "/məˈnɪpjuleɪtɪŋ/",
+          "meaning": "v. 操控，操作"
+        },
+        {
+          "word": "unconventional",
+          "phonetic": "/ˌʌnkənˈvenʃənl/",
+          "meaning": "adj. 非传统的，非常规的"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

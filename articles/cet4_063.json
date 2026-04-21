@@ -1,0 +1,81 @@
+{
+  "id": "cet4_063",
+  "category": "cet4",
+  "title": "Who Pays for Science and Does It Matter?",
+  "subtitle": "纳税人买单的研究，凭什么你看不到？",
+  "readTime": 2,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "Today, most scientific research is funded by government grants, companies doing research and development, and non-profit foundations. As a society, we reap the rewards from this science, but we also help pay for it. You indirectly support science through taxes you pay, products and services you purchase, and donations you make. Funding for science has changed with the times. Historically, science has been largely supported through private patronage, church sponsorship, or simply paying for the research yourself.",
+      "zh": "如今，大多数科学研究由政府拨款、企业研发部门和非营利基金会资助。作为社会一员，我们享受科学的成果，同时也为之付出代价。你通过缴税、购买产品和服务以及捐赠间接支持科学。科学资助随时代而变。历史上，科学主要靠私人赞助、教会资助或研究者自掏腰包来支持。",
+      "words": [
+        {
+          "word": "reap",
+          "phonetic": "/riːp/",
+          "meaning": "v. 收获，获得"
+        },
+        {
+          "word": "patronage",
+          "phonetic": "/ˈpætrənɪdʒ/",
+          "meaning": "n. 赞助，资助"
+        }
+      ]
+    },
+    {
+      "en": "Today, researchers are likely to be funded by a mix of grants from various government agencies, institutions, and foundations. Other research is funded by private companies. Such corporate sponsorship is widespread in some fields. Almost 75% of U.S. clinical trials in medicine are paid for by private companies. And, of course, some researchers today still fund small-scale studies out of their own pockets. Most of us can't afford to do nuclear research as a private hobby, but birdwatchers, rock collectors, and others can do real research on a limited budget.",
+      "zh": "如今，研究者可能获得来自多个政府机构、学术机构和基金会的混合资助。另一些研究则由私营公司资助。这种企业赞助在某些领域十分普遍。美国近75%的医学临床试验由私营公司出资。当然，如今仍有研究者自费进行小规模研究。大多数人负担不起将核研究作为私人爱好，但观鸟者、岩石收藏家等却能在有限预算下开展真正的研究。",
+      "words": [
+        {
+          "word": "clinical trials",
+          "phonetic": "/ˈklɪnɪkl ˈtraɪəlz/",
+          "meaning": "n. 临床试验"
+        }
+      ]
+    },
+    {
+      "en": "In a perfect world, money wouldn't matter — all scientific studies would be completely objective. But in the real world, funding may introduce biases. Drug research sponsored by the pharmaceutical industry is more likely to end up favoring the drug under consideration than studies sponsored by government grants or charitable organizations. Similarly, nutrition research sponsored by the food industry is more likely to end up favoring the food under consideration than independently funded research.",
+      "zh": "在完美世界里，金钱无关紧要——所有科学研究都将完全客观。但在现实世界中，资助可能引入偏见。由制药行业赞助的药物研究，最终结果偏向所研究药物的可能性高于政府拨款或慈善组织赞助的研究。同样，由食品行业赞助的营养研究，最终结果偏向所研究食品的可能性也高于独立资助的研究。",
+      "words": [
+        {
+          "word": "biases",
+          "phonetic": "/ˈbaɪəsɪz/",
+          "meaning": "n. 偏见，倾向"
+        },
+        {
+          "word": "pharmaceutical",
+          "phonetic": "/ˌfɑːrməˈsuːtɪkl/",
+          "meaning": "adj. 制药的"
+        }
+      ]
+    },
+    {
+      "en": "So what should we make of all this? Should we ignore any research funded by companies or special interest groups? Certainly not. These groups provide invaluable funding for scientific research. Furthermore, science has many safeguards in place to catch instances of bias that affect research outcomes. Ultimately, misleading results will be corrected as science proceeds; however, this process takes time.",
+      "zh": "那么我们该如何看待这一切？是否应该忽视所有由公司或特殊利益集团资助的研究？当然不是。这些团体为科学研究提供了宝贵的资金。此外，科学有许多保障机制来捕捉影响研究结果的偏见实例。最终，误导性结果会随科学进步得到纠正；但这过程需要时间。",
+      "words": [
+        {
+          "word": "safeguards",
+          "phonetic": "/ˈseɪfɡɑːrdz/",
+          "meaning": "n. 保障措施，防护机制"
+        },
+        {
+          "word": "misleading",
+          "phonetic": "/ˌmɪsˈliːdɪŋ/",
+          "meaning": "adj. 误导的"
+        }
+      ]
+    },
+    {
+      "en": "Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care. Are the results consistent with other independently funded studies? What do other scientists have to say about this research? A little examination can go a long way towards identifying bias associated with the funding source.",
+      "zh": "与此同时，格外仔细地审视由行业或特殊利益集团资助的研究是值得的。结果是否与其他独立资助的研究一致？其他科学家对此研究有何看法？稍加审视便能大大有助于识别与资金来源相关的偏见。",
+      "words": [
+        {
+          "word": "consistent",
+          "phonetic": "/kənˈsɪstənt/",
+          "meaning": "adj. 一致的，相符的"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "kaoyan_054",
+  "category": "kaoyan",
+  "title": "Who Will Save Our Digital Memory?",
+  "subtitle": "谁来保存数字时代记忆？我们的历史会一键消失吗",
+  "readTime": 3,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Visit any antiques store and you'll encounter artifacts from the past: photographs, letters, a brochure detailing the Sinclair dinosaur exhibit from the 1964-1965 World's Fair, the ephemera of history. Yet these objects aren't truly ephemeral, because they're still here, decades, even centuries later. Why? Because they're tangible.",
+      "zh": "走进任何一家古董店，你都会遇见来自过去的物件：照片、信件、一本详细介绍1964至1965年世博会辛克莱恐龙展的小册子——这些历史的短时效物品。然而，这些物件并非真正“转瞬即逝”，因为它们历经数十年乃至数百年，依然留存至今。为什么呢？因为它们是有形的实体。",
+      "words": [
+        {
+          "word": "artifact",
+          "phonetic": "/ˈɑːrtɪfækt/",
+          "meaning": "n. 人工制品；文物"
+        },
+        {
+          "word": "ephemera",
+          "phonetic": "/ɪˈfemərə/",
+          "meaning": "n. 短时效物品"
+        }
+      ]
+    },
+    {
+      "en": "Have you pondered the life cycle of intangible formats, digital information, given that those who produce these artifacts seldom make provision for their long-term preservation? For millennia, we've known what we've known due to artifacts that have survived, often despite their original creators' neglect. The thing itself is the medium that delivers the information.",
+      "zh": "你可曾思考过无形格式——即数字信息——的生命周期？须知这些制品的生产者极少为其长期保存做出安排。几千年来，我们之所以能知晓过去，全赖那些幸存下来的器物，而其原始创造者往往对它们疏于照管。物件本身就是传递信息的媒介。",
+      "words": [
+        {
+          "word": "intangible",
+          "phonetic": "/ɪnˈtændʒəbl/",
+          "meaning": "adj. 无形的"
+        },
+        {
+          "word": "provision",
+          "phonetic": "/prəˈvɪʒn/",
+          "meaning": "n. 准备；安排"
+        }
+      ]
+    },
+    {
+      "en": "At the time of creation, no attempts were made at intentional preservation, yet analog materials have a chance of surviving and serving as the historical record that biographers, historians, and novelists rely on. Libraries and archives have traditionally shouldered the responsibility of organisation, preservation, and access to information. Thus, librarians digitise the tangible so that researchers the world over can quickly search and access their holdings.",
+      "zh": "在创造之初，人们并未刻意加以保存，但模拟材料仍有机会留存下来，成为传记作者、历史学家和小说家赖以取材的历史记录。图书馆与档案馆历来承担着信息组织、保存与提供利用的责任。因此，图书馆员将有形物品数字化，以便全球研究人员能够快速检索和访问馆藏。",
+      "words": [
+        {
+          "word": "analog",
+          "phonetic": "/ˈænəlɔːɡ/",
+          "meaning": "adj. 模拟的"
+        },
+        {
+          "word": "shoulder",
+          "phonetic": "/ˈʃoʊldər/",
+          "meaning": "v. 承担"
+        }
+      ]
+    },
+    {
+      "en": "The result is an embarrassment of historical riches, which brings its own needle-and-haystack problems. Librarians' selfless devotion can act against us when users point to universality of access by holding up a cellphone and saying, \"it's all in here\" as evidence that libraries are less vital for researchers today. Yet how was that universality of access made possible and, perhaps more importantly, how is it maintained?",
+      "zh": "结果是历史资料浩如烟海，却也带来了大海捞针的难题。当用户举起手机说“一切尽在其中”，以此证明图书馆对今日研究者已不那么重要时，图书馆员的无私奉献反而可能对自身不利。然而，这种普遍访问是如何实现的？或许更重要的是，它又是如何得以维持的？",
+      "words": [
+        {
+          "word": "embarrassment",
+          "phonetic": "/ɪmˈbærəsmənt/",
+          "meaning": "n. 过多；令人为难的处境"
+        },
+        {
+          "word": "universality",
+          "phonetic": "/ˌjuːnɪvɜːrˈsæləti/",
+          "meaning": "n. 普遍性"
+        }
+      ]
+    },
+    {
+      "en": "Who curates what is preserved? When it comes to born-digital information, the terrifying answer can be: if not librarians and archivists, then no one. Digital information requires a great deal more care than analog.",
+      "zh": "谁来负责筛选和保存？对于原生数字信息，可怕的答案或许是：如果没有图书馆员和档案管理员，那就没人了。数字信息所需的照管远比模拟材料复杂得多。",
+      "words": [
+        {
+          "word": "curate",
+          "phonetic": "/ˈkjʊreɪt/",
+          "meaning": "v. 筛选；管理"
+        },
+        {
+          "word": "born-digital",
+          "phonetic": "/ˌbɔːrn ˈdɪdʒɪtl/",
+          "meaning": "adj. 原生数字的"
+        }
+      ]
+    },
+    {
+      "en": "Even when a digital object is preserved, it may only be the carrier that's saved, not the information itself. As technology advances and a format becomes obsolete, the object is useless. Have you ever stared helplessly at a ZIP disk, thinking: how do I get the files off this?",
+      "zh": "即便一个数字对象得以保存，被保存的也可能仅仅是载体，而非信息本身。随着技术进步和格式淘汰，该物件便成了废物。你可曾无助地盯着一个ZIP磁盘，心中暗想：我怎么才能把文件从这里面弄出来？",
+      "words": [
+        {
+          "word": "obsolete",
+          "phonetic": "/ˌɑːbsəˈliːt/",
+          "meaning": "adj. 过时的；废弃的"
+        }
+      ]
+    },
+    {
+      "en": "Without constant migration of digital assets, a nightmare about the foreseeable future is what keeps historians up at night: a historical record that abruptly stops when digital replace analog. As a librarian whose day job revolves around special collections and digital assets, I share the night terrors of historians, and I'd be lying if I said a comprehensive preservation solution currently exists.",
+      "zh": "若不持续迁移数字资产，一个关于可预见未来的噩梦便会让历史学家夜不能寐：当数字取代模拟之际，历史记录却戛然而止。作为一名日常工作围绕特藏与数字资产展开的图书馆员，我与历史学家感同身受，若说目前存在全面的保存方案，那是在撒谎。",
+      "words": [
+        {
+          "word": "migration",
+          "phonetic": "/maɪˈɡreɪʃn/",
+          "meaning": "n. 迁移"
+        },
+        {
+          "word": "abruptly",
+          "phonetic": "/əˈbrʌptli/",
+          "meaning": "adv. 突然地"
+        }
+      ]
+    },
+    {
+      "en": "Yet researchers can take some comfort in the fact that there are a multitude of librarians devoted to discovering, organising, and preserving digital information for researchers current and future. Librarians are uniquely positioned to understand how end users seek and use information. Thus we play an integral role in identifying, preserving, and providing accessibility to digital artifacts so that, while future researchers may find the digital realm a challenging place to ply their trade, they won't find it an impossible one.",
+      "zh": "不过，研究人员可以稍感宽慰的是，有众多图书馆员正致力于为当下和未来的研究者发现、整理和保存数字信息。图书馆员身居独特位置，能够理解最终用户如何查找和使用信息。因此，我们在识别、保存数字文物并提供访问途径方面扮演着不可或缺的角色，这样一来，未来的研究者或许会觉得数字领域是个挑战重重的舞台，但绝不至于寸步难行。",
+      "words": [
+        {
+          "word": "multitude",
+          "phonetic": "/ˈmʌltɪtuːd/",
+          "meaning": "n. 众多；大量"
+        },
+        {
+          "word": "integral",
+          "phonetic": "/ˈɪntɪɡrəl/",
+          "meaning": "adj. 不可或缺的"
+        }
+      ]
+    }
+  ]
+}

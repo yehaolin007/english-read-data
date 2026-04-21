@@ -1,0 +1,74 @@
+{
+  "id": "kaoyan_034",
+  "category": "kaoyan",
+  "title": "Scientific Papers Are the Recordkeepers of Progres",
+  "subtitle": "学术引用也会被操纵？科研评价体系的灰色地带",
+  "readTime": 3,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Scientific papers are the recordkeepers of progress in research. Each year researchers publish millions of papers in more than 30,000 journals. The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal (as reflected by the title's impact factor) and the number of citations a specific paper accumulates.",
+      "zh": "科学论文是研究进展的记录者。研究人员每年在30,000多种期刊上发表数百万篇论文。科学界通过多种方式衡量这些论文的质量，包括期刊的感知质量（如标题的影响因子所反映）和特定论文累积的引用次数。",
+      "words": [
+        {
+          "word": "citation",
+          "phonetic": "/saɪˈteɪʃn/",
+          "meaning": "n. 引用"
+        }
+      ]
+    },
+    {
+      "en": "The careers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce, but even more so on the citations attracted by these papers. Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers, have existed for a long time.",
+      "zh": "科学界通过多种方式衡量这些论文的质量，包括期刊的感知质量（如标题的影响因子所反映）和特定论文累积的引用次数。科学家的职业生涯及其机构的声誉取决于他们发表的论文的数量和声望，但更取决于这些论文所吸引的引用。期刊、作者和机构合谋夸大引用数量的引用卡特尔已经存在很长时间了。",
+      "words": [
+        {
+          "word": "conspire",
+          "phonetic": "/kənˈspaɪər/",
+          "meaning": "v. 合谋，密谋"
+        }
+      ]
+    },
+    {
+      "en": "In 2016, researchers developed an algorithm to recognize suspicious citation patterns, including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals.",
+      "zh": "2016年，研究人员开发了一种算法来识别可疑的引用模式，包括不成比例地相互引用的作者群体和频繁相互引用以提高其出版物的影响因子的期刊群体。最近，这种掠夺行为的另一种表现形式出现了：所谓的支持服务咨询公司为个人作者和期刊提供语言和其他编辑支持，有时会建议撰稿人在他们的文章中添加大量引用。电子出版的出现和作者需要为其论文寻找出路，催生了数以千计的新期刊。掠夺性期刊的诞生也紧随其后。",
+      "words": [
+        {
+          "word": "predatory",
+          "phonetic": "/ˈpredətɔːri/",
+          "meaning": "adj. 掠夺性的"
+        }
+      ]
+    },
+    {
+      "en": "The birth of predatory journals wasn't far behind. These journals can act as milk cows where every single article in an issue may cite a specific paper or a series of papers.",
+      "zh": "掠夺性期刊的诞生也紧随其后。这些期刊可以充当奶牛，其中一期中的每一篇文章都可能引用一篇特定论文或一系列论文。",
+      "words": []
+    },
+    {
+      "en": "In some instances, there is absolutely no relationship between the content of the article and the citations. The peculiar part is that the journal that the editor is supposedly working for is not profiting at all — it is just providing citations to other journals. Such practices can lead an article to accrue more than 150 citations in the same year that it was published.",
+      "zh": "在某些情况下，文章内容和引用之间完全没有关系。奇怪的是，这位编辑所工作的期刊根本没有盈利——它只是提供对其他期刊的引用。这种做法可能会导致一篇文章在发表当年就获得超过150次引用。这种类型的引用操纵有多阴险？",
+      "words": []
+    },
+    {
+      "en": "How insidious is this type of citation manipulation? In one example, an individual — acting as author, editor, and consultant — was able to use at least 15 journals as citation providers to articles published by five scientists at three universities.",
+      "zh": "这种类型的引用操纵有多阴险？在一个示例中，作为作者、编辑和顾问的个人能够使用至少15种期刊作为三所大学的五位科学家发表的文章的引用提供者。",
+      "words": [
+        {
+          "word": "insidious",
+          "phonetic": "/ɪnˈsɪdiəs/",
+          "meaning": "adj. 阴险的，潜伏的"
+        }
+      ]
+    },
+    {
+      "en": "The problem is rampant in Scopus, a citation database, which includes a high number of the new “international” journals. In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation. Scopus itself has all the data necessary to detect this malpractice.",
+      "zh": "这个问题在Scopus中很严重，这是一个引文数据库，其中包含大量新的“国际”期刊。事实上，Scopus中的列表似乎是此类引文操纵的目标标准。Scopus本身拥有检测这种不当行为所需的所有数据。",
+      "words": []
+    },
+    {
+      "en": "Red flags include a large number of citations to an article within the first year. And for authors who wish to steer clear of citation cartel activities: when an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal.",
+      "zh": "Scopus本身拥有检测这种不当行为所需的所有数据。危险信号包括第一年内对某篇文章的大量引用。对于希望避免引用卡特尔活动的作者：当编辑、审稿人或支持服务要求您添加不适当的参考文献时，不要答应并向期刊报告该请求。",
+      "words": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "cet6_063",
+  "category": "cet6",
+  "title": "Why Variability Is Key to Mastering New Skills",
+  "subtitle": "想学得更扎实？多变换练习方式比重复更有效",
+  "readTime": 3,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Variability is crucially important for learning new skills. Consider learning how to serve in tennis. Should you always practise serving from the exactly same location on the court, aiming at the same spot? Although practising in more variable conditions will be slower at first, it will likely make you a better tennis player in the end.",
+      "zh": "可变性对于学习新技能至关重要。想想学习网球发球。你应该总在球场上同一位置、瞄准同一点练习发球吗？虽然在多变条件下练习起初会更慢，但最终很可能让你成为更出色的网球手。",
+      "words": [
+        {
+          "word": "variability",
+          "phonetic": "/ˌveriəˈbɪləti/",
+          "meaning": "n. 可变性；变化性"
+        }
+      ]
+    },
+    {
+      "en": "This is because variability leads to better generalisation of what is learned. This principle is found in many domains, including speech perception and learning categories. For instance, infants will struggle to learn the category \"dog\" if they are only exposed to Chihuahuas, instead of many different kinds of dogs.",
+      "zh": "这是因为可变性能带来更好的学习泛化效果。这一原则适用于诸多领域，包括言语感知和类别学习。例如，如果婴儿只接触吉娃娃，而非多种不同种类的狗，他们就很难学会“狗”这个类别。",
+      "words": [
+        {
+          "word": "generalisation",
+          "phonetic": "/ˌdʒenrələˈzeɪʃn/",
+          "meaning": "n. 泛化；概括"
+        }
+      ]
+    },
+    {
+      "en": "\"Learning from less variable input is often fast, but may fail to generalise to new stimuli,\" says Limor Raviv, the senior investigator of a recent study. To identify key patterns, Raviv and her colleagues reviewed over 150 studies on variability and generalisation across fields, including computer science, linguistics and formal education.",
+      "zh": "“从变化较少的输入中学习往往速度很快，但可能无法泛化到新的刺激上，”近期一项研究的资深研究员利莫尔·拉维夫说。为找出关键规律，拉维夫及其同事回顾了150多项涉及计算机科学、语言学和正规教育等领域的变异性和泛化研究。",
+      "words": [
+        {
+          "word": "stimuli",
+          "phonetic": "/ˈstɪmjəlaɪ/",
+          "meaning": "n. 刺激物"
+        }
+      ]
+    },
+    {
+      "en": "The researchers discovered that the term variability can refer to at least four different kinds of variability, such as set size and scheduling. \"These four kinds of variability have never been directly compared — which means we currently don't know which is most effective for learning,\" says Raviv. The impact of variability depends on whether it is relevant to the task or not.",
+      "zh": "研究人员发现，“可变性”一词至少可以指代四种不同类型，例如集合大小和训练安排。“这四种可变性从未被直接比较过——这意味着我们目前不知道哪一种对学习最有效，”拉维夫说。可变性的影响取决于其是否与任务相关。",
+      "words": []
+    },
+    {
+      "en": "But according to the \"Mr. Miyagi principle\", practising seemingly unrelated skills may actually benefit learning of other skills. But why does variability impact learning and generalisation? One theory is that more variable input can highlight which aspects of a task are relevant and which are not.",
+      "zh": "但根据“宫城先生原则”，练习看似无关的技能实际上可能有益于其他技能的学习。那么，为什么可变性会影响学习和泛化呢？一种理论认为，更多变的输入可以凸显任务的哪些方面是相关的，哪些是无关的。",
+      "words": []
+    },
+    {
+      "en": "Another theory is that greater variability leads to broader generalisations. A third reason has to do with the way memory works: when training is variable, learners are forced to actively reconstruct their memories. \"Understanding the impact of variability is important for literally every aspect of our daily life,\" explains Raviv.",
+      "zh": "另一种理论是，更大的可变性会带来更广泛的泛化。第三个原因则与记忆的运作方式有关：当训练存在变化时，学习者被迫主动重构自己的记忆。“理解变异性的影响对我们日常生活的方方面面都至关重要，”拉维夫解释道。",
+      "words": [
+        {
+          "word": "reconstruct",
+          "phonetic": "/ˌriːkənˈstrʌkt/",
+          "meaning": "v. 重构"
+        }
+      ]
+    },
+    {
+      "en": "\"For example, face recognition is affected by whether people grew up in a small community or in a larger community. Exposure to fewer faces during childhood is associated with diminished face memory.\" Raviv concludes that they hope this work will spark curiosity and generate more work on the topic.",
+      "zh": "“例如，人脸识别能力就受到人们是在小社区还是大社区长大的影响。童年时期接触的面孔较少，与面孔记忆能力的减弱有关。”拉维夫总结道，他们希望这项工作能激发人们的好奇心，并催生更多相关研究。",
+      "words": [
+        {
+          "word": "diminished",
+          "phonetic": "/dɪˈmɪnɪʃt/",
+          "meaning": "adj. 减弱的"
+        }
+      ]
+    },
+    {
+      "en": "\"Our paper raises a lot of open questions. Can we find similar effects of variability beyond the brain, for instance, in the immune system?\"",
+      "zh": "“我们的论文提出了许多悬而未决的问题。我们能否在大脑之外发现类似的变异性效应，比如在免疫系统中？”",
+      "words": [
+        {
+          "word": "immune system",
+          "phonetic": "/ɪˈmjuːn ˈsɪstəm/",
+          "meaning": "n. 免疫系统"
+        }
+      ]
+    }
+  ]
+}

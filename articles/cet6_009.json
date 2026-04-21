@@ -1,0 +1,113 @@
+{
+  "id": "cet6_009",
+  "category": "cet6",
+  "title": "Beyond National Stereotypes",
+  "subtitle": "国籍决定文化？新研究打破刻板印象",
+  "readTime": 2,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Look at the people around you. Some are passive, others aggressive; some work best alone, while others long for company. We easily see how much individuals differ from one another.",
+      "zh": "看看你周围的人。有的被动，有的强势；有的独自工作效率最高，有的渴望陪伴。我们很容易看出个体之间的巨大差异。",
+      "words": []
+    },
+    {
+      "en": "Yet when we talk about people from other places, we often describe them by nationality. Experts who discuss national averages often make the same mistake. New research shows how misleading that habit can be.",
+      "zh": "然而，当我们谈论来自其他地方的人时，却常常按国籍来描述他们。那些讨论“全国平均水平”的专家，也常犯同样的错误。最新研究表明，这种习惯会产生多大的误导。",
+      "words": [
+        {
+          "word": "misleading",
+          "phonetic": "/ˌmɪsˈliːdɪŋ/",
+          "meaning": "adj. 误导的"
+        }
+      ]
+    },
+    {
+      "en": "Three researchers analyzed decades of values-based surveys and found that only 16 to 21 percent of the variation in cultural values could be explained by differences between countries. In other words, most of what makes people culturally distinct has nothing to do with where they were born.",
+      "zh": "三位研究者分析了几十年来基于价值观的调查，发现文化价值观的差异中，只有16%到21%能由国家间的差异来解释。换句话说，决定人们文化差异的大部分因素，与出生地毫无关系。",
+      "words": [
+        {
+          "word": "variation",
+          "phonetic": "/ˌveriˈeɪʃn/",
+          "meaning": "n. 差异；变化"
+        }
+      ]
+    },
+    {
+      "en": "To identify the factors that really shape culture, the authors combined data from 558 earlier surveys. Each survey measured one or more of Hofstede's cultural dimensions, such as individualism and masculinity, which describe work-related values rather than visible cultural traits like food or dress.",
+      "zh": "为找出真正塑造文化的因素，作者们整合了此前558项调查的数据。每项调查都测量了霍夫斯泰德文化维度中的一个或多个指标，如个人主义和男性气质，这些指标描述的是与工作相关的价值观，而非饮食或服饰等可见的文化特征。",
+      "words": [
+        {
+          "word": "dimension",
+          "phonetic": "/daɪˈmenʃn/",
+          "meaning": "n. 维度；方面"
+        },
+        {
+          "word": "masculinity",
+          "phonetic": "/ˌmæskjuˈlɪnəti/",
+          "meaning": "n. 男性气质"
+        }
+      ]
+    },
+    {
+      "en": "Although Hofstede's framework has been criticized, it offers one major advantage: it has been used for decades, making historical and international comparisons possible. The researchers found that demographic factors such as age, and environmental factors such as long-term unemployment, were more closely related to cultural values than nationality.",
+      "zh": "尽管霍夫斯泰德的框架受到批评，但它有一个主要优势：已使用数十年，使跨历史、跨国比较成为可能。研究者发现，年龄等人口因素以及长期失业率等环境因素，与文化价值观的关联比国籍更强。",
+      "words": [
+        {
+          "word": "demographic",
+          "phonetic": "/ˌdeməˈɡræfɪk/",
+          "meaning": "adj. 人口统计学的"
+        }
+      ]
+    },
+    {
+      "en": "Occupation and socioeconomic status showed the strongest correlations of all. This suggests that our values are shaped more by economic conditions than we usually admit. People with similar jobs and incomes tend to resemble each other culturally no matter where they live.",
+      "zh": "其中，职业和社会经济地位显示出最强的相关性。这表明，我们的价值观受经济状况的塑造程度，远超我们通常所承认的。无论身在何处，工作和收入相近的人在文化上往往彼此相似。",
+      "words": [
+        {
+          "word": "socioeconomic",
+          "phonetic": "/ˌsoʊsioʊˌiːkəˈnɑːmɪk/",
+          "meaning": "adj. 社会经济的"
+        },
+        {
+          "word": "correlation",
+          "phonetic": "/ˌkɔːrəˈleɪʃn/",
+          "meaning": "n. 相关性"
+        }
+      ]
+    },
+    {
+      "en": "Vas Taras, the study's lead author, put it bluntly: \"Tell me how much you make and I will make a pretty accurate prediction about your cultural values. Tell me your nationality and I will probably make the wrong prediction.\"",
+      "zh": "该研究的主要作者瓦斯·塔拉斯直言不讳：“告诉我你挣多少钱，我就能相当准确地预测你的文化价值观。告诉我你的国籍，我反倒很可能判断错。”",
+      "words": [
+        {
+          "word": "bluntly",
+          "phonetic": "/ˈblʌntli/",
+          "meaning": "adv. 直言不讳地"
+        }
+      ]
+    },
+    {
+      "en": "Taras argues that our mistaken belief that countries are cultures has led businesses to teach employees ineffective or even harmful ways of dealing with international colleagues. Chinese and American lawyers, for example, may be trained to interact on the assumption that the Chinese lawyer is less individualistic, even though their similar socioeconomic positions may make them much alike.",
+      "zh": "塔拉斯认为，正是我们把“国家”等同于“文化”的错误信念，导致企业教给员工无效甚至有害的国际同事相处之道。例如，中美律师可能被训练成基于“中国律师更不个人主义”的预设来互动，而事实上他们相似的社会经济地位可能使他们非常相似。",
+      "words": [
+        {
+          "word": "individualistic",
+          "phonetic": "/ˌɪndɪˌvɪdʒuəˈlɪstɪk/",
+          "meaning": "adj. 个人主义的"
+        }
+      ]
+    },
+    {
+      "en": "Treating a country as a cultural unit is convenient, but it can hide huge differences within that country. In most cases, we would understand people better by looking at the forces that shape their lives, such as income, than by looking at the lines drawn around them on a map.",
+      "zh": "把国家当作文化单位固然方便，但这会掩盖国家内部的巨大差异。在大多数情况下，与其盯着地图上那些人为划定的边界，不如审视那些真正塑造人们生活的力量（比如收入），我们反而能更好地理解他人。",
+      "words": [
+        {
+          "word": "convenient",
+          "phonetic": "/kənˈviːniənt/",
+          "meaning": "adj. 方便的"
+        }
+      ]
+    }
+  ]
+}

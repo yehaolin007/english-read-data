@@ -1,0 +1,113 @@
+{
+  "id": "cet6_005",
+  "category": "cet6",
+  "title": "From Reason to Emotion: How Media Shapes Our Minds",
+  "subtitle": "从印刷术到互联网：媒介如何改变我们的思考",
+  "readTime": 3,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "The trend toward rationality and enlightenment was endangered long before the advent of the World Wide Web. As Neil Postman noted in his 1985 book Amusing Ourselves to Death, the rise of television introduced not just a new medium but a new discourse. It caused a gradual shift from a typographic culture to a photographic one, which in turn meant a shift from rationality to emotions, exposition to entertainment.",
+      "zh": "理性与启蒙的趋势早在万维网出现前便已岌岌可危。正如尼尔·波兹曼在1985年《娱乐至死》中所指，电视的兴起不仅引入新媒介，更带来新的话语体系。它使文化从印刷文字逐渐转向影像，进而意味着从理性转向情感、从阐述转向娱乐。",
+      "words": [
+        {
+          "word": "advent",
+          "phonetic": "/ˈædvent/",
+          "meaning": "n. 出现，到来"
+        },
+        {
+          "word": "discourse",
+          "phonetic": "/ˈdɪskɔːrs/",
+          "meaning": "n. 话语，论述"
+        },
+        {
+          "word": "typographic",
+          "phonetic": "/ˌtaɪpəˈɡræfɪk/",
+          "meaning": "adj. 印刷的，排版的"
+        }
+      ]
+    },
+    {
+      "en": "In an image-centered and pleasure-driven world, Postman noted, there is no place for rational thinking, because you simply cannot think with images. It is text that enables us to 'uncover lies, confusions and overgeneralizations, and to detect abuses of logic and common sense.' It also means to weigh ideas, to compare and contrast assertions, to connect one generalization to another.",
+      "zh": "波兹曼指出，在以图像为中心、由享乐驱动的世界里，理性思维无立足之地，因为你无法用图像思考。正是文字使我们得以“揭露谎言、理清困惑与过度概括，察觉对逻辑和常识的滥用”。它意味着权衡观点、对比论断、将概念相互联系。",
+      "words": [
+        {
+          "word": "overgeneralizations",
+          "phonetic": "/ˌoʊvərˌdʒenrələˈzeɪʃnz/",
+          "meaning": "n. 过度概括"
+        },
+        {
+          "word": "assertions",
+          "phonetic": "/əˈsɜːrʃnz/",
+          "meaning": "n. 断言，主张"
+        }
+      ]
+    },
+    {
+      "en": "The dominance of television was not confined to our living rooms. It overturned all of those habits of mind, fundamentally changing our experience of the world, affecting the conduct of politics, religion, business, and culture. It reduced many aspects of modern life to entertainment, sensationalism, and commerce.",
+      "zh": "电视的主导地位不仅局限于客厅。它颠覆了所有心智习惯，从根本上改变了我们对世界的体验，影响着政治、宗教、商业和文化的运作。它将现代生活的诸多方面降格为娱乐、煽情和商业。",
+      "words": [
+        {
+          "word": "confined",
+          "phonetic": "/kənˈfaɪnd/",
+          "meaning": "adj. 局限于，限制于"
+        },
+        {
+          "word": "sensationalism",
+          "phonetic": "/senˈseɪʃənəlɪzəm/",
+          "meaning": "n. 煽情主义，耸人听闻"
+        }
+      ]
+    },
+    {
+      "en": "'Americans don't talk to each other, we entertain each other,' Postman wrote. 'They don't exchange ideas, they exchange images. They do not argue with propositions, they argue with good looks, celebrities and commercials.' At first, the web seemed to push against this trend. When it emerged towards the end of the 1980s as a purely text-based medium, it was seen as a tool to pursue knowledge, not pleasure.",
+      "zh": "波兹曼写道：“美国人不彼此交谈，我们彼此娱乐。他们不交流思想，只交换图像。他们不与命题争论，而与美貌、名人和广告争论。”起初，网络似乎在抵抗这一趋势。当它在20世纪80年代末作为纯文本媒介出现时，被视为追求知识而非享乐的工具。",
+      "words": [
+        {
+          "word": "propositions",
+          "phonetic": "/ˌprɑːpəˈzɪʃnz/",
+          "meaning": "n. 命题，主张"
+        }
+      ]
+    },
+    {
+      "en": "Reason and thought were most valued in this garden—all derived from the project of the Enlightenment. Universities around the world were among the first to connect to this new medium, which hosted discussion groups, informative personal or group blogs, electronic magazines, and academic mailing lists and forums. It was an intellectual project, not about commerce or control, created in a scientific research center in Switzerland.",
+      "zh": "在这片园地中，理性与思想最受珍视，一切源于启蒙运动的传承。世界各地的高校率先接入这一新媒介，它承载着讨论组、信息丰富的个人或群组博客、电子杂志以及学术邮件列表和论坛。这是一个智力项目，无关商业或控制，诞生于瑞士的一个科研中心。",
+      "words": [
+        {
+          "word": "derived",
+          "phonetic": "/dɪˈraɪvd/",
+          "meaning": "v. 源自，源于"
+        }
+      ]
+    },
+    {
+      "en": "And for more than a decade, the web created an alternative space that threatened television's grip on society. Social networks, though, have since colonized the web for television's values. From Facebook to Instagram, the medium refocuses our attention on videos and images, rewarding emotional appeals—'like' buttons—over rational ones. Instead of a quest for knowledge, it engages us in an endless zest for instant approval from an audience, for which we are constantly but unconsciously performing.",
+      "zh": "十多年来，网络创造了一个替代空间，威胁着电视对社会的掌控。然而此后社交网络用电视的价值观殖民了网络。从脸书到Instagram，这种媒介将我们的注意力重新聚焦于视频和图像，以“点赞”按钮奖励情感诉求而非理性思考。它不再是对知识的追求，而是让我们陷入对观众即时认可的无尽狂热，为此我们不断无意识地表演。",
+      "words": [
+        {
+          "word": "colonized",
+          "phonetic": "/ˈkɑːlənaɪzd/",
+          "meaning": "v. 殖民，占据"
+        },
+        {
+          "word": "zest",
+          "phonetic": "/zest/",
+          "meaning": "n. 热情，狂热"
+        }
+      ]
+    },
+    {
+      "en": "It reduces our curiosity by showing us exactly what we already want and think, based on our profiles and preferences. The Enlightenment's motto of 'Dare to know' has become 'Dare not to care to know.' It's telling that, while Google began life as a PhD thesis, Facebook started as a tool to judge classmates' appearances.",
+      "zh": "它根据我们的资料和偏好，精准展示我们已渴望和思考的内容，从而消减我们的好奇心。启蒙运动“敢于求知”的座右铭已变为“不敢也不屑求知”。耐人寻味的是，谷歌始于一篇博士论文，而脸书则始于一个评判同学外貌的工具。",
+      "words": [
+        {
+          "word": "motto",
+          "phonetic": "/ˈmɑːtoʊ/",
+          "meaning": "n. 座右铭，格言"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

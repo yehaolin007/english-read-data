@@ -1,0 +1,65 @@
+{
+  "id": "kaoyan_048",
+  "category": "kaoyan",
+  "title": "The Delicate Task of Grounding Elderly Drivers",
+  "subtitle": "何时该劝父母交出车钥匙",
+  "readTime": 2,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "One of the biggest challenges in keeping unsafe aging drivers off the road is convincing them that it's time to turn over the keys. 'It's a complete life-changer' when someone stops — or is forced to stop — driving, said former risk manager Anne M. Menke. The American Medical Association advises physicians that where clear evidence of substantial driving impairment implies a strong threat to safety, it is desirable and ethical to notify the Department of Motor Vehicles.",
+      "zh": "让不安全的老年司机远离道路的最大挑战之一，是说服他们是时候交出车钥匙了。前风险经理安妮·M·门克说，当有人停止——或被迫停止——驾驶时，“这彻底改变了生活”。美国医学会建议医生，当有明显证据表明严重驾驶障碍对安全构成强烈威胁时，通知车辆管理局是恰当且合乎道德的。",
+      "words": [
+        {
+          "word": "impairment",
+          "phonetic": "/ɪmˈpermənt/",
+          "meaning": "n. 损伤，障碍"
+        },
+        {
+          "word": "ethical",
+          "phonetic": "/ˈeθɪkl/",
+          "meaning": "adj. 合乎道德的"
+        }
+      ]
+    },
+    {
+      "en": "Part of the problem in keeping older drivers safe is that the difficulties are addressed piecemeal by different professions with different focuses, including gerontologists, highway administration officials, and automotive engineers, said gerontologist Elizabeth Dugan. 'There's not a National Institute of Older Driver Studies,' she said. 'We need better evidence on what makes drivers unsafe' and what can help.",
+      "zh": "老年学家伊丽莎白·杜根表示，保障老年驾驶员安全的部分问题在于，这些难题是由不同专业的人士以不同的侧重点零敲碎打地解决的，包括老年学家、公路管理官员和汽车工程师。“没有一个国家老年驾驶员研究所，”她说。“我们需要更好的证据来证明是什么让驾驶员不安全”以及什么能有所帮助。",
+      "words": [
+        {
+          "word": "piecemeal",
+          "phonetic": "/ˈpiːsmiːl/",
+          "meaning": "adj. 零碎的，逐步的"
+        },
+        {
+          "word": "gerontologist",
+          "phonetic": "/ˌdʒerənˈtɑːlədʒɪst/",
+          "meaning": "n. 老年学家"
+        }
+      ]
+    },
+    {
+      "en": "One thing that does seem to work is requiring drivers to report in person for license renewal. Mandatory in-person renewal was associated with a 31 percent reduction in fatal crashes involving drivers 85 or older, according to one study. Passing vision tests also produced a similar decline in fatal crashes for those drivers. Many older drivers don't see eye doctors or can't afford to. Primary care providers have their hands full and may not be able to follow through with patients who have trouble driving.",
+      "zh": "一项似乎确实有效的措施是要求驾驶员亲自到场进行驾照续期。一项研究表明，强制亲自续期与85岁及以上驾驶员致命车祸减少31%相关。通过视力测试也使这些驾驶员的致命车祸出现了类似的下降。许多老年驾驶员不去看眼科医生，或者负担不起。初级保健医生忙得不可开交，可能无法跟进那些驾驶有困难的患者。",
+      "words": [
+        {
+          "word": "mandatory",
+          "phonetic": "/ˈmændətɔːri/",
+          "meaning": "adj. 强制性的，法定的"
+        }
+      ]
+    },
+    {
+      "en": "As long as there are other cars on the roads, self-driving cars won't solve the problems of crashes, said Dugan. Avoiding dangers posed by all those human drivers would require too many algorithms. But we need to do more to improve safety, said Dugan. 'If we're going to have 100-year lives, we need cars that a 90-year-old can drive comfortably.'",
+      "zh": "杜根说，只要道路上还有其他汽车，自动驾驶汽车就无法解决碰撞问题。要避免所有那些人类驾驶员带来的危险，需要太多算法。但杜根说，我们需要采取更多措施来提高安全性。“如果我们要活到100岁，我们就需要90岁老人也能舒适驾驶的汽车。”",
+      "words": [
+        {
+          "word": "algorithms",
+          "phonetic": "/ˈælɡərɪðəmz/",
+          "meaning": "n. 算法"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

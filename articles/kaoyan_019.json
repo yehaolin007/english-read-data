@@ -1,0 +1,58 @@
+{
+  "id": "kaoyan_019",
+  "category": "kaoyan",
+  "title": "When Intuition Beats Overthinking",
+  "subtitle": "薄片判断：为什么想太多反而会出错",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "People can infer a surprising amount from brief social exposure, a process known as thin slicing. Short clips of teachers, for example, often predict later student evaluations with notable accuracy. This suggests fast judgments can integrate many subtle cues at once.",
+      "zh": "人们能从极短的社会接触中提取出惊人的信息量，这一过程被称为“薄片判断”。例如，仅凭教师的短视频片段，观察者往往就能相当准确地预测其后来的学生评价。这表明快速判断能够同时整合大量微妙的线索。",
+      "words": [
+        {
+          "word": "infer",
+          "phonetic": "/ɪnˈfɜːr/",
+          "meaning": "v. 推断；推论"
+        },
+        {
+          "word": "subtle",
+          "phonetic": "/ˈsʌtl/",
+          "meaning": "adj. 微妙的；细微的"
+        }
+      ]
+    },
+    {
+      "en": "Deliberate analysis does not always improve performance in these settings. In several experiments, participants asked to justify impressions became less accurate than those relying on intuition. Overthinking can overemphasize vivid details while missing the overall interaction pattern.",
+      "zh": "在此类情境下，刻意分析并不总能提升判断的准确性。多项实验中，被要求解释理由的参与者反而不如依靠直觉者判断得准。过度思考容易过分关注某些醒目的细节，却忽略了整体的互动模式。",
+      "words": [
+        {
+          "word": "deliberate",
+          "phonetic": "/dɪˈlɪbərət/",
+          "meaning": "adj. 刻意的；深思熟虑的"
+        },
+        {
+          "word": "overemphasize",
+          "phonetic": "/ˌoʊvərˈemfəsaɪz/",
+          "meaning": "v. 过分强调"
+        }
+      ]
+    },
+    {
+      "en": "Similar effects appear in deception detection and certain complex preference decisions. Intuition helps most when information is rich but hard to verbalize, rather than when explicit rules are available. The practical lesson is to match decision style to task structure.",
+      "zh": "类似的效应也出现在识别欺骗和某些复杂偏好决策中。直觉在信息丰富却难以言传时作用最大，而在有明确规则可循时则并非如此。实际的启示是，要让决策方式与任务结构相匹配。",
+      "words": [
+        {
+          "word": "deception",
+          "phonetic": "/dɪˈsepʃn/",
+          "meaning": "n. 欺骗"
+        },
+        {
+          "word": "verbalize",
+          "phonetic": "/ˈvɜːrbəlaɪz/",
+          "meaning": "v. 用言语表达"
+        }
+      ]
+    }
+  ]
+}

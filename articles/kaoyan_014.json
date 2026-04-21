@@ -1,0 +1,58 @@
+{
+  "id": "kaoyan_014",
+  "category": "kaoyan",
+  "title": "Net Neutrality and the US Regulatory Deadlock",
+  "subtitle": "美国网络中立监管僵局：为何反复拉锯",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Net neutrality battles began when users feared broadband providers could favor their own services over rivals. Regulators attempted rules to prevent blocking, throttling, and paid fast lanes. But court rulings and partisan turnover repeatedly reset the policy framework.",
+      "zh": "网络中立之争始于用户担忧宽带运营商会偏袒自家服务、打压竞争对手。监管机构试图制定规则，禁止屏蔽、限速和付费快车道。然而，司法判决与党派更迭却反复重置了政策框架。",
+      "words": [
+        {
+          "word": "throttling",
+          "phonetic": "/ˈθrɑːtlɪŋ/",
+          "meaning": "n. 限速；节流"
+        },
+        {
+          "word": "partisan",
+          "phonetic": "/ˈpɑːrtɪzn/",
+          "meaning": "adj. 党派的"
+        }
+      ]
+    },
+    {
+      "en": "In 2017, the FCC rolled back stricter federal protections and narrowed its own oversight role. Supporters claimed market competition plus other agencies could still deter abuse. Critics argued the rollback weakened enforceability and transparency for consumers.",
+      "zh": "2017年，美国联邦通信委员会废除了更严格的联邦保护措施，并收窄了自身的监管职责。支持者声称，市场竞争外加其他机构的监管仍可遏制滥用行为。批评者则认为，此次回撤削弱了对消费者的可执行性与透明度。",
+      "words": [
+        {
+          "word": "oversight",
+          "phonetic": "/ˈoʊvərsaɪt/",
+          "meaning": "n. 监管；监督"
+        },
+        {
+          "word": "deter",
+          "phonetic": "/dɪˈtɜːr/",
+          "meaning": "v. 制止；威慑"
+        }
+      ]
+    },
+    {
+      "en": "Appellate courts upheld much of that rollback while limiting blanket attempts to block every state law. The result preserved conflict between federal and state authorities rather than resolving it. Durable clarity will likely require Congress to grant explicit authority and stable baseline rules.",
+      "zh": "上诉法院维持了大部分回撤内容，同时限制了一刀切式封堵各州立法的做法。其结果并非终结争议，而是保留了联邦与州之间的冲突。若想获得持久清晰的规则，或许仍需国会授予明确权限并确立稳定的底线规则。",
+      "words": [
+        {
+          "word": "appellate",
+          "phonetic": "/əˈpelət/",
+          "meaning": "adj. 上诉的"
+        },
+        {
+          "word": "explicit",
+          "phonetic": "/ɪkˈsplɪsɪt/",
+          "meaning": "adj. 明确的"
+        }
+      ]
+    }
+  ]
+}

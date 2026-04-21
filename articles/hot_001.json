@@ -1,0 +1,108 @@
+{
+  "id": "hot_001",
+  "category": "hot",
+  "title": "Urban Farming: Growing Food in the City",
+  "subtitle": "城市农业如何改变我们对食物生产的认知",
+  "readTime": 7,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "In cities around the world, a quiet revolution is taking place on rooftops, in abandoned warehouses, and on vacant lots. Urban farming — the practice of growing food within city limits — has evolved from a niche hobby into a significant movement with the potential to reshape how metropolitan areas feed their populations.",
+      "zh": "在世界各地的城市中，一场静默的革命正在屋顶上、废弃仓库中和空地上发生。城市农业——在城市范围内种植食物的实践——已经从一种小众爱好发展成为一场重大运动，有可能重塑大都市地区养活其人口的方式。",
+      "words": [
+        {
+          "word": "revolution",
+          "phonetic": "/ˌrevəˈluːʃn/",
+          "meaning": "n. 革命，变革"
+        },
+        {
+          "word": "abandoned",
+          "phonetic": "/əˈbændənd/",
+          "meaning": "adj. 废弃的"
+        },
+        {
+          "word": "vacant",
+          "phonetic": "/ˈveɪkənt/",
+          "meaning": "adj. 空置的"
+        },
+        {
+          "word": "niche",
+          "phonetic": "/niːʃ/",
+          "meaning": "n. 小众的，利基的"
+        },
+        {
+          "word": "metropolitan",
+          "phonetic": "/ˌmetrəˈpɒlɪtən/",
+          "meaning": "adj. 大都市的"
+        }
+      ]
+    },
+    {
+      "en": "Vertical farming, one of the most innovative approaches, involves growing crops in stacked layers within controlled indoor environments. These facilities use hydroponic or aeroponic systems that can produce yields up to 350 times greater than conventional farming per square meter, while using 95 percent less water. LED lighting tuned to specific wavelengths optimizes photosynthesis, enabling year-round production regardless of external weather conditions.",
+      "zh": "垂直农业是最具创新性的方法之一，它在受控的室内环境中以堆叠层的方式种植作物。这些设施使用水培或气雾培系统，每平方米的产量可以是传统农业的350倍，同时用水量减少95%。调节到特定波长的LED照明优化了光合作用，使得全年生产不受外部天气条件的影响。",
+      "words": [
+        {
+          "word": "innovative",
+          "phonetic": "/ˈɪnəveɪtɪv/",
+          "meaning": "adj. 创新的"
+        },
+        {
+          "word": "hydroponic",
+          "phonetic": "/ˌhaɪdrəˈpɒnɪk/",
+          "meaning": "adj. 水培的"
+        },
+        {
+          "word": "aeroponic",
+          "phonetic": "/ˌeərəˈpɒnɪk/",
+          "meaning": "adj. 气雾培的"
+        },
+        {
+          "word": "yields",
+          "phonetic": "/jiːldz/",
+          "meaning": "n. 产量"
+        },
+        {
+          "word": "conventional",
+          "phonetic": "/kənˈvenʃənl/",
+          "meaning": "adj. 传统的，常规的"
+        },
+        {
+          "word": "wavelengths",
+          "phonetic": "/ˈweɪvleŋθs/",
+          "meaning": "n. 波长（复数）"
+        },
+        {
+          "word": "photosynthesis",
+          "phonetic": "/ˌfoʊtoʊˈsɪnθəsɪs/",
+          "meaning": "n. 光合作用"
+        }
+      ]
+    },
+    {
+      "en": "Beyond food production, urban farms deliver a range of social and environmental benefits. They reduce the carbon footprint associated with transporting food over long distances, provide green spaces that mitigate the urban heat island effect, and create employment opportunities in underserved communities. Community gardens, in particular, have been shown to strengthen neighborhood bonds and improve residents' mental well-being.",
+      "zh": "除了食物生产，城市农场还带来一系列社会和环境效益。它们减少了长距离运输食物带来的碳足迹，提供了缓解城市热岛效应的绿色空间，并在服务不足的社区创造就业机会。特别是社区花园，已被证明能加强邻里关系并改善居民的心理健康。",
+      "words": [
+        {
+          "word": "carbon footprint",
+          "phonetic": "/ˈkɑːrbən ˈfʊtprɪnt/",
+          "meaning": "n. 碳足迹"
+        },
+        {
+          "word": "mitigate",
+          "phonetic": "/ˈmɪtɪɡeɪt/",
+          "meaning": "v. 缓解，减轻"
+        },
+        {
+          "word": "underserved",
+          "phonetic": "/ˌʌndərˈsɜːrvd/",
+          "meaning": "adj. 服务不足的"
+        },
+        {
+          "word": "well-being",
+          "phonetic": "/ˈwelˌbiːɪŋ/",
+          "meaning": "n. 幸福，健康"
+        }
+      ]
+    }
+  ]
+}

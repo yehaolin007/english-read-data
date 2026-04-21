@@ -1,0 +1,112 @@
+{
+  "id": "kaoyan_052",
+  "category": "kaoyan",
+  "title": "Should Science Slow Down to Save the Planet?",
+  "subtitle": "科研也要为碳排放买单？速度崇拜与地球边界",
+  "readTime": 3,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "I was shocked to learn recently that some scientists want to scale back their research in an effort to decrease carbon emissions. The crisis is here, they said, and we need to cut back on our energy-intensive modelling. At the very least, we need to make our energy use far more sustainable.",
+      "zh": "最近我震惊地得知，一些科学家竟想通过缩减研究规模来减少碳排放。他们说，危机就在眼前，我们必须减少能源密集型的建模工作。至少，我们需要让能源利用变得更具可持续性。",
+      "words": [
+        {
+          "word": "scale back",
+          "phonetic": "/skeɪl bæk/",
+          "meaning": "phr. 缩减；削减"
+        },
+        {
+          "word": "sustainable",
+          "phonetic": "/səˈsteɪnəbl/",
+          "meaning": "adj. 可持续的"
+        }
+      ]
+    },
+    {
+      "en": "It is unarguable that our laboratories, scientific instruments, rockets and satellites — the tools we scientists need to measure the planet's pulse — demand significant amounts of energy both in their construction and operation. And it is equally true that science's unrelenting appetite for information has caused a mushrooming of energy-intensive data centres around the world. According to the International Energy Agency, these buildings now consume about 1 percent of the world's electricity.",
+      "zh": "无可争议的是，我们的实验室、科学仪器、火箭和卫星——这些科学家赖以测量地球脉搏的工具——在建造和运行过程中都需要消耗大量能源。同样确凿无疑的是，科学对信息永不满足的渴求，已导致能源密集型数据中心在全球遍地开花。根据国际能源署的数据，这些建筑如今消耗着全球约1%的电力。",
+      "words": [
+        {
+          "word": "unarguable",
+          "phonetic": "/ʌnˈɑːrɡjuəbl/",
+          "meaning": "adj. 无可争议的"
+        },
+        {
+          "word": "mushrooming",
+          "phonetic": "/ˈmʌʃruːmɪŋ/",
+          "meaning": "n. 迅速增长；涌现"
+        }
+      ]
+    },
+    {
+      "en": "However, this is a price we must pay for understanding the world. How can we inform decision makers about the best ways to bring down carbon emissions if we can't track the amount of carbon dioxide in the atmosphere, where it's coming from and who's producing it? The carbon emissions from technological research are well spent: ultimately this research will safeguard the future of our planet.",
+      "zh": "然而，这是我们为了解世界必须付出的代价。如果我们无法追踪大气中二氧化碳的含量、来源及排放者，又怎能告知决策者降低碳排放的最佳途径呢？技术研究所产生的碳排放是物有所值的：归根结底，这类研究将守护我们星球的未来。",
+      "words": [
+        {
+          "word": "safeguard",
+          "phonetic": "/ˈseɪfɡɑːrd/",
+          "meaning": "v. 保护；捍卫"
+        }
+      ]
+    },
+    {
+      "en": "It can be hard for scientists to make the case because our work is complex, often takes place behind closed doors and does not always lend itself to easy interpretation or explanation. But demonstrating the efficacy of science will be crucial if we are to solve humanity's greatest challenges. It is all too easy to feel paralysed in the face of daunting problems such as climate change and to do nothing.",
+      "zh": "科学家要阐明这一点并不容易，因为我们的工作十分复杂，常在幕后进行，且并非总能被简单解读或解释。但若要解决人类面临的重大挑战，证明科学的功效将至关重要。面对气候变化等令人生畏的难题，人们太容易感到束手无策，进而无所作为。",
+      "words": [
+        {
+          "word": "efficacy",
+          "phonetic": "/ˈefɪkəsi/",
+          "meaning": "n. 功效；效力"
+        },
+        {
+          "word": "daunting",
+          "phonetic": "/ˈdɔːntɪŋ/",
+          "meaning": "adj. 令人生畏的"
+        }
+      ]
+    },
+    {
+      "en": "But then I think of a friend's daughter who turned her fears into action: she became a wind energy engineer and now thrives on delivering renewable energy, limiting emissions. Recognising the hope that science and engineering can bring was the impetus behind the creation of the Millennium Technology Prize, which is now entering its 20th year as a celebration of human ingenuity.",
+      "zh": "但我随即想到一位朋友的女儿，她将恐惧化为行动：成为了一名风能工程师，如今正致力于提供可再生能源、减少排放，并乐在其中。认识到科学与工程所能带来的希望，正是创立千禧年科技奖的动力所在。该奖项如今已迈入第20个年头，旨在褒奖人类的聪明才智。",
+      "words": [
+        {
+          "word": "impetus",
+          "phonetic": "/ˈɪmpɪtəs/",
+          "meaning": "n. 动力；推动力"
+        },
+        {
+          "word": "ingenuity",
+          "phonetic": "/ˌɪndʒəˈnuːəti/",
+          "meaning": "n. 聪明才智；巧思"
+        }
+      ]
+    },
+    {
+      "en": "One of the past winners, Professor Martin Green from the University of New South Wales, Australia, is the inventor of the Passivated Emitter and Rear Cell technology which is now found in most of the world's solar panels. Thanks to his invention, we have a real chance to decrease the world's carbon emissions. Every day, scientists, technologists and engineers are discovering new ways to exploit renewable energy sources and develop techniques not just to use power more intelligently but to power our intelligence.",
+      "zh": "往届获奖者之一、澳大利亚新南威尔士大学的马丁·格林教授，发明了钝化发射极与背面电池技术，如今全球大部分太阳能电池板都采用了该技术。多亏他的发明，我们才真正有机会减少全球碳排放。每一天，科学家、技术专家和工程师们都在发现利用可再生能源的新途径，并开发各种技术——不仅是为了更智能地使用能源，更是为了给我们的智能提供动力。",
+      "words": [
+        {
+          "word": "exploit",
+          "phonetic": "/ɪkˈsplɔɪt/",
+          "meaning": "v. 利用；开发"
+        }
+      ]
+    },
+    {
+      "en": "A great example of this is Europe's largest supercomputer, LUMI in Finland, which is astonishingly carbon-negative. Established in an old paper mill, it is powered by a nearby river and its remote heat warms the people who live in the surrounding town of Kajaani. If the world is to meet its net-zero ambitions, we must think hard about how we can deliver sustainable computing and deliver more LUMIs.",
+      "zh": "一个绝佳的例子便是欧洲最大的超级计算机——芬兰的LUMI，其碳负排放属性令人惊叹。它建在一座旧造纸厂内，由附近的一条河流提供动力，其远程余热则为周围卡亚尼镇的居民供暖。如果世界要实现净零排放的雄心，我们就必须认真思考如何实现可持续计算，并打造出更多像LUMI这样的设施。",
+      "words": [
+        {
+          "word": "carbon-negative",
+          "phonetic": "/ˌkɑːrbən ˈneɡətɪv/",
+          "meaning": "adj. 碳负的"
+        },
+        {
+          "word": "net-zero",
+          "phonetic": "/ˌnet ˈzɪroʊ/",
+          "meaning": "adj. 净零的"
+        }
+      ]
+    }
+  ]
+}

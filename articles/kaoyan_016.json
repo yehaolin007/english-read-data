@@ -1,0 +1,58 @@
+{
+  "id": "kaoyan_016",
+  "category": "kaoyan",
+  "title": "Reskilling Cannot Be an Afterthought",
+  "subtitle": "再培训不能是事后补救：技能转型的责任谁来扛",
+  "readTime": 1,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Reskilling may sound like a buzzword, but it is now a labor-market necessity. Automation and digital tools are changing core job skills faster than many training systems can respond. Waiting until layoffs happen makes transition costs much higher for everyone.",
+      "zh": "再培训听起来像个流行词，但它已成为劳动力市场的现实必需。自动化与数字工具正以快于培训体系反应速度的方式重塑核心岗位技能。等到裁员发生再行动，只会让所有人的转型成本更高。",
+      "words": [
+        {
+          "word": "automation",
+          "phonetic": "/ˌɔːtəˈmeɪʃn/",
+          "meaning": "n. 自动化"
+        },
+        {
+          "word": "buzzword",
+          "phonetic": "/ˈbʌzwɜːrd/",
+          "meaning": "n. 流行词；时髦术语"
+        }
+      ]
+    },
+    {
+      "en": "Companies can either replace workers whose skills lag or invest in retraining them for adjacent roles. Some firms have shown that proactive programs outperform repeated fire-and-hire cycles over time. Yet many employers still underinvest because costs are immediate while benefits are shared.",
+      "zh": "企业可以选择替换技能落后的员工，也可以投资对他们进行再培训，使其胜任相近岗位。已有公司证明，从长远看，主动的再培训项目优于反复裁员再招聘的循环。但许多雇主仍投入不足，因为成本当期可见，收益却往往被多方共享。",
+      "words": [
+        {
+          "word": "proactive",
+          "phonetic": "/proʊˈæktɪv/",
+          "meaning": "adj. 主动的；积极的"
+        },
+        {
+          "word": "underinvest",
+          "phonetic": "/ˌʌndərɪnˈvest/",
+          "meaning": "v. 投资不足"
+        }
+      ]
+    },
+    {
+      "en": "When mismatch spreads across the whole economy, governments are forced to step in, though policy responses are often slow. The pandemic exposed this clearly, with high unemployment coexisting alongside shortages in critical sectors. Effective models typically combine employers, public funding, and educational institutions in coordinated pipelines.",
+      "zh": "当技能错配蔓延至整个经济层面时，政府便不得不介入，尽管政策响应通常滞后。疫情便清楚暴露了这一点——高失业率与关键行业的用工短缺竟同时存在。有效的模式通常将雇主、公共资金和教育机构纳入同一条协同转岗的链条中。",
+      "words": [
+        {
+          "word": "mismatch",
+          "phonetic": "/ˌmɪsˈmætʃ/",
+          "meaning": "n. 错配；不匹配"
+        },
+        {
+          "word": "pipeline",
+          "phonetic": "/ˈpaɪplaɪn/",
+          "meaning": "n. 渠道；输送途径"
+        }
+      ]
+    }
+  ]
+}

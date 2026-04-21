@@ -1,0 +1,87 @@
+{
+  "id": "cet6_027",
+  "category": "cet6",
+  "title": "Mutant Enzyme Could Solve Plastic Crisis",
+  "subtitle": "一个意外发现：吃塑料的酶可能拯救地球",
+  "readTime": 3,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Scientists have created by accident an enzyme that breaks down plastic drinks bottles. The breakthrough could help solve the global plastic pollution crisis by enabling for the first time the full recycling of bottles. The new research was spurred by the discovery in 2016 of the first bacterium that had naturally evolved to eat plastic at a waste dump in Japan.",
+      "zh": "科学家偶然创造了一种能分解塑料饮料瓶的酶。这一突破首次实现了瓶子的完全回收，有助于解决全球塑料污染危机。这项新研究源于2016年在日本一处垃圾场发现的首种自然进化出吃塑料能力的细菌。",
+      "words": [
+        {
+          "word": "enzyme",
+          "phonetic": "/ˈenzaɪm/",
+          "meaning": "n. 酶"
+        },
+        {
+          "word": "spurred",
+          "phonetic": "/spɜːrd/",
+          "meaning": "v. 推动，促进"
+        }
+      ]
+    },
+    {
+      "en": "Scientists have now revealed the detailed structure of the crucial enzyme produced by the bug. An international team then adjusted the enzyme to see how it had evolved, but tests showed they had accidentally made the molecule even better at breaking down the plastic used for drinks bottles. 'What actually turned out was we improved the enzyme, which was a bit of a shock,' said head researcher Prof. McGeehan, at the University of Portsmouth, UK.",
+      "zh": "科学家如今已揭示了这种细菌产生的关键酶的详细结构。随后一个国际团队对酶进行了调整以观察其进化方式，但测试显示他们意外地使该分子分解饮料瓶塑料的效率变得更高。英国朴茨茅斯大学的首席研究员麦吉汉教授说：“结果是我们居然改进了这种酶，这有点令人震惊。”",
+      "words": [
+        {
+          "word": "crucial",
+          "phonetic": "/ˈkruːʃl/",
+          "meaning": "adj. 关键的，至关重要的"
+        }
+      ]
+    },
+    {
+      "en": "Currently, the enzyme takes a few days to start breaking down the plastic, far faster than the centuries it takes in the oceans, but the researchers are optimistic this can be speeded up even further and become a viable large-scale process. 'What we are hoping to do is use this enzyme to turn this plastic back into its original components, so we can literally recycle it back to plastic,' said McGeehan. 'It means we won't need to dig up any more oil and, fundamentally, it should reduce the amount of plastic in the environment.'",
+      "zh": "目前这种酶需要几天时间才开始分解塑料，远比海洋中需要几个世纪快得多，但研究人员乐观地认为这一过程还能进一步加快，并成为可行的大规模工艺。麦吉汉说：“我们希望做的是利用这种酶将塑料变回其原始成分，这样我们就能真正将其回收成塑料。这意味着我们无需再开采更多石油，并且从根本上讲，它应该能减少环境中的塑料数量。”",
+      "words": [
+        {
+          "word": "viable",
+          "phonetic": "/ˈvaɪəbl/",
+          "meaning": "adj. 可行的，能成功的"
+        },
+        {
+          "word": "fundamentally",
+          "phonetic": "/ˌfʌndəˈmentəli/",
+          "meaning": "adv. 根本上，基本上"
+        }
+      ]
+    },
+    {
+      "en": "About 1 million plastic bottles are sold each minute around the globe and, with just 14 percent recycled, many end up in the oceans where they have polluted even the remotest parts, harming marine life and potentially people who eat seafood. 'Plastic is incredibly resistant to degradation,' said McGeehan. 'It is one of these wonder materials that has been made a little bit too well.'",
+      "zh": "全球每分钟售出约100万个塑料瓶，其中仅14%被回收，许多最终流入海洋，甚至污染了最偏远的区域，危害海洋生物并可能危及食用海鲜的人。麦吉汉说：“塑料具有惊人的抗降解性。它是一种被做得过于出色的神奇材料。”",
+      "words": [
+        {
+          "word": "degradation",
+          "phonetic": "/ˌdeɡrəˈdeɪʃn/",
+          "meaning": "n. 降解，退化"
+        }
+      ]
+    },
+    {
+      "en": "Currently those bottles that are recycled can only be turned into opaque fibres for clothing or carpets, while the new enzyme indicates a way to recycle old clear plastic bottles back into new clear plastic bottles. 'You are always up against the fact that oil is cheap, so plastic is cheap,' said McGeehan. 'It is so easy for manufacturers to generate more of that stuff, rather than even try to recycle, but I believe there is a public interest here: perception is changing so much that companies are starting to look at how they can properly recycle these bottles.'",
+      "zh": "目前被回收的瓶子只能转化为用于服装或地毯的不透明纤维，而新酶则指明了一条将旧透明塑料瓶回收制成新透明塑料瓶的途径。麦吉汉说：“你始终要面对石油便宜、因而塑料也便宜的现实。制造商轻而易举就能生产更多这种东西，甚至懒得尝试回收，但我相信这里存在公众利益：观念正在发生巨大转变，企业已开始研究如何妥善回收这些瓶子。”",
+      "words": [
+        {
+          "word": "opaque",
+          "phonetic": "/oʊˈpeɪk/",
+          "meaning": "adj. 不透明的"
+        }
+      ]
+    },
+    {
+      "en": "Prof. Adisa Azapagic, at the University of Manchester in the UK, agreed the enzyme could be useful but added: 'A full life-cycle assessment would be needed to ensure that the technology does not solve one environmental problem — waste — at the expense of others, including additional greenhouse gas emissions.'",
+      "zh": "英国曼彻斯特大学的阿迪萨·阿扎帕吉奇教授认同这种酶可能有用，但补充道：“需要进行完整的生命周期评估，以确保该技术不会以牺牲其他环境问题（包括额外的温室气体排放）为代价来解决废物这一环境问题。”",
+      "words": [
+        {
+          "word": "assessment",
+          "phonetic": "/əˈsesmənt/",
+          "meaning": "n. 评估，评定"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

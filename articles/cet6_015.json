@@ -1,0 +1,81 @@
+{
+  "id": "cet6_015",
+  "category": "cet6",
+  "title": "What Traffic Jams Teach Us About Freedom",
+  "subtitle": "汽车重塑城市：自由的幻觉",
+  "readTime": 2,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "The car has reshaped our cities. It seems to offer autonomy for everyone. There is something almost delightful in the detachment from reality of advertisements showing mass-produced cars marketed as symbols of individuality and freedom when most of their lives will be spent making short journeys on choked roads.",
+      "zh": "汽车重塑了我们的城市，似乎为每个人提供了自主权。广告将量产车包装为个性与自由的象征，而它们大部分时间却要在拥堵的路上跑短途，这种脱离现实的感觉几乎令人哑然失笑。",
+      "words": [
+        {
+          "word": "detachment",
+          "phonetic": "/dɪˈtætʃmənt/",
+          "meaning": "n. 脱离，超然"
+        },
+        {
+          "word": "choked",
+          "phonetic": "/tʃoʊkt/",
+          "meaning": "adj. 堵塞的，拥挤的"
+        }
+      ]
+    },
+    {
+      "en": "For all the fuss about top speeds and acceleration, the most useful gadgets on a modern car work when you are going slowly: parking sensors, sound systems, and navigation apps that spot traffic jams and suggest ways around them. The benefit of sharing personal location data comes straight back to the user.",
+      "zh": "尽管人们对极速和加速津津乐道，现代汽车上最有用的装置却是在低速时工作的：停车传感器、音响系统，以及能发现堵车并建议绕行路线的导航应用。分享个人位置数据的好处直接回馈给了用户。",
+      "words": [
+        {
+          "word": "gadgets",
+          "phonetic": "/ˈɡædʒɪts/",
+          "meaning": "n. 小装置，小器具"
+        }
+      ]
+    },
+    {
+      "en": "The problem comes when everyone uses a navigation app that tells them to avoid everyone else using the same tool. Traffic jams often appear where no one has enough information to avoid them. When a lucky few have the knowledge, they benefit greatly. But when everyone has perfect information, traffic jams simply spread onto side roads.",
+      "zh": "问题在于，当每个人都使用导航应用试图避开同样在使用该工具的其他人时。堵车常出现在无人有足够信息去避免的地方。当少数幸运儿掌握信息时，他们获益匪浅。但当所有人都拥有完美信息时，堵车只是转移到了支路上。",
+      "words": []
+    },
+    {
+      "en": "This teaches us two things. First, the promises of technology will never be fully realised; they will be limited by unforeseen consequences. Sitting in a more comfortable car in a different traffic jam is pleasant but hardly the liberation that was once promised. Second, self-organisation will not get us where we want to go.",
+      "zh": "这给我们两个启示。第一，技术的承诺永远不会完全实现，它们会受到意想不到的后果的限制。坐在更舒适的车里堵在另一条路上固然惬意，却谈不上曾经承诺的解放。第二，自组织无法带我们去想去的地方。",
+      "words": [
+        {
+          "word": "unforeseen",
+          "phonetic": "/ˌʌnfɔːrˈsiːn/",
+          "meaning": "adj. 未预见到的"
+        }
+      ]
+    },
+    {
+      "en": "The efforts of millions of drivers to get ahead do not miraculously produce a better outcome for all, but one in which almost everyone does rather worse. Central control and collective organisation can produce smoother and fairer outcomes, though even that is never guaranteed. Similar limits can be foreseen for the much greater advances promised by self-driving cars.",
+      "zh": "数百万司机争先恐后的努力并不能奇迹般地让所有人都受益，反而几乎让每个人都更糟。中央控制和集体组织能产生更平稳、更公平的结果，尽管这也无法保证。自动驾驶汽车所承诺的更大进步同样可以预见类似的局限。",
+      "words": [
+        {
+          "word": "miraculously",
+          "phonetic": "/mɪˈrækjələsli/",
+          "meaning": "adv. 奇迹般地"
+        }
+      ]
+    },
+    {
+      "en": "Last week, one operated by Uber struck and killed a woman pushing her bicycle across a road in Arizona — the first recorded death involving a supposedly fully autonomous car. Experts called it a catastrophic failure of technology. Even Silicon Valley has to acknowledge the costs of the intoxicating hurry that characterises its culture. What traffic teaches us is that reckless and uncontrolled change is as likely to harm us as benefit us, and that thoughtful regulation is necessary for a better future.",
+      "zh": "上周，一辆优步运营的自动驾驶汽车在亚利桑那州撞死了一名推自行车过马路的女性——这是有记录以来第一起涉及所谓全自动驾驶汽车的死亡事故。专家称之为技术的灾难性失败。即便是硅谷也不得不承认其文化中那种令人沉醉的急迫感所付出的代价。交通教给我们的是，鲁莽且不受控制的变革既可能伤害我们也可能使我们受益，而深思熟虑的监管是通往更美好未来的必要条件。",
+      "words": [
+        {
+          "word": "intoxicating",
+          "phonetic": "/ɪnˈtɑːksɪkeɪtɪŋ/",
+          "meaning": "adj. 令人沉醉的，使人兴奋的"
+        },
+        {
+          "word": "reckless",
+          "phonetic": "/ˈrekləs/",
+          "meaning": "adj. 鲁莽的，不计后果的"
+        }
+      ]
+    }
+  ],
+  "words": []
+}

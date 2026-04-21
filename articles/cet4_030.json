@@ -1,0 +1,85 @@
+{
+  "id": "cet4_030",
+  "category": "cet4",
+  "title": "Public Debate and Science in the Internet Age",
+  "subtitle": "当科学遇上网络口水战",
+  "readTime": 2,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "In the age of the internet, there's no such thing as a private debate. But is that bad for science? Some scientists have had concerns. When debates in any sector move beyond the halls of universities and government agencies, there's potential for information to be used incorrectly, leading to public confusion; yet, open debate can also promote communication between the scientific community and the public.",
+      "zh": "在互联网时代，不存在私下的辩论。但这对科学是坏事吗？一些科学家对此有所担忧。当任何领域的辩论走出大学和政府机构时，信息可能被错误使用，引发公众困惑；但公开辩论也能促进科学界与公众的沟通。",
+      "words": [
+        {
+          "word": "potential",
+          "phonetic": "/pəˈtenʃl/",
+          "meaning": "n. 可能性；潜力"
+        }
+      ]
+    },
+    {
+      "en": "Recent open debates on scientific research, health, and policy have aroused greater public attention and encouraged more diverse voices. If this trend spurs scientists to agree more quickly about the best solutions to our problems — and at the same time helps the public observe the process of scientific discourse more clearly — then this is good for everyone, including scientists.",
+      "zh": "近期围绕科学研究、健康和政策的公开辩论引起了更广泛的公众关注，也让更多不同的声音得以发出。如果这种趋势能促使科学家更快地就解决问题的最佳方案达成一致，同时帮助公众更清晰地观察科学话语的过程，那对每个人都是好事，包括科学家在内。",
+      "words": [
+        {
+          "word": "arouse",
+          "phonetic": "/əˈraʊz/",
+          "meaning": "v. 引起；唤起"
+        },
+        {
+          "word": "discourse",
+          "phonetic": "/ˈdɪskɔːrs/",
+          "meaning": "n. 话语；论述"
+        }
+      ]
+    },
+    {
+      "en": "A recent debate published in The New York Times discussed the question of how quickly medicine should be developed and produced. Issues such as safety of the product and perception of the public were examined and considered. But some experts worried that such public speculation might lead people to believe that disagreement about the details meant a lack of adequate scientific consensus over the safety and efficiency of modern-day medicine. The anxiety seems misplaced.",
+      "zh": "《纽约时报》最近刊登的一场辩论探讨了药物应以多快速度开发和生产的问题，审视了产品安全性和公众认知等议题。但一些专家担心，这种公开推测可能让人们误以为细节上的分歧意味着对现代医学的安全性和有效性缺乏充分的科学共识。这种担忧似乎有些多余。",
+      "words": [
+        {
+          "word": "speculation",
+          "phonetic": "/ˌspekjuˈleɪʃn/",
+          "meaning": "n. 推测；猜测"
+        },
+        {
+          "word": "consensus",
+          "phonetic": "/kənˈsensəs/",
+          "meaning": "n. 共识"
+        }
+      ]
+    },
+    {
+      "en": "Gone are the days of going to a conference and debating scientific issues, and that's good because those gatherings were not diverse enough and excluded many important voices. These days, the public can access debates about science regardless of where they take place. For many scientists, public debate is a new frontier and it may feel like a place with few restraints or rules, but rather than avoiding such conversations, let the debates be transparent and vigorous, wherever they are held.",
+      "zh": "那个只能在学术会议上辩论科学问题的时代已经过去了，这是好事，因为那些聚会不够多元，排除了许多重要的声音。如今，公众可以参与科学辩论，无论辩论发生在哪里。对很多科学家来说，公开辩论是一个新边疆，可能让人觉得几乎没有约束和规则，但与其回避这类对话，不如让辩论透明而充分，无论在哪里举行。",
+      "words": [
+        {
+          "word": "diverse",
+          "phonetic": "/daɪˈvɜːrs/",
+          "meaning": "adj. 多元的；多样的"
+        },
+        {
+          "word": "transparent",
+          "phonetic": "/trænsˈpærənt/",
+          "meaning": "adj. 透明的；公开的"
+        }
+      ]
+    },
+    {
+      "en": "If the public is to understand that science is an honorably self-correcting process, the idea that science is a fixed set of facts in a textbook needs to be dismissed. With the validity of science coming under attack, there's a need for scientific debates to be perceived as open and true to life. Let everyone see the noisy, messy deliberations that advance science and lead to decisions that benefit us all.",
+      "zh": "如果要让公众理解科学是一个光荣的自我纠错过程，就必须打破科学只是教科书中一套固定事实的观念。当科学的有效性受到质疑时，科学辩论需要被视为开放而真实的。让每个人都看到那些喧闹而混乱的讨论吧——正是这些讨论推动了科学进步，并催生了造福所有人的决策。",
+      "words": [
+        {
+          "word": "dismiss",
+          "phonetic": "/dɪsˈmɪs/",
+          "meaning": "v. 摒弃；驳回"
+        },
+        {
+          "word": "deliberation",
+          "phonetic": "/dɪˌlɪbəˈreɪʃn/",
+          "meaning": "n. 审议；讨论"
+        }
+      ]
+    }
+  ]
+}
