@@ -2086,5 +2086,14 @@
     "readTime": 9,
     "difficulty": 4,
     "paragraphCount": 6
+  },
+  {
+    "id": "hot_005",
+    "category": "hot",
+    "title": "Why Reading Makes You Smarter",
+    "subtitle": "阅读如何让你变得更聪明",
+    "readTime": 5,
+    "difficulty": 2,
+    "paragraphCount": 3
   }
 ]
