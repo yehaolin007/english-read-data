@@ -1,0 +1,140 @@
+{
+  "id": "hot_035",
+  "category": "hot",
+  "title": "Quantum Computing Takes Shape",
+  "subtitle": "量子计算机将如何颠覆我们的世界",
+  "readTime": 8,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "Quantum computing represents perhaps the most profound technological revolution since the transistor. Unlike classical computers that process bits as zeros or ones, quantum computers exploit quantum mechanical phenomena to perform calculations impossible for traditional machines. This technology promises to transform cryptography, drug discovery, and artificial intelligence.",
+      "zh": "量子计算可能代表着自晶体管以来最深刻的技术革命。与将比特处理为零或一的传统计算机不同，量子计算机利用量子力学现象来执行传统机器无法完成的计算。这项技术有望彻底改变密码学、药物研发和人工智能。",
+      "words": [
+        {
+          "word": "profound",
+          "phonetic": "/prəˈfaʊnd/",
+          "meaning": "adj. 深刻的，深远的"
+        },
+        {
+          "word": "transistor",
+          "phonetic": "/trænˈzɪstər/",
+          "meaning": "n. 晶体管"
+        },
+        {
+          "word": "exploit",
+          "phonetic": "/ɪkˈsplɔɪt/",
+          "meaning": "v. 利用"
+        },
+        {
+          "word": "cryptography",
+          "phonetic": "/krɪpˈtɒɡrəfi/",
+          "meaning": "n. 密码学"
+        }
+      ]
+    },
+    {
+      "en": "Quantum bits, or qubits, can exist in superposition—simultaneously representing zero and one until measured. This property enables quantum computers to explore vast solution spaces in parallel. Problems requiring billions of years for classical computers might be solved in minutes by sufficiently powerful quantum systems.",
+      "zh": "量子比特（或称量子位）可以处于叠加态——在被测量之前同时表示零和一。这一特性使量子计算机能够并行探索巨大的解空间。传统计算机需要数十亿年才能解决的问题，足够强大的量子系统可能在几分钟内就能解决。",
+      "words": [
+        {
+          "word": "qubit",
+          "phonetic": "/ˈkjuːbɪt/",
+          "meaning": "n. 量子比特"
+        },
+        {
+          "word": "superposition",
+          "phonetic": "/ˌsuːpəpəˈzɪʃn/",
+          "meaning": "n. 叠加态"
+        },
+        {
+          "word": "simultaneously",
+          "phonetic": "/ˌsɪmlˈteɪniəsli/",
+          "meaning": "adv. 同时地"
+        },
+        {
+          "word": "parallel",
+          "phonetic": "/ˈpærəlel/",
+          "meaning": "adj./adv. 并行的"
+        }
+      ]
+    },
+    {
+      "en": "Current quantum computers remain extremely fragile and error-prone. Qubits must be isolated at temperatures near absolute zero to maintain their delicate quantum states. Even minimal environmental interference causes decoherence—the collapse of quantum information into classical states. Building fault-tolerant quantum systems remains a formidable engineering challenge.",
+      "zh": "目前的量子计算机仍然极其脆弱且容易出错。量子比特必须在接近绝对零度的温度下隔离，以维持其脆弱的量子态。即使是最小的环境干扰也会导致退相干——量子信息坍缩为经典态。构建容错量子系统仍然是一项艰巨的工程挑战。",
+      "words": [
+        {
+          "word": "fragile",
+          "phonetic": "/ˈfrædʒaɪl/",
+          "meaning": "adj. 脆弱的"
+        },
+        {
+          "word": "absolute zero",
+          "phonetic": "/ˈæbsəluːt ˈzɪərəʊ/",
+          "meaning": "n. 绝对零度"
+        },
+        {
+          "word": "decoherence",
+          "phonetic": "/ˌdiːkəʊˈhɪərəns/",
+          "meaning": "n. 退相干"
+        },
+        {
+          "word": "formidable",
+          "phonetic": "/ˈfɔːmɪdəbl/",
+          "meaning": "adj. 艰巨的，可怕的"
+        }
+      ]
+    },
+    {
+      "en": "The cybersecurity implications of quantum computing generate significant concern. Quantum computers could potentially break the encryption protecting financial transactions, government communications, and personal data. Organizations worldwide are racing to develop quantum-resistant cryptographic systems before this threat materializes.",
+      "zh": "量子计算对网络安全的影响引发了重大关切。量子计算机可能破解保护金融交易、政府通信和个人数据的加密。世界各地的组织正在竞相开发抗量子加密系统，以应对这一威胁变为现实之前。",
+      "words": [
+        {
+          "word": "cybersecurity",
+          "phonetic": "/ˌsaɪbəsɪˈkjʊərəti/",
+          "meaning": "n. 网络安全"
+        },
+        {
+          "word": "encryption",
+          "phonetic": "/ɪnˈkrɪpʃn/",
+          "meaning": "n. 加密"
+        },
+        {
+          "word": "resistant",
+          "phonetic": "/rɪˈzɪstənt/",
+          "meaning": "adj. 抵抗的，抗性的"
+        },
+        {
+          "word": "materialize",
+          "phonetic": "/məˈtɪəriəlaɪz/",
+          "meaning": "v. 实现，成为现实"
+        }
+      ]
+    },
+    {
+      "en": "Despite technical hurdles, investment in quantum computing has reached unprecedented levels. Technology giants and startups alike pursue breakthroughs in qubit stability and error correction. The nation or organization that achieves practical quantum supremacy may gain transformative advantages across scientific research, economic competition, and national security.",
+      "zh": "尽管存在技术障碍，对量子计算的投资已达到前所未有的水平。科技巨头和初创公司都在追求量子比特稳定性和纠错方面的突破。实现实用量子霸权的国家或组织可能在科学研究、经济竞争和国家安全方面获得变革性优势。",
+      "words": [
+        {
+          "word": "hurdle",
+          "phonetic": "/ˈhɜːdl/",
+          "meaning": "n. 障碍，难关"
+        },
+        {
+          "word": "breakthrough",
+          "phonetic": "/ˈbreɪkθruː/",
+          "meaning": "n. 突破"
+        },
+        {
+          "word": "supremacy",
+          "phonetic": "/suːˈpreməsi/",
+          "meaning": "n. 霸权，优势地位"
+        },
+        {
+          "word": "transformative",
+          "phonetic": "/trænsˈfɔːmətɪv/",
+          "meaning": "adj. 变革性的"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "hot_037",
+  "category": "hot",
+  "title": "The Microbiome Revolution",
+  "subtitle": "肠道菌群如何影响你的整体健康",
+  "readTime": 7,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Scientists have discovered that the trillions of microorganisms inhabiting our bodies profoundly influence human health. The gut microbiome—the bacterial ecosystem in our digestive tract—affects everything from immune function to mental health. This emerging field is transforming our understanding of disease and wellness.",
+      "zh": "科学家发现，栖息在我们体内的数万亿微生物深刻影响着人类健康。肠道微生物组——我们消化道中的细菌生态系统——影响从免疫功能到心理健康的一切。这个新兴领域正在改变我们对疾病和健康的理解。",
+      "words": [
+        {
+          "word": "inhabit",
+          "phonetic": "/ɪnˈhæbɪt/",
+          "meaning": "v. 栖息，居住"
+        },
+        {
+          "word": "profoundly",
+          "phonetic": "/prəˈfaʊndli/",
+          "meaning": "adv. 深刻地"
+        },
+        {
+          "word": "digestive",
+          "phonetic": "/daɪˈdʒestɪv/",
+          "meaning": "adj. 消化的"
+        },
+        {
+          "word": "emerging",
+          "phonetic": "/ɪˈmɜːdʒɪŋ/",
+          "meaning": "adj. 新兴的"
+        }
+      ]
+    },
+    {
+      "en": "Each person's microbiome is as unique as a fingerprint, shaped by birth method, diet, medication use, and environment. Research reveals that diverse microbiomes correlate with better health outcomes, while reduced diversity links to conditions including obesity, autoimmune disorders, and allergies.",
+      "zh": "每个人的微生物组像指纹一样独特，由分娩方式、饮食、药物使用和环境塑造。研究表明，多样化的微生物组与更好的健康结果相关，而多样性降低则与肥胖、自身免疫性疾病和过敏等状况有关。",
+      "words": [
+        {
+          "word": "fingerprint",
+          "phonetic": "/ˈfɪŋɡəprɪnt/",
+          "meaning": "n. 指纹"
+        },
+        {
+          "word": "correlate",
+          "phonetic": "/ˈkɒrəleɪt/",
+          "meaning": "v. 相关联"
+        },
+        {
+          "word": "disorder",
+          "phonetic": "/dɪsˈɔːdər/",
+          "meaning": "n. 疾病，紊乱"
+        },
+        {
+          "word": "allergy",
+          "phonetic": "/ˈælədʒi/",
+          "meaning": "n. 过敏"
+        }
+      ]
+    },
+    {
+      "en": "The gut-brain axis represents one of the most surprising microbiome discoveries. Gut bacteria produce neurotransmitters and communicate with the brain through the vagus nerve. Studies connect microbiome imbalances to depression, anxiety, and even neurodevelopmental conditions. This connection suggests new therapeutic approaches for mental illness.",
+      "zh": "肠脑轴代表了最令人惊讶的微生物组发现之一。肠道细菌产生神经递质，并通过迷走神经与大脑交流。研究将微生物组失衡与抑郁、焦虑甚至神经发育性疾病联系起来。这种联系为精神疾病提出了新的治疗方法。",
+      "words": [
+        {
+          "word": "neurotransmitter",
+          "phonetic": "/ˌnjʊərəʊtrænzˈmɪtər/",
+          "meaning": "n. 神经递质"
+        },
+        {
+          "word": "vagus nerve",
+          "phonetic": "/ˈveɪɡəs nɜːv/",
+          "meaning": "n. 迷走神经"
+        },
+        {
+          "word": "imbalance",
+          "phonetic": "/ɪmˈbæləns/",
+          "meaning": "n. 失衡"
+        },
+        {
+          "word": "therapeutic",
+          "phonetic": "/ˌθerəˈpjuːtɪk/",
+          "meaning": "adj. 治疗的"
+        }
+      ]
+    },
+    {
+      "en": "Antibiotics, while lifesaving, can devastate healthy microbiome communities. A single course may eliminate beneficial bacteria that take months to recover. Researchers increasingly advocate for more judicious antibiotic use and post-treatment probiotic support to restore microbial diversity.",
+      "zh": "抗生素虽然能挽救生命，但可能会破坏健康的微生物群落。单一疗程可能会消灭需要数月才能恢复的有益细菌。研究人员越来越倡导更审慎地使用抗生素，并在治疗后使用益生菌支持来恢复微生物多样性。",
+      "words": [
+        {
+          "word": "antibiotic",
+          "phonetic": "/ˌæntɪbaɪˈɒtɪk/",
+          "meaning": "n. 抗生素"
+        },
+        {
+          "word": "devastate",
+          "phonetic": "/ˈdevəsteɪt/",
+          "meaning": "v. 破坏，摧毁"
+        },
+        {
+          "word": "judicious",
+          "phonetic": "/dʒuːˈdɪʃəs/",
+          "meaning": "adj. 审慎的，明智的"
+        },
+        {
+          "word": "microbial",
+          "phonetic": "/maɪˈkrəʊbiəl/",
+          "meaning": "adj. 微生物的"
+        }
+      ]
+    },
+    {
+      "en": "Future medicine may involve personalized treatments based on individual microbiome profiles. Fecal transplants already treat certain infections by transferring healthy bacterial communities. Scientists envision precision probiotics tailored to specific conditions and engineered bacteria capable of producing therapeutic compounds directly within the gut.",
+      "zh": "未来的医学可能涉及基于个人微生物组特征的个性化治疗。粪便移植已经通过转移健康的细菌群落来治疗某些感染。科学家设想针对特定疾病定制的精准益生菌，以及能够直接在肠道内产生治疗化合物的工程细菌。",
+      "words": [
+        {
+          "word": "personalized",
+          "phonetic": "/ˈpɜːsənəlaɪzd/",
+          "meaning": "adj. 个性化的"
+        },
+        {
+          "word": "fecal",
+          "phonetic": "/ˈfiːkl/",
+          "meaning": "adj. 粪便的"
+        },
+        {
+          "word": "transplant",
+          "phonetic": "/ˈtrænzplɑːnt/",
+          "meaning": "n./v. 移植"
+        },
+        {
+          "word": "envision",
+          "phonetic": "/ɪnˈvɪʒn/",
+          "meaning": "v. 设想，展望"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "hot_041",
+  "category": "hot",
+  "title": "Social Media Shapes Political Reality",
+  "subtitle": "算法如何重塑我们的政治认知",
+  "readTime": 8,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Social media platforms have fundamentally transformed political communication and civic engagement. Politicians now bypass traditional media to communicate directly with supporters, while grassroots movements organize at unprecedented speed. These changes have democratized political participation while introducing new challenges to democratic discourse.",
+      "zh": "社交媒体平台从根本上改变了政治传播和公民参与。政治家现在绕过传统媒体直接与支持者沟通，而草根运动以前所未有的速度组织起来。这些变化使政治参与民主化，同时也给民主话语带来了新的挑战。",
+      "words": [
+        {
+          "word": "civic",
+          "phonetic": "/ˈsɪvɪk/",
+          "meaning": "adj. 公民的，市民的"
+        },
+        {
+          "word": "bypass",
+          "phonetic": "/ˈbaɪpɑːs/",
+          "meaning": "v. 绕过"
+        },
+        {
+          "word": "grassroots",
+          "phonetic": "/ˌɡrɑːsˈruːts/",
+          "meaning": "adj. 草根的，基层的"
+        },
+        {
+          "word": "discourse",
+          "phonetic": "/ˈdɪskɔːs/",
+          "meaning": "n. 话语，论述"
+        }
+      ]
+    },
+    {
+      "en": "Algorithmic content curation creates information bubbles that reinforce existing beliefs. Users predominantly encounter perspectives similar to their own, rarely confronting challenging viewpoints. This polarization erodes common ground necessary for democratic compromise, as citizens increasingly inhabit separate informational realities.",
+      "zh": "算法内容策展创造了强化现有信念的信息泡沫。用户主要遇到与自己相似的观点，很少面对具有挑战性的视角。这种极化侵蚀了民主妥协所必需的共同基础，因为公民越来越多地生活在分离的信息现实中。",
+      "words": [
+        {
+          "word": "curation",
+          "phonetic": "/kjʊəˈreɪʃn/",
+          "meaning": "n. 策展，整理"
+        },
+        {
+          "word": "predominantly",
+          "phonetic": "/prɪˈdɒmɪnəntli/",
+          "meaning": "adv. 主要地"
+        },
+        {
+          "word": "polarization",
+          "phonetic": "/ˌpəʊləraɪˈzeɪʃn/",
+          "meaning": "n. 极化，两极分化"
+        },
+        {
+          "word": "erode",
+          "phonetic": "/ɪˈrəʊd/",
+          "meaning": "v. 侵蚀，削弱"
+        }
+      ]
+    },
+    {
+      "en": "Misinformation spreads rapidly through social networks, often outpacing fact-checking efforts. False stories that generate strong emotional reactions receive more engagement, incentivizing sensationalism over accuracy. Foreign actors exploit these dynamics to influence elections and sow discord in target societies.",
+      "zh": "错误信息通过社交网络快速传播，往往超过事实核查的速度。引发强烈情绪反应的虚假故事获得更多参与度，激励了耸人听闻而非准确性。外国势力利用这些动态来影响选举并在目标社会中制造不和。",
+      "words": [
+        {
+          "word": "misinformation",
+          "phonetic": "/ˌmɪsɪnfəˈmeɪʃn/",
+          "meaning": "n. 错误信息"
+        },
+        {
+          "word": "outpace",
+          "phonetic": "/ˌaʊtˈpeɪs/",
+          "meaning": "v. 超过，胜过"
+        },
+        {
+          "word": "sensationalism",
+          "phonetic": "/senˈseɪʃənəlɪzəm/",
+          "meaning": "n. 耸人听闻"
+        },
+        {
+          "word": "discord",
+          "phonetic": "/ˈdɪskɔːd/",
+          "meaning": "n. 不和，纷争"
+        }
+      ]
+    },
+    {
+      "en": "Platform companies face pressure to moderate political content while avoiding bias accusations. Decisions about what speech to permit involve profound questions about democratic values. Critics across the political spectrum accuse platforms of censorship or insufficient action, depending on their perspective.",
+      "zh": "平台公司面临着在审核政治内容的同时避免偏见指责的压力。关于允许什么言论的决定涉及民主价值的深刻问题。各政治派别的批评者根据他们的立场，指责平台进行审查或行动不足。",
+      "words": [
+        {
+          "word": "moderate",
+          "phonetic": "/ˈmɒdəreɪt/",
+          "meaning": "v. 审核，调节"
+        },
+        {
+          "word": "accusation",
+          "phonetic": "/ˌækjuˈzeɪʃn/",
+          "meaning": "n. 指责，指控"
+        },
+        {
+          "word": "spectrum",
+          "phonetic": "/ˈspektrəm/",
+          "meaning": "n. 光谱，范围"
+        },
+        {
+          "word": "censorship",
+          "phonetic": "/ˈsensəʃɪp/",
+          "meaning": "n. 审查制度"
+        }
+      ]
+    },
+    {
+      "en": "Preserving democratic health in the social media age requires multiple interventions. Media literacy education helps citizens critically evaluate online information. Regulatory frameworks might require algorithmic transparency and accountability. Ultimately, healthy democracy depends on citizens committed to seeking truth beyond comfortable echo chambers.",
+      "zh": "在社交媒体时代维护民主健康需要多重干预。媒体素养教育帮助公民批判性地评估在线信息。监管框架可能需要算法透明度和问责制。最终，健康的民主取决于公民致力于在舒适的回音室之外寻求真相。",
+      "words": [
+        {
+          "word": "intervention",
+          "phonetic": "/ˌɪntəˈvenʃn/",
+          "meaning": "n. 干预，介入"
+        },
+        {
+          "word": "literacy",
+          "phonetic": "/ˈlɪtərəsi/",
+          "meaning": "n. 素养，读写能力"
+        },
+        {
+          "word": "transparency",
+          "phonetic": "/trænsˈpærənsi/",
+          "meaning": "n. 透明度"
+        },
+        {
+          "word": "echo chamber",
+          "phonetic": "/ˈekəʊ ˈtʃeɪmbər/",
+          "meaning": "n. 回音室，信息茧房"
+        }
+      ]
+    }
+  ]
+}

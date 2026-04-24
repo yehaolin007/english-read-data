@@ -1,0 +1,140 @@
+{
+  "id": "hot_060",
+  "category": "hot",
+  "title": "Ancient History Gets a Digital Makeover",
+  "subtitle": "科技如何改变我们理解过去的方式",
+  "readTime": 7,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Digital technologies are revolutionizing archaeological research and historical understanding. Satellite imagery reveals ancient sites invisible from ground level, while 3D scanning preserves artifacts in unprecedented detail. These tools allow researchers to analyze the past with precision previous generations could never have imagined.",
+      "zh": "数字技术正在彻底改变考古研究和历史理解。卫星图像揭示了从地面看不见的古代遗址，而3D扫描以前所未有的细节保存文物。这些工具使研究人员能够以前几代人无法想象的精确度分析过去。",
+      "words": [
+        {
+          "word": "archaeological",
+          "phonetic": "/ˌɑːkiəˈlɒdʒɪkl/",
+          "meaning": "adj. 考古的"
+        },
+        {
+          "word": "satellite",
+          "phonetic": "/ˈsætəlaɪt/",
+          "meaning": "n. 卫星"
+        },
+        {
+          "word": "imagery",
+          "phonetic": "/ˈɪmɪdʒəri/",
+          "meaning": "n. 图像"
+        },
+        {
+          "word": "artifact",
+          "phonetic": "/ˈɑːtɪfækt/",
+          "meaning": "n. 文物，人工制品"
+        }
+      ]
+    },
+    {
+      "en": "LiDAR technology has proven particularly transformative for archaeology. This laser-based scanning method can penetrate dense vegetation to map terrain beneath, revealing hidden structures in jungles and forests. Recent LiDAR surveys have discovered entire ancient cities that remained undetected despite centuries of exploration.",
+      "zh": "激光雷达技术对考古学特别具有变革性。这种基于激光的扫描方法可以穿透茂密的植被绘制下方的地形，揭示丛林和森林中隐藏的结构。最近的激光雷达调查发现了尽管经过几个世纪的探索仍未被发现的整座古城。",
+      "words": [
+        {
+          "word": "LiDAR",
+          "phonetic": "/ˈlaɪdɑːr/",
+          "meaning": "n. 激光雷达"
+        },
+        {
+          "word": "penetrate",
+          "phonetic": "/ˈpenɪtreɪt/",
+          "meaning": "v. 穿透"
+        },
+        {
+          "word": "vegetation",
+          "phonetic": "/ˌvedʒɪˈteɪʃn/",
+          "meaning": "n. 植被"
+        },
+        {
+          "word": "terrain",
+          "phonetic": "/təˈreɪn/",
+          "meaning": "n. 地形"
+        }
+      ]
+    },
+    {
+      "en": "DNA analysis has rewritten understanding of human migration and ancestry. Ancient genetic material extracted from bones reveals population movements and mixtures that left no written records. These discoveries have challenged long-held assumptions about prehistoric human history and continue to surprise researchers.",
+      "zh": "DNA分析重写了对人类迁移和祖先的理解。从骨骼中提取的古代遗传物质揭示了没有留下书面记录的人口流动和混合。这些发现挑战了关于史前人类历史的长期假设，并继续让研究人员感到惊讶。",
+      "words": [
+        {
+          "word": "migration",
+          "phonetic": "/maɪˈɡreɪʃn/",
+          "meaning": "n. 迁移"
+        },
+        {
+          "word": "ancestry",
+          "phonetic": "/ˈænsestri/",
+          "meaning": "n. 祖先，血统"
+        },
+        {
+          "word": "extract",
+          "phonetic": "/ɪkˈstrækt/",
+          "meaning": "v. 提取"
+        },
+        {
+          "word": "prehistoric",
+          "phonetic": "/ˌpriːhɪˈstɒrɪk/",
+          "meaning": "adj. 史前的"
+        }
+      ]
+    },
+    {
+      "en": "Virtual reality offers new ways to experience historical sites. Digital reconstructions allow visitors to walk through ancient buildings as they originally appeared, complete with furnishings and occupants. Museums worldwide employ these technologies to make history more immersive and accessible to diverse audiences.",
+      "zh": "虚拟现实提供了体验历史遗址的新方式。数字重建允许参观者穿行于古建筑中，看到它们最初的样子，包括家具和居住者。世界各地的博物馆使用这些技术使历史对不同的观众更加身临其境且更容易接近。",
+      "words": [
+        {
+          "word": "reconstruction",
+          "phonetic": "/ˌriːkənˈstrʌkʃn/",
+          "meaning": "n. 重建"
+        },
+        {
+          "word": "furnishing",
+          "phonetic": "/ˈfɜːnɪʃɪŋ/",
+          "meaning": "n. 家具，陈设"
+        },
+        {
+          "word": "immersive",
+          "phonetic": "/ɪˈmɜːsɪv/",
+          "meaning": "adj. 沉浸式的"
+        },
+        {
+          "word": "diverse",
+          "phonetic": "/daɪˈvɜːs/",
+          "meaning": "adj. 多样的"
+        }
+      ]
+    },
+    {
+      "en": "Artificial intelligence now assists in deciphering ancient texts and languages. Machine learning algorithms can identify patterns in damaged inscriptions that human eyes might miss. Some AI systems have made breakthroughs in understanding previously untranslatable scripts, opening new windows into lost civilizations.",
+      "zh": "人工智能现在协助破译古代文本和语言。机器学习算法可以识别人眼可能错过的损坏铭文中的模式。一些AI系统在理解以前无法翻译的文字方面取得了突破，为失落的文明打开了新的窗口。",
+      "words": [
+        {
+          "word": "decipher",
+          "phonetic": "/dɪˈsaɪfər/",
+          "meaning": "v. 破译"
+        },
+        {
+          "word": "inscription",
+          "phonetic": "/ɪnˈskrɪpʃn/",
+          "meaning": "n. 铭文"
+        },
+        {
+          "word": "script",
+          "phonetic": "/skrɪpt/",
+          "meaning": "n. 文字，书写系统"
+        },
+        {
+          "word": "civilization",
+          "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+          "meaning": "n. 文明"
+        }
+      ]
+    }
+  ]
+}

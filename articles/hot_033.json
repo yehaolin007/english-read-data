@@ -1,0 +1,140 @@
+{
+  "id": "hot_033",
+  "category": "hot",
+  "title": "The Attention Economy's Hidden Costs",
+  "subtitle": "当你的注意力成为商品，谁在付出代价",
+  "readTime": 7,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "In the digital age, human attention has become one of the most valuable and contested resources. Technology companies design products specifically to capture and hold attention, monetizing engagement through advertising. This attention economy extracts value from users while generating significant personal and social costs.",
+      "zh": "在数字时代，人类的注意力已成为最有价值、竞争最激烈的资源之一。科技公司专门设计产品来捕获和保持注意力，通过广告将用户参与度变现。这种注意力经济从用户身上榨取价值，同时产生重大的个人和社会成本。",
+      "words": [
+        {
+          "word": "contested",
+          "phonetic": "/kənˈtestɪd/",
+          "meaning": "adj. 有争议的，争夺的"
+        },
+        {
+          "word": "monetize",
+          "phonetic": "/ˈmʌnɪtaɪz/",
+          "meaning": "v. 货币化，变现"
+        },
+        {
+          "word": "engagement",
+          "phonetic": "/ɪnˈɡeɪdʒmənt/",
+          "meaning": "n. 参与度"
+        },
+        {
+          "word": "extract",
+          "phonetic": "/ɪkˈstrækt/",
+          "meaning": "v. 榨取，提取"
+        }
+      ]
+    },
+    {
+      "en": "Smartphones and social media platforms exploit psychological vulnerabilities to maximize time on screen. Variable reward systems—similar to slot machines—create compulsive checking behaviors. Notifications interrupt concentration, while infinite scroll mechanisms remove natural stopping points from content consumption.",
+      "zh": "智能手机和社交媒体平台利用心理弱点来最大化屏幕使用时间。类似老虎机的可变奖励系统创造了强迫性的查看行为。通知打断专注力，而无限滚动机制则消除了内容消费的自然停止点。",
+      "words": [
+        {
+          "word": "exploit",
+          "phonetic": "/ɪkˈsplɔɪt/",
+          "meaning": "v. 利用，剥削"
+        },
+        {
+          "word": "vulnerability",
+          "phonetic": "/ˌvʌlnərəˈbɪləti/",
+          "meaning": "n. 弱点，脆弱性"
+        },
+        {
+          "word": "compulsive",
+          "phonetic": "/kəmˈpʌlsɪv/",
+          "meaning": "adj. 强迫性的"
+        },
+        {
+          "word": "infinite",
+          "phonetic": "/ˈɪnfɪnət/",
+          "meaning": "adj. 无限的"
+        }
+      ]
+    },
+    {
+      "en": "The consequences extend beyond wasted time to cognitive and emotional impacts. Research links heavy social media use to increased anxiety, depression, and loneliness. Constant connectivity prevents the mind from experiencing restorative boredom that historically stimulated creativity and reflection.",
+      "zh": "后果不仅限于浪费时间，还包括认知和情感影响。研究将大量使用社交媒体与焦虑、抑郁和孤独感增加联系起来。持续的连接阻止大脑体验具有恢复性的无聊感，而这种无聊在历史上曾激发创造力和反思。",
+      "words": [
+        {
+          "word": "cognitive",
+          "phonetic": "/ˈkɒɡnətɪv/",
+          "meaning": "adj. 认知的"
+        },
+        {
+          "word": "restorative",
+          "phonetic": "/rɪˈstɔːrətɪv/",
+          "meaning": "adj. 恢复性的"
+        },
+        {
+          "word": "boredom",
+          "phonetic": "/ˈbɔːdəm/",
+          "meaning": "n. 无聊"
+        },
+        {
+          "word": "stimulate",
+          "phonetic": "/ˈstɪmjuleɪt/",
+          "meaning": "v. 刺激，激发"
+        }
+      ]
+    },
+    {
+      "en": "Children and adolescents face particular vulnerability in the attention economy. Developing brains are especially susceptible to habit formation and reward-seeking behaviors. Many parents struggle to manage screen time while technology companies employ vast teams of engineers optimizing for engagement.",
+      "zh": "儿童和青少年在注意力经济中面临特殊的脆弱性。发育中的大脑特别容易形成习惯和寻求奖励的行为。许多父母难以管理屏幕时间，而科技公司则雇用大量工程师团队来优化用户参与度。",
+      "words": [
+        {
+          "word": "adolescent",
+          "phonetic": "/ˌædəˈlesnt/",
+          "meaning": "n. 青少年"
+        },
+        {
+          "word": "susceptible",
+          "phonetic": "/səˈseptəbl/",
+          "meaning": "adj. 易受影响的"
+        },
+        {
+          "word": "formation",
+          "phonetic": "/fɔːˈmeɪʃn/",
+          "meaning": "n. 形成"
+        },
+        {
+          "word": "optimize",
+          "phonetic": "/ˈɒptɪmaɪz/",
+          "meaning": "v. 优化"
+        }
+      ]
+    },
+    {
+      "en": "Reclaiming attention requires both individual strategies and systemic change. Digital wellness tools can help users monitor and limit usage, while designers could create more humane interfaces. Regulatory frameworks might require transparency about manipulative techniques, giving users meaningful control over their own attention.",
+      "zh": "夺回注意力既需要个人策略，也需要系统性变革。数字健康工具可以帮助用户监控和限制使用，而设计师可以创建更人性化的界面。监管框架可能需要对操纵性技术保持透明，让用户对自己的注意力拥有有意义的控制权。",
+      "words": [
+        {
+          "word": "reclaim",
+          "phonetic": "/rɪˈkleɪm/",
+          "meaning": "v. 夺回，收回"
+        },
+        {
+          "word": "humane",
+          "phonetic": "/hjuːˈmeɪn/",
+          "meaning": "adj. 人道的，人性化的"
+        },
+        {
+          "word": "regulatory",
+          "phonetic": "/ˈreɡjələtɔːri/",
+          "meaning": "adj. 监管的"
+        },
+        {
+          "word": "manipulative",
+          "phonetic": "/məˈnɪpjələtɪv/",
+          "meaning": "adj. 操纵性的"
+        }
+      ]
+    }
+  ]
+}

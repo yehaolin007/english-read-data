@@ -1,0 +1,140 @@
+{
+  "id": "hot_032",
+  "category": "hot",
+  "title": "Urban Heat Islands Threaten Cities",
+  "subtitle": "为什么城市越来越热，我们能做什么",
+  "readTime": 7,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "Cities are significantly warmer than surrounding rural areas, a phenomenon known as the urban heat island effect. Concrete, asphalt, and buildings absorb and retain solar radiation far more effectively than natural landscapes. On summer nights, urban temperatures can exceed those of nearby countryside by several degrees.",
+      "zh": "城市比周围农村地区温度明显更高，这种现象被称为城市热岛效应。混凝土、沥青和建筑物吸收和保留太阳辐射的能力远超自然景观。在夏夜，城市温度可能比附近农村高出好几度。",
+      "words": [
+        {
+          "word": "phenomenon",
+          "phonetic": "/fəˈnɒmɪnən/",
+          "meaning": "n. 现象"
+        },
+        {
+          "word": "concrete",
+          "phonetic": "/ˈkɒŋkriːt/",
+          "meaning": "n. 混凝土"
+        },
+        {
+          "word": "asphalt",
+          "phonetic": "/ˈæsfælt/",
+          "meaning": "n. 沥青"
+        },
+        {
+          "word": "radiation",
+          "phonetic": "/ˌreɪdiˈeɪʃn/",
+          "meaning": "n. 辐射"
+        }
+      ]
+    },
+    {
+      "en": "Climate change intensifies urban heat island effects, creating dangerous conditions for city residents. Extreme heat events cause more deaths annually than any other weather-related hazard. Vulnerable populations—including elderly individuals, outdoor workers, and those without air conditioning—face disproportionate health risks.",
+      "zh": "气候变化加剧了城市热岛效应，为城市居民创造了危险的条件。极端高温事件每年造成的死亡人数超过任何其他与天气相关的灾害。脆弱人群——包括老年人、户外工作者和没有空调的人——面临着不成比例的健康风险。",
+      "words": [
+        {
+          "word": "intensify",
+          "phonetic": "/ɪnˈtensɪfaɪ/",
+          "meaning": "v. 加剧，增强"
+        },
+        {
+          "word": "hazard",
+          "phonetic": "/ˈhæzəd/",
+          "meaning": "n. 危险，灾害"
+        },
+        {
+          "word": "vulnerable",
+          "phonetic": "/ˈvʌlnərəbl/",
+          "meaning": "adj. 脆弱的，易受伤害的"
+        },
+        {
+          "word": "disproportionate",
+          "phonetic": "/ˌdɪsprəˈpɔːʃənət/",
+          "meaning": "adj. 不成比例的"
+        }
+      ]
+    },
+    {
+      "en": "Green infrastructure offers one promising approach to urban cooling. Trees provide shade and release moisture through evapotranspiration, naturally reducing temperatures. Green roofs covered with vegetation insulate buildings while absorbing heat. Parks and urban forests create cooler microclimates that benefit surrounding neighborhoods.",
+      "zh": "绿色基础设施提供了一种有前景的城市降温方法。树木提供阴凉并通过蒸发蒸腾作用释放水分，自然降低温度。覆盖植被的绿色屋顶为建筑物隔热同时吸收热量。公园和城市森林创造了更凉爽的微气候，惠及周边社区。",
+      "words": [
+        {
+          "word": "evapotranspiration",
+          "phonetic": "/ɪˌvæpəʊtrænspɪˈreɪʃn/",
+          "meaning": "n. 蒸发蒸腾作用"
+        },
+        {
+          "word": "vegetation",
+          "phonetic": "/ˌvedʒɪˈteɪʃn/",
+          "meaning": "n. 植被"
+        },
+        {
+          "word": "insulate",
+          "phonetic": "/ˈɪnsjuleɪt/",
+          "meaning": "v. 隔热，使绝缘"
+        },
+        {
+          "word": "microclimate",
+          "phonetic": "/ˈmaɪkrəʊklaɪmət/",
+          "meaning": "n. 微气候"
+        }
+      ]
+    },
+    {
+      "en": "Cool roofs and pavements reflect rather than absorb solar energy. White or reflective surfaces can dramatically reduce building cooling costs and urban temperatures. Some cities now require reflective materials in new construction, particularly in low-income neighborhoods most affected by extreme heat.",
+      "zh": "冷屋顶和路面反射而不是吸收太阳能。白色或反光表面可以显著降低建筑冷却成本和城市温度。一些城市现在要求在新建筑中使用反光材料，特别是在受极端高温影响最大的低收入社区。",
+      "words": [
+        {
+          "word": "reflective",
+          "phonetic": "/rɪˈflektɪv/",
+          "meaning": "adj. 反光的"
+        },
+        {
+          "word": "dramatically",
+          "phonetic": "/drəˈmætɪkli/",
+          "meaning": "adv. 显著地"
+        },
+        {
+          "word": "construction",
+          "phonetic": "/kənˈstrʌkʃn/",
+          "meaning": "n. 建筑，建造"
+        },
+        {
+          "word": "affected",
+          "phonetic": "/əˈfektɪd/",
+          "meaning": "adj. 受影响的"
+        }
+      ]
+    },
+    {
+      "en": "Addressing urban heat requires comprehensive planning and environmental justice perspectives. Historically marginalized communities often have fewer trees and more heat-absorbing surfaces. Equitable cooling strategies must prioritize these vulnerable areas, ensuring that climate adaptation benefits all residents regardless of income or neighborhood.",
+      "zh": "应对城市热需要综合规划和环境正义视角。历史上被边缘化的社区往往树木较少，吸热表面较多。公平的降温策略必须优先考虑这些脆弱地区，确保气候适应惠及所有居民，无论收入或社区如何。",
+      "words": [
+        {
+          "word": "comprehensive",
+          "phonetic": "/ˌkɒmprɪˈhensɪv/",
+          "meaning": "adj. 综合的，全面的"
+        },
+        {
+          "word": "marginalized",
+          "phonetic": "/ˈmɑːdʒɪnəlaɪzd/",
+          "meaning": "adj. 被边缘化的"
+        },
+        {
+          "word": "equitable",
+          "phonetic": "/ˈekwɪtəbl/",
+          "meaning": "adj. 公平的"
+        },
+        {
+          "word": "adaptation",
+          "phonetic": "/ˌædæpˈteɪʃn/",
+          "meaning": "n. 适应"
+        }
+      ]
+    }
+  ]
+}

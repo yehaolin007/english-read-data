@@ -1,0 +1,140 @@
+{
+  "id": "hot_015",
+  "category": "hot",
+  "title": "Generative AI Transforms Creativity",
+  "subtitle": "当机器学会创作，人类的创造力何去何从",
+  "readTime": 8,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Generative artificial intelligence has emerged as one of the most disruptive technologies of our era. Systems like ChatGPT and DALL-E can produce human-quality text, images, and code in seconds. These capabilities are fundamentally reshaping creative industries and knowledge work.",
+      "zh": "生成式人工智能已成为我们这个时代最具颠覆性的技术之一。像ChatGPT和DALL-E这样的系统可以在几秒内产出人类水平的文本、图像和代码。这些能力正在从根本上重塑创意产业和知识工作。",
+      "words": [
+        {
+          "word": "generative",
+          "phonetic": "/ˈdʒenərətɪv/",
+          "meaning": "adj. 生成的"
+        },
+        {
+          "word": "disruptive",
+          "phonetic": "/dɪsˈrʌptɪv/",
+          "meaning": "adj. 颠覆性的"
+        },
+        {
+          "word": "capability",
+          "phonetic": "/ˌkeɪpəˈbɪləti/",
+          "meaning": "n. 能力，才能"
+        },
+        {
+          "word": "reshape",
+          "phonetic": "/ˌriːˈʃeɪp/",
+          "meaning": "v. 重塑"
+        }
+      ]
+    },
+    {
+      "en": "Artists and writers face unprecedented questions about originality and authorship. When AI can generate convincing artwork in any style, what distinguishes human creativity? Some creators embrace these tools as collaborators that amplify their vision, while others view them as threats to their livelihoods.",
+      "zh": "艺术家和作家面临着关于原创性和作者身份的前所未有的问题。当AI能够以任何风格生成令人信服的艺术作品时，人类创造力的独特之处是什么？一些创作者将这些工具视为能放大他们愿景的合作者，而另一些人则将其视为对生计的威胁。",
+      "words": [
+        {
+          "word": "unprecedented",
+          "phonetic": "/ʌnˈpresɪdentɪd/",
+          "meaning": "adj. 前所未有的"
+        },
+        {
+          "word": "authorship",
+          "phonetic": "/ˈɔːθəʃɪp/",
+          "meaning": "n. 作者身份"
+        },
+        {
+          "word": "convincing",
+          "phonetic": "/kənˈvɪnsɪŋ/",
+          "meaning": "adj. 令人信服的"
+        },
+        {
+          "word": "livelihood",
+          "phonetic": "/ˈlaɪvlɪhʊd/",
+          "meaning": "n. 生计，谋生手段"
+        }
+      ]
+    },
+    {
+      "en": "Educational institutions struggle to adapt assessment methods to a world where AI can complete assignments. Detecting AI-generated content becomes increasingly difficult as these systems grow more sophisticated. Many educators are reconsidering what skills students genuinely need in an AI-augmented future.",
+      "zh": "教育机构正在努力调整评估方法以适应AI能完成作业的世界。随着这些系统变得越来越复杂，检测AI生成的内容变得越来越困难。许多教育工作者正在重新思考学生在AI增强的未来真正需要什么技能。",
+      "words": [
+        {
+          "word": "assessment",
+          "phonetic": "/əˈsesmənt/",
+          "meaning": "n. 评估，评价"
+        },
+        {
+          "word": "sophisticated",
+          "phonetic": "/səˈfɪstɪkeɪtɪd/",
+          "meaning": "adj. 复杂的，精密的"
+        },
+        {
+          "word": "reconsider",
+          "phonetic": "/ˌriːkənˈsɪdər/",
+          "meaning": "v. 重新考虑"
+        },
+        {
+          "word": "genuinely",
+          "phonetic": "/ˈdʒenjuɪnli/",
+          "meaning": "adv. 真正地"
+        }
+      ]
+    },
+    {
+      "en": "Legal frameworks lag behind technological advancement, creating uncertainty about intellectual property rights. Courts worldwide grapple with questions about copyright for AI-generated works. The training data used by these systems, often scraped from the internet without permission, raises additional ethical concerns.",
+      "zh": "法律框架落后于技术进步，造成了知识产权方面的不确定性。世界各地的法院都在努力解决AI生成作品的版权问题。这些系统使用的训练数据通常未经许可从互联网上抓取，引发了额外的伦理担忧。",
+      "words": [
+        {
+          "word": "framework",
+          "phonetic": "/ˈfreɪmwɜːk/",
+          "meaning": "n. 框架，体系"
+        },
+        {
+          "word": "intellectual",
+          "phonetic": "/ˌɪntəˈlektʃuəl/",
+          "meaning": "adj. 知识的，智力的"
+        },
+        {
+          "word": "grapple",
+          "phonetic": "/ˈɡræpl/",
+          "meaning": "v. 努力解决，应对"
+        },
+        {
+          "word": "scrape",
+          "phonetic": "/skreɪp/",
+          "meaning": "v. 抓取，刮取"
+        }
+      ]
+    },
+    {
+      "en": "Despite uncertainties, generative AI will likely become ubiquitous in creative processes. The most adaptable professionals will learn to leverage these tools while contributing uniquely human elements—emotional depth, cultural context, and lived experience—that machines cannot replicate. The future belongs to human-AI collaboration.",
+      "zh": "尽管存在不确定性，生成式AI很可能会在创作过程中变得无处不在。最具适应能力的专业人士将学会利用这些工具，同时贡献机器无法复制的独特人类元素——情感深度、文化背景和生活经验。未来属于人机协作。",
+      "words": [
+        {
+          "word": "ubiquitous",
+          "phonetic": "/juːˈbɪkwɪtəs/",
+          "meaning": "adj. 无处不在的"
+        },
+        {
+          "word": "adaptable",
+          "phonetic": "/əˈdæptəbl/",
+          "meaning": "adj. 适应性强的"
+        },
+        {
+          "word": "leverage",
+          "phonetic": "/ˈliːvərɪdʒ/",
+          "meaning": "v. 利用，发挥"
+        },
+        {
+          "word": "replicate",
+          "phonetic": "/ˈreplɪkeɪt/",
+          "meaning": "v. 复制，再现"
+        }
+      ]
+    }
+  ]
+}

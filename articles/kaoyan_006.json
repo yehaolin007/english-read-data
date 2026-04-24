@@ -2,9 +2,9 @@
   "id": "kaoyan_006",
   "category": "kaoyan",
   "title": "Even Rats Can Tell a Friendly Robot",
-  "subtitle": "连老鼠都能分辨谁是「好人」：动物的社交智慧",
+  "subtitle": "动物社交线索识别",
   "readTime": 1,
-  "difficulty": 5,
+  "difficulty": 4,
   "paragraphs": [
     {
       "en": "Rats rely on social cues to decide whom to trust, avoid, or cooperate with. Researchers asked whether this sensitivity could extend to simple robotic rats. Eight adult rats were housed for four days with one social robot and one asocial robot.",

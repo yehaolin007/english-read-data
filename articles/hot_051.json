@@ -1,0 +1,140 @@
+{
+  "id": "hot_051",
+  "category": "hot",
+  "title": "The Ethics of Gene Editing",
+  "subtitle": "我们应该重新设计人类基因吗",
+  "readTime": 8,
+  "difficulty": 5,
+  "paragraphs": [
+    {
+      "en": "CRISPR technology has given scientists unprecedented ability to edit genes with precision and ease. This revolutionary tool allows researchers to modify DNA sequences, potentially eliminating hereditary diseases and creating new therapeutic possibilities. However, the power to alter the human genome raises profound ethical questions that society has barely begun to address.",
+      "zh": "CRISPR技术赋予了科学家前所未有的精确且轻松编辑基因的能力。这种革命性工具允许研究人员修改DNA序列，有可能消除遗传性疾病并创造新的治疗可能性。然而，改变人类基因组的能力引发了社会才刚刚开始讨论的深刻伦理问题。",
+      "words": [
+        {
+          "word": "precision",
+          "phonetic": "/prɪˈsɪʒn/",
+          "meaning": "n. 精确，准确"
+        },
+        {
+          "word": "hereditary",
+          "phonetic": "/həˈredɪtəri/",
+          "meaning": "adj. 遗传的"
+        },
+        {
+          "word": "therapeutic",
+          "phonetic": "/ˌθerəˈpjuːtɪk/",
+          "meaning": "adj. 治疗的"
+        },
+        {
+          "word": "genome",
+          "phonetic": "/ˈdʒiːnəʊm/",
+          "meaning": "n. 基因组"
+        }
+      ]
+    },
+    {
+      "en": "Somatic gene therapy—editing cells that won't pass changes to offspring—presents relatively straightforward ethical considerations. Treating diseases by correcting genetic mutations in individual patients resembles other medical interventions. Clinical trials are already testing such approaches for conditions like sickle cell disease and certain cancers.",
+      "zh": "体细胞基因治疗——编辑不会将变化传给后代的细胞——呈现相对简单的伦理考量。通过纠正个体患者的基因突变来治疗疾病类似于其他医疗干预。临床试验已经在测试这种方法用于镰状细胞病和某些癌症等疾病。",
+      "words": [
+        {
+          "word": "somatic",
+          "phonetic": "/səʊˈmætɪk/",
+          "meaning": "adj. 体细胞的"
+        },
+        {
+          "word": "offspring",
+          "phonetic": "/ˈɒfsprɪŋ/",
+          "meaning": "n. 后代"
+        },
+        {
+          "word": "mutation",
+          "phonetic": "/mjuːˈteɪʃn/",
+          "meaning": "n. 突变"
+        },
+        {
+          "word": "sickle cell",
+          "phonetic": "/ˈsɪkl sel/",
+          "meaning": "n. 镰状细胞"
+        }
+      ]
+    },
+    {
+      "en": "Germline editing—changes to embryos that would affect all future generations—crosses into far more controversial territory. Modifying the human gene pool permanently raises questions about unintended consequences, informed consent from those not yet born, and the potential for eugenics disguised as medical progress.",
+      "zh": "生殖系编辑——对胚胎进行的会影响所有后代的改变——跨入了更具争议的领域。永久性地修改人类基因库引发了关于意外后果、尚未出生者的知情同意，以及伪装成医学进步的优生学可能性的问题。",
+      "words": [
+        {
+          "word": "germline",
+          "phonetic": "/ˈdʒɜːmlaɪn/",
+          "meaning": "n. 生殖系"
+        },
+        {
+          "word": "embryo",
+          "phonetic": "/ˈembriəʊ/",
+          "meaning": "n. 胚胎"
+        },
+        {
+          "word": "eugenics",
+          "phonetic": "/juːˈdʒenɪks/",
+          "meaning": "n. 优生学"
+        },
+        {
+          "word": "disguise",
+          "phonetic": "/dɪsˈɡaɪz/",
+          "meaning": "v. 伪装"
+        }
+      ]
+    },
+    {
+      "en": "The prospect of genetic enhancement beyond disease prevention troubles many ethicists. If parents could select traits like intelligence, height, or athletic ability, society might divide between enhanced and unenhanced populations. Such genetic inequality could entrench existing social divisions while creating entirely new forms of discrimination.",
+      "zh": "超越疾病预防的基因增强前景困扰着许多伦理学家。如果父母可以选择智力、身高或运动能力等特征，社会可能会在增强和未增强的人群之间分裂。这种基因不平等可能会巩固现有的社会分化，同时创造全新形式的歧视。",
+      "words": [
+        {
+          "word": "prospect",
+          "phonetic": "/ˈprɒspekt/",
+          "meaning": "n. 前景，可能性"
+        },
+        {
+          "word": "enhancement",
+          "phonetic": "/ɪnˈhɑːnsmənt/",
+          "meaning": "n. 增强"
+        },
+        {
+          "word": "entrench",
+          "phonetic": "/ɪnˈtrentʃ/",
+          "meaning": "v. 巩固，使根深蒂固"
+        },
+        {
+          "word": "discrimination",
+          "phonetic": "/dɪˌskrɪmɪˈneɪʃn/",
+          "meaning": "n. 歧视"
+        }
+      ]
+    },
+    {
+      "en": "International governance frameworks struggle to keep pace with rapidly advancing technology. Different countries apply varying ethical standards, creating potential for regulatory arbitrage. The scientific community largely supports moratoria on heritable human genome editing until safety and ethical concerns are adequately addressed, though enforcement remains challenging.",
+      "zh": "国际治理框架难以跟上快速发展的技术。不同国家适用不同的伦理标准，造成了监管套利的可能性。科学界基本上支持在安全和伦理问题得到充分解决之前暂停可遗传的人类基因组编辑，尽管执行仍然具有挑战性。",
+      "words": [
+        {
+          "word": "governance",
+          "phonetic": "/ˈɡʌvənəns/",
+          "meaning": "n. 治理"
+        },
+        {
+          "word": "moratorium",
+          "phonetic": "/ˌmɒrəˈtɔːriəm/",
+          "meaning": "n. 暂停，延期"
+        },
+        {
+          "word": "heritable",
+          "phonetic": "/ˈherɪtəbl/",
+          "meaning": "adj. 可遗传的"
+        },
+        {
+          "word": "enforcement",
+          "phonetic": "/ɪnˈfɔːsmənt/",
+          "meaning": "n. 执行，实施"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "hot_045",
+  "category": "hot",
+  "title": "Autonomous Vehicles Approach Reality",
+  "subtitle": "无人驾驶汽车距离普及还有多远",
+  "readTime": 7,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Self-driving vehicles have progressed from science fiction to roads worldwide, though full autonomy remains elusive. Companies have invested billions developing artificial intelligence capable of navigating complex traffic situations. While robotaxis operate in limited areas, the technology faces significant technical and regulatory hurdles before widespread adoption.",
+      "zh": "自动驾驶汽车已从科幻小说发展到世界各地的道路上，尽管完全自主仍然难以实现。公司已投资数十亿美元开发能够应对复杂交通状况的人工智能。虽然机器人出租车在有限区域运营，但该技术在广泛采用之前面临着重大的技术和监管障碍。",
+      "words": [
+        {
+          "word": "autonomous",
+          "phonetic": "/ɔːˈtɒnəməs/",
+          "meaning": "adj. 自主的，自动的"
+        },
+        {
+          "word": "elusive",
+          "phonetic": "/ɪˈluːsɪv/",
+          "meaning": "adj. 难以实现的"
+        },
+        {
+          "word": "navigate",
+          "phonetic": "/ˈnævɪɡeɪt/",
+          "meaning": "v. 导航，驾驶"
+        },
+        {
+          "word": "hurdle",
+          "phonetic": "/ˈhɜːdl/",
+          "meaning": "n. 障碍，难关"
+        }
+      ]
+    },
+    {
+      "en": "The potential benefits of autonomous transportation are substantial. Human error causes over ninety percent of traffic accidents, and eliminating driver mistakes could save countless lives. Self-driving technology also promises mobility for elderly and disabled individuals currently unable to drive themselves.",
+      "zh": "自动驾驶交通的潜在好处是巨大的。人为错误导致了超过90%的交通事故，消除驾驶员失误可以挽救无数生命。自动驾驶技术还承诺为目前无法自己驾驶的老年人和残疾人提供出行便利。",
+      "words": [
+        {
+          "word": "substantial",
+          "phonetic": "/səbˈstænʃl/",
+          "meaning": "adj. 大量的，实质的"
+        },
+        {
+          "word": "eliminate",
+          "phonetic": "/ɪˈlɪmɪneɪt/",
+          "meaning": "v. 消除"
+        },
+        {
+          "word": "mobility",
+          "phonetic": "/məʊˈbɪləti/",
+          "meaning": "n. 流动性，移动能力"
+        },
+        {
+          "word": "disabled",
+          "phonetic": "/dɪsˈeɪbld/",
+          "meaning": "adj. 残疾的"
+        }
+      ]
+    },
+    {
+      "en": "Edge cases present the greatest technical challenges. While autonomous systems handle routine driving well, unusual situations—a police officer directing traffic, construction zones, or unexpected obstacles—require human-like judgment that current AI struggles to replicate. Each rare scenario requires specific programming or sophisticated reasoning capabilities.",
+      "zh": "边缘情况呈现出最大的技术挑战。虽然自动驾驶系统能够很好地处理常规驾驶，但不寻常的情况——警察指挥交通、施工区域或意外障碍物——需要当前AI难以复制的类人判断。每种罕见场景都需要特定的编程或复杂的推理能力。",
+      "words": [
+        {
+          "word": "edge case",
+          "phonetic": "/edʒ keɪs/",
+          "meaning": "n. 边缘情况"
+        },
+        {
+          "word": "routine",
+          "phonetic": "/ruːˈtiːn/",
+          "meaning": "adj. 常规的"
+        },
+        {
+          "word": "obstacle",
+          "phonetic": "/ˈɒbstəkl/",
+          "meaning": "n. 障碍物"
+        },
+        {
+          "word": "sophisticated",
+          "phonetic": "/səˈfɪstɪkeɪtɪd/",
+          "meaning": "adj. 复杂的"
+        }
+      ]
+    },
+    {
+      "en": "Ethical dilemmas complicate autonomous vehicle development. Programmers must decide how cars should respond when accidents are unavoidable—should they prioritize passengers or pedestrians? These trolley-problem scenarios force explicit moral decisions that human drivers make instinctively, raising profound questions about machine ethics.",
+      "zh": "伦理困境使自动驾驶汽车的发展变得复杂。程序员必须决定当事故不可避免时汽车应该如何反应——应该优先保护乘客还是行人？这些电车难题式的场景迫使人们做出人类驾驶员本能做出的明确道德决定，引发了关于机器伦理的深刻问题。",
+      "words": [
+        {
+          "word": "dilemma",
+          "phonetic": "/dɪˈlemə/",
+          "meaning": "n. 困境，两难"
+        },
+        {
+          "word": "prioritize",
+          "phonetic": "/praɪˈɒrətaɪz/",
+          "meaning": "v. 优先考虑"
+        },
+        {
+          "word": "pedestrian",
+          "phonetic": "/pəˈdestriən/",
+          "meaning": "n. 行人"
+        },
+        {
+          "word": "instinctively",
+          "phonetic": "/ɪnˈstɪŋktɪvli/",
+          "meaning": "adv. 本能地"
+        }
+      ]
+    },
+    {
+      "en": "The transition to autonomous vehicles will likely be gradual rather than sudden. Advanced driver assistance features increasingly automate specific tasks while keeping humans in control. Full autonomy may arrive first in controlled environments like highways or dedicated lanes before expanding to complex urban streets.",
+      "zh": "向自动驾驶汽车的过渡可能是渐进的而非突然的。先进的驾驶辅助功能越来越多地自动化特定任务，同时保持人类控制。完全自主可能首先出现在高速公路或专用车道等受控环境中，然后才扩展到复杂的城市街道。",
+      "words": [
+        {
+          "word": "transition",
+          "phonetic": "/trænˈzɪʃn/",
+          "meaning": "n. 过渡，转变"
+        },
+        {
+          "word": "gradual",
+          "phonetic": "/ˈɡrædʒuəl/",
+          "meaning": "adj. 渐进的"
+        },
+        {
+          "word": "assistance",
+          "phonetic": "/əˈsɪstəns/",
+          "meaning": "n. 辅助，帮助"
+        },
+        {
+          "word": "dedicated",
+          "phonetic": "/ˈdedɪkeɪtɪd/",
+          "meaning": "adj. 专用的"
+        }
+      ]
+    }
+  ]
+}

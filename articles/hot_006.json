@@ -1,0 +1,140 @@
+{
+  "id": "hot_006",
+  "category": "hot",
+  "title": "Remote Work Reshapes the Office",
+  "subtitle": "疫情后远程办公如何永久改变职场文化",
+  "readTime": 6,
+  "difficulty": 3,
+  "paragraphs": [
+    {
+      "en": "The global pandemic forced millions of employees to work from home, triggering the largest workplace experiment in history. What began as a temporary necessity has evolved into a permanent shift in how companies operate and employees approach their careers.",
+      "zh": "全球疫情迫使数百万员工居家办公，引发了历史上规模最大的职场实验。这场始于临时应急之举的变革，已演变为企业运营方式和员工职业态度的永久性转变。",
+      "words": [
+        {
+          "word": "pandemic",
+          "phonetic": "/pænˈdemɪk/",
+          "meaning": "n. 大流行病"
+        },
+        {
+          "word": "trigger",
+          "phonetic": "/ˈtrɪɡər/",
+          "meaning": "v. 引发，触发"
+        },
+        {
+          "word": "temporary",
+          "phonetic": "/ˈtemprəri/",
+          "meaning": "adj. 临时的"
+        },
+        {
+          "word": "necessity",
+          "phonetic": "/nəˈsesəti/",
+          "meaning": "n. 必需品，必要性"
+        }
+      ]
+    },
+    {
+      "en": "Studies reveal that remote workers often report higher productivity and job satisfaction. Without lengthy commutes, employees gain valuable hours for personal pursuits or additional work. The flexibility to manage one's schedule has become one of the most valued workplace benefits.",
+      "zh": "研究表明，远程工作者通常表现出更高的生产力和工作满意度。省去漫长的通勤时间后，员工可以将宝贵的时间用于个人事务或额外工作。灵活管理自己日程的能力已成为最受重视的职场福利之一。",
+      "words": [
+        {
+          "word": "productivity",
+          "phonetic": "/ˌprɒdʌkˈtɪvəti/",
+          "meaning": "n. 生产力"
+        },
+        {
+          "word": "commute",
+          "phonetic": "/kəˈmjuːt/",
+          "meaning": "n./v. 通勤"
+        },
+        {
+          "word": "pursuit",
+          "phonetic": "/pəˈsjuːt/",
+          "meaning": "n. 追求，爱好"
+        },
+        {
+          "word": "flexibility",
+          "phonetic": "/ˌfleksəˈbɪləti/",
+          "meaning": "n. 灵活性"
+        }
+      ]
+    },
+    {
+      "en": "Companies are reimagining their physical spaces as collaboration hubs rather than daily work stations. Many organizations have adopted hybrid models, where employees split their time between home and office. This approach aims to combine the benefits of both environments.",
+      "zh": "企业正在将办公空间重新定位为协作中心，而非日常工作站。许多组织已采用混合模式，让员工在家和办公室之间分配工作时间。这种方式旨在兼取两种环境的优势。",
+      "words": [
+        {
+          "word": "reimagine",
+          "phonetic": "/ˌriːɪˈmædʒɪn/",
+          "meaning": "v. 重新构想"
+        },
+        {
+          "word": "collaboration",
+          "phonetic": "/kəˌlæbəˈreɪʃn/",
+          "meaning": "n. 协作"
+        },
+        {
+          "word": "hybrid",
+          "phonetic": "/ˈhaɪbrɪd/",
+          "meaning": "adj. 混合的"
+        },
+        {
+          "word": "adopt",
+          "phonetic": "/əˈdɒpt/",
+          "meaning": "v. 采用，采纳"
+        }
+      ]
+    },
+    {
+      "en": "Yet remote work presents genuine challenges that cannot be ignored. Younger employees may miss valuable mentorship opportunities, while some workers struggle with isolation and blurred boundaries between work and personal life. Building company culture without physical presence requires deliberate effort.",
+      "zh": "然而，远程工作带来的真实挑战不容忽视。年轻员工可能会错失宝贵的导师指导机会，而一些员工则在孤独感和工作与生活界限模糊中挣扎。在没有实体办公场所的情况下建设企业文化需要刻意的努力。",
+      "words": [
+        {
+          "word": "mentorship",
+          "phonetic": "/ˈmentɔːʃɪp/",
+          "meaning": "n. 导师指导"
+        },
+        {
+          "word": "isolation",
+          "phonetic": "/ˌaɪsəˈleɪʃn/",
+          "meaning": "n. 孤立，隔离"
+        },
+        {
+          "word": "boundary",
+          "phonetic": "/ˈbaʊndri/",
+          "meaning": "n. 边界，界限"
+        },
+        {
+          "word": "deliberate",
+          "phonetic": "/dɪˈlɪbərət/",
+          "meaning": "adj. 刻意的，有意的"
+        }
+      ]
+    },
+    {
+      "en": "The future workplace will likely be defined by choice and customization. Forward-thinking companies recognize that empowering employees to determine where and how they work best leads to stronger engagement and retention. The traditional nine-to-five office routine may never fully return.",
+      "zh": "未来的职场很可能由选择权和个性化来定义。具有前瞻性思维的企业认识到，赋予员工决定在何处以及如何最好地工作的权力，能够带来更强的参与度和留任率。传统的朝九晚五办公模式或许永远不会完全回归。",
+      "words": [
+        {
+          "word": "customization",
+          "phonetic": "/ˌkʌstəmaɪˈzeɪʃn/",
+          "meaning": "n. 定制，个性化"
+        },
+        {
+          "word": "forward-thinking",
+          "phonetic": "/ˌfɔːwəd ˈθɪŋkɪŋ/",
+          "meaning": "adj. 有前瞻性的"
+        },
+        {
+          "word": "empower",
+          "phonetic": "/ɪmˈpaʊər/",
+          "meaning": "v. 赋权，使能够"
+        },
+        {
+          "word": "retention",
+          "phonetic": "/rɪˈtenʃn/",
+          "meaning": "n. 留任，保留"
+        }
+      ]
+    }
+  ]
+}

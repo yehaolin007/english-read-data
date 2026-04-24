@@ -1,0 +1,150 @@
+{
+  "id": "hot_009",
+  "category": "hot",
+  "title": "Cryptocurrency Transforms Finance",
+  "subtitle": "数字货币是金融革命还是投机泡沫",
+  "readTime": 8,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Cryptocurrency has evolved from an obscure technological experiment into a trillion-dollar market that challenges traditional financial systems. Bitcoin, the pioneering digital currency, introduced the concept of decentralized money controlled by no government or institution.",
+      "zh": "加密货币已从一项鲜为人知的技术实验发展成为一个挑战传统金融体系的万亿美元市场。比特币作为数字货币的先驱，引入了不受任何政府或机构控制的去中心化货币概念。",
+      "words": [
+        {
+          "word": "obscure",
+          "phonetic": "/əbˈskjʊər/",
+          "meaning": "adj. 鲜为人知的，晦涩的"
+        },
+        {
+          "word": "pioneering",
+          "phonetic": "/ˌpaɪəˈnɪərɪŋ/",
+          "meaning": "adj. 开创性的"
+        },
+        {
+          "word": "decentralized",
+          "phonetic": "/diːˈsentrəlaɪzd/",
+          "meaning": "adj. 去中心化的"
+        },
+        {
+          "word": "institution",
+          "phonetic": "/ˌɪnstɪˈtjuːʃn/",
+          "meaning": "n. 机构，制度"
+        }
+      ]
+    },
+    {
+      "en": "Blockchain technology, the foundation underlying cryptocurrencies, offers revolutionary potential beyond digital money. This distributed ledger system enables secure, transparent transactions without intermediaries. Industries from healthcare to real estate are exploring blockchain applications for record-keeping and verification.",
+      "zh": "作为加密货币底层基础的区块链技术，在数字货币之外提供了革命性的潜力。这种分布式账本系统无需中介即可实现安全透明的交易。从医疗保健到房地产，各行各业都在探索区块链在记录保存和验证方面的应用。",
+      "words": [
+        {
+          "word": "blockchain",
+          "phonetic": "/ˈblɒktʃeɪn/",
+          "meaning": "n. 区块链"
+        },
+        {
+          "word": "distributed",
+          "phonetic": "/dɪˈstrɪbjuːtɪd/",
+          "meaning": "adj. 分布式的"
+        },
+        {
+          "word": "ledger",
+          "phonetic": "/ˈledʒər/",
+          "meaning": "n. 账本"
+        },
+        {
+          "word": "intermediary",
+          "phonetic": "/ˌɪntəˈmiːdiəri/",
+          "meaning": "n. 中介"
+        },
+        {
+          "word": "verification",
+          "phonetic": "/ˌverɪfɪˈkeɪʃn/",
+          "meaning": "n. 验证，核实"
+        }
+      ]
+    },
+    {
+      "en": "The volatility of cryptocurrency markets remains a significant concern for investors and regulators. Prices can swing dramatically within hours, creating and destroying fortunes overnight. Critics argue that such instability makes cryptocurrencies unsuitable as reliable stores of value or mediums of exchange.",
+      "zh": "加密货币市场的波动性仍然是投资者和监管机构的重要关切。价格可能在数小时内剧烈波动，在一夜之间创造或摧毁财富。批评者认为，这种不稳定性使加密货币不适合作为可靠的价值储存手段或交换媒介。",
+      "words": [
+        {
+          "word": "volatility",
+          "phonetic": "/ˌvɒləˈtɪləti/",
+          "meaning": "n. 波动性"
+        },
+        {
+          "word": "regulator",
+          "phonetic": "/ˈreɡjuleɪtər/",
+          "meaning": "n. 监管机构"
+        },
+        {
+          "word": "instability",
+          "phonetic": "/ˌɪnstəˈbɪləti/",
+          "meaning": "n. 不稳定性"
+        },
+        {
+          "word": "medium",
+          "phonetic": "/ˈmiːdiəm/",
+          "meaning": "n. 媒介，手段"
+        }
+      ]
+    },
+    {
+      "en": "Environmental concerns have also emerged as cryptocurrency mining consumes enormous amounts of electricity. Bitcoin mining alone uses more energy annually than some small countries. The industry is gradually shifting toward more sustainable consensus mechanisms that require less computational power.",
+      "zh": "由于加密货币挖矿消耗大量电力，环境问题也随之出现。仅比特币挖矿每年消耗的能源就超过一些小国。该行业正逐步转向需要更少计算能力的更可持续的共识机制。",
+      "words": [
+        {
+          "word": "mining",
+          "phonetic": "/ˈmaɪnɪŋ/",
+          "meaning": "n. 挖矿，开采"
+        },
+        {
+          "word": "annually",
+          "phonetic": "/ˈænjuəli/",
+          "meaning": "adv. 每年"
+        },
+        {
+          "word": "sustainable",
+          "phonetic": "/səˈsteɪnəbl/",
+          "meaning": "adj. 可持续的"
+        },
+        {
+          "word": "consensus",
+          "phonetic": "/kənˈsensəs/",
+          "meaning": "n. 共识"
+        },
+        {
+          "word": "computational",
+          "phonetic": "/ˌkɒmpjuˈteɪʃənl/",
+          "meaning": "adj. 计算的"
+        }
+      ]
+    },
+    {
+      "en": "Despite controversies, major financial institutions are increasingly embracing digital assets. Central banks worldwide are developing their own digital currencies, while investment firms offer cryptocurrency products to clients. Whether revolutionary innovation or speculative bubble, cryptocurrency has undeniably changed the conversation about money's future.",
+      "zh": "尽管存在争议，主要金融机构正越来越多地接纳数字资产。世界各地的央行正在开发自己的数字货币，而投资公司也向客户提供加密货币产品。无论是革命性创新还是投机泡沫，加密货币无疑已经改变了关于货币未来的讨论。",
+      "words": [
+        {
+          "word": "controversy",
+          "phonetic": "/ˈkɒntrəvɜːsi/",
+          "meaning": "n. 争议"
+        },
+        {
+          "word": "embrace",
+          "phonetic": "/ɪmˈbreɪs/",
+          "meaning": "v. 接纳，拥抱"
+        },
+        {
+          "word": "speculative",
+          "phonetic": "/ˈspekjələtɪv/",
+          "meaning": "adj. 投机性的"
+        },
+        {
+          "word": "undeniably",
+          "phonetic": "/ˌʌndɪˈnaɪəbli/",
+          "meaning": "adv. 不可否认地"
+        }
+      ]
+    }
+  ]
+}

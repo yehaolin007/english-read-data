@@ -1,35 +1,149 @@
 {
   "id": "hot_005",
   "category": "hot",
-  "title": "Why Reading Makes You Smarter",
-  "subtitle": "阅读如何让你变得更聪明",
-  "readTime": 5,
-  "difficulty": 2,
-  "paragraphCount": 3,
+  "title": "AI Reshapes Medical Diagnosis",
+  "subtitle": "人工智能正在彻底改变医生诊断疾病的方式",
+  "readTime": 7,
+  "difficulty": 4,
   "paragraphs": [
     {
-      "en": "Reading is one of the most powerful habits you can develop. Studies show that people who read regularly have better memory, stronger analytical skills, and a wider vocabulary. Whether you read fiction or non-fiction, your brain benefits from the exercise.",
-      "zh": "阅读是你能培养的最强大的习惯之一。研究表明，经常阅读的人拥有更好的记忆力、更强的分析能力和更广泛的词汇量。无论你读的是小说还是非小说，你的大脑都能从这项锻炼中受益。",
+      "en": "Artificial intelligence is revolutionizing the healthcare industry in ways previously unimaginable. From analyzing medical images to predicting patient outcomes, AI systems are becoming indispensable tools in modern hospitals and clinics worldwide.",
+      "zh": "人工智能正以前所未有的方式彻底改变医疗行业。从分析医学影像到预测患者治疗结果，AI系统正成为全球现代医院和诊所不可或缺的工具。",
       "words": [
-        { "word": "analytical", "phonetic": "/ˌænəˈlɪtɪkl/", "meaning": "分析的" },
-        { "word": "vocabulary", "phonetic": "/vəˈkæbjəleri/", "meaning": "词汇量" },
-        { "word": "fiction", "phonetic": "/ˈfɪkʃn/", "meaning": "小说；虚构作品" }
+        {
+          "word": "revolutionize",
+          "phonetic": "/ˌrevəˈluːʃənaɪz/",
+          "meaning": "v. 彻底改变"
+        },
+        {
+          "word": "unimaginable",
+          "phonetic": "/ˌʌnɪˈmædʒɪnəbl/",
+          "meaning": "adj. 难以想象的"
+        },
+        {
+          "word": "indispensable",
+          "phonetic": "/ˌɪndɪˈspensəbl/",
+          "meaning": "adj. 不可或缺的"
+        },
+        {
+          "word": "outcome",
+          "phonetic": "/ˈaʊtkʌm/",
+          "meaning": "n. 结果，成效"
+        }
       ]
     },
     {
-      "en": "When you read, your brain creates new neural pathways. These pathways help you think more clearly and make better decisions. Reading also reduces stress — just six minutes of reading can lower your stress levels by up to 68 percent.",
-      "zh": "当你阅读时，你的大脑会创建新的神经通路。这些通路帮助你更清晰地思考，做出更好的决策。阅读还能减轻压力——仅仅六分钟的阅读就能将你的压力水平降低高达68%。",
+      "en": "Deep learning algorithms can now detect certain cancers with accuracy rates exceeding those of experienced radiologists. In dermatology, AI-powered apps can identify skin conditions by analyzing photographs taken on smartphones, making preliminary screening accessible to millions.",
+      "zh": "深度学习算法现在能够以超过资深放射科医生的准确率检测某些癌症。在皮肤科领域，AI驱动的应用程序可以通过分析智能手机拍摄的照片来识别皮肤病，使数百万人能够获得初步筛查服务。",
       "words": [
-        { "word": "neural", "phonetic": "/ˈnjʊərəl/", "meaning": "神经的" },
-        { "word": "pathway", "phonetic": "/ˈpɑːθweɪ/", "meaning": "通路；途径" }
+        {
+          "word": "algorithm",
+          "phonetic": "/ˈælɡərɪðəm/",
+          "meaning": "n. 算法"
+        },
+        {
+          "word": "accuracy",
+          "phonetic": "/ˈækjərəsi/",
+          "meaning": "n. 准确性"
+        },
+        {
+          "word": "radiologist",
+          "phonetic": "/ˌreɪdiˈɒlədʒɪst/",
+          "meaning": "n. 放射科医生"
+        },
+        {
+          "word": "dermatology",
+          "phonetic": "/ˌdɜːməˈtɒlədʒi/",
+          "meaning": "n. 皮肤病学"
+        },
+        {
+          "word": "preliminary",
+          "phonetic": "/prɪˈlɪmɪnəri/",
+          "meaning": "adj. 初步的"
+        }
       ]
     },
     {
-      "en": "The key is consistency. Even reading for just 15 minutes a day can make a significant difference over time. So pick up a book, open an article, and start building your reading habit today. Your future self will thank you.",
-      "zh": "关键在于坚持。即使每天只阅读15分钟，随着时间的推移也会产生显著的变化。所以拿起一本书，打开一篇文章，今天就开始培养你的阅读习惯吧。未来的你会感谢现在的自己。",
+      "en": "Drug discovery, traditionally a process taking over a decade, is being dramatically accelerated by AI. Machine learning models can simulate molecular interactions and predict which compounds might prove effective against specific diseases, potentially cutting years off the development timeline.",
+      "zh": "药物研发传统上需要耗费十年以上，如今正被AI大幅加速。机器学习模型可以模拟分子相互作用，预测哪些化合物可能对特定疾病有效，有望将研发周期缩短数年。",
       "words": [
-        { "word": "consistency", "phonetic": "/kənˈsɪstənsi/", "meaning": "一致性；坚持" },
-        { "word": "significant", "phonetic": "/sɪɡˈnɪfɪkənt/", "meaning": "显著的；重要的" }
+        {
+          "word": "accelerate",
+          "phonetic": "/əkˈseləreɪt/",
+          "meaning": "v. 加速"
+        },
+        {
+          "word": "simulate",
+          "phonetic": "/ˈsɪmjuleɪt/",
+          "meaning": "v. 模拟"
+        },
+        {
+          "word": "molecular",
+          "phonetic": "/məˈlekjələr/",
+          "meaning": "adj. 分子的"
+        },
+        {
+          "word": "compound",
+          "phonetic": "/ˈkɒmpaʊnd/",
+          "meaning": "n. 化合物"
+        }
+      ]
+    },
+    {
+      "en": "However, the integration of AI in healthcare raises significant ethical concerns. Questions about data privacy, algorithmic bias, and the potential replacement of human judgment demand careful consideration. Medical professionals emphasize that AI should augment rather than replace clinical expertise.",
+      "zh": "然而，AI融入医疗领域也引发了重大的伦理问题。数据隐私、算法偏见以及人类判断可能被取代等问题都需要审慎考量。医学专业人士强调，AI应该是临床专业知识的辅助而非替代。",
+      "words": [
+        {
+          "word": "integration",
+          "phonetic": "/ˌɪntɪˈɡreɪʃn/",
+          "meaning": "n. 整合，融合"
+        },
+        {
+          "word": "ethical",
+          "phonetic": "/ˈeθɪkl/",
+          "meaning": "adj. 伦理的"
+        },
+        {
+          "word": "algorithmic",
+          "phonetic": "/ˌælɡəˈrɪðmɪk/",
+          "meaning": "adj. 算法的"
+        },
+        {
+          "word": "augment",
+          "phonetic": "/ɔːɡˈment/",
+          "meaning": "v. 增强，补充"
+        },
+        {
+          "word": "expertise",
+          "phonetic": "/ˌekspɜːˈtiːz/",
+          "meaning": "n. 专业知识"
+        }
+      ]
+    },
+    {
+      "en": "As AI technology continues to mature, its role in healthcare will only expand. The future likely holds personalized treatment plans generated by AI, robotic surgeons guided by intelligent systems, and predictive models that identify diseases before symptoms even appear.",
+      "zh": "随着AI技术持续成熟，它在医疗领域的角色只会不断扩大。未来很可能会出现AI生成的个性化治疗方案、由智能系统引导的机器人外科医生，以及能在症状出现之前就识别疾病的预测模型。",
+      "words": [
+        {
+          "word": "mature",
+          "phonetic": "/məˈtʃʊər/",
+          "meaning": "v. 成熟"
+        },
+        {
+          "word": "personalized",
+          "phonetic": "/ˈpɜːsənəlaɪzd/",
+          "meaning": "adj. 个性化的"
+        },
+        {
+          "word": "robotic",
+          "phonetic": "/rəʊˈbɒtɪk/",
+          "meaning": "adj. 机器人的"
+        },
+        {
+          "word": "predictive",
+          "phonetic": "/prɪˈdɪktɪv/",
+          "meaning": "adj. 预测性的"
+        }
       ]
     }
   ]

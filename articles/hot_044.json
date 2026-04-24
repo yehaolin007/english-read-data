@@ -1,0 +1,140 @@
+{
+  "id": "hot_044",
+  "category": "hot",
+  "title": "The Death of Privacy",
+  "subtitle": "在监控资本主义时代，隐私还存在吗",
+  "readTime": 8,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Privacy as traditionally understood may be vanishing in the digital age. Every online action generates data trails that companies collect, analyze, and monetize. Smartphones track locations continuously, while smart devices listen in homes. The surveillance apparatus surrounding modern life has grown largely invisible yet extraordinarily comprehensive.",
+      "zh": "传统意义上的隐私可能正在数字时代消失。每一个在线行为都会产生被公司收集、分析和变现的数据痕迹。智能手机持续追踪位置，而智能设备则在家中监听。围绕现代生活的监控系统已变得基本上不可见，却又极其全面。",
+      "words": [
+        {
+          "word": "vanish",
+          "phonetic": "/ˈvænɪʃ/",
+          "meaning": "v. 消失"
+        },
+        {
+          "word": "trail",
+          "phonetic": "/treɪl/",
+          "meaning": "n. 痕迹，踪迹"
+        },
+        {
+          "word": "surveillance",
+          "phonetic": "/sɜːˈveɪləns/",
+          "meaning": "n. 监控，监视"
+        },
+        {
+          "word": "apparatus",
+          "phonetic": "/ˌæpəˈreɪtəs/",
+          "meaning": "n. 装置，系统"
+        }
+      ]
+    },
+    {
+      "en": "Surveillance capitalism describes the economic system that has emerged from personal data extraction. Companies like Google and Facebook provide free services in exchange for behavioral information they sell to advertisers. Users become products whose attention and data generate enormous profits for platform owners.",
+      "zh": "监控资本主义描述了从个人数据提取中产生的经济体系。像谷歌和脸书这样的公司提供免费服务，以换取他们出售给广告商的行为信息。用户成为产品，他们的注意力和数据为平台所有者产生了巨额利润。",
+      "words": [
+        {
+          "word": "capitalism",
+          "phonetic": "/ˈkæpɪtəlɪzəm/",
+          "meaning": "n. 资本主义"
+        },
+        {
+          "word": "extraction",
+          "phonetic": "/ɪkˈstrækʃn/",
+          "meaning": "n. 提取"
+        },
+        {
+          "word": "behavioral",
+          "phonetic": "/bɪˈheɪvjərəl/",
+          "meaning": "adj. 行为的"
+        },
+        {
+          "word": "enormous",
+          "phonetic": "/ɪˈnɔːməs/",
+          "meaning": "adj. 巨大的"
+        }
+      ]
+    },
+    {
+      "en": "Government surveillance capabilities have expanded dramatically alongside corporate data collection. Intelligence agencies access vast databases through both legal and extralegal means. Facial recognition technology enables tracking individuals through public spaces, while communication metadata reveals patterns even when content remains encrypted.",
+      "zh": "政府监控能力与企业数据收集一起急剧扩大。情报机构通过合法和法外手段访问庞大的数据库。面部识别技术能够在公共空间追踪个人，而通信元数据即使在内容保持加密的情况下也能揭示模式。",
+      "words": [
+        {
+          "word": "intelligence",
+          "phonetic": "/ɪnˈtelɪdʒəns/",
+          "meaning": "n. 情报，智力"
+        },
+        {
+          "word": "extralegal",
+          "phonetic": "/ˌekstrəˈliːɡl/",
+          "meaning": "adj. 法外的"
+        },
+        {
+          "word": "metadata",
+          "phonetic": "/ˈmetədeɪtə/",
+          "meaning": "n. 元数据"
+        },
+        {
+          "word": "encrypted",
+          "phonetic": "/ɪnˈkrɪptɪd/",
+          "meaning": "adj. 加密的"
+        }
+      ]
+    },
+    {
+      "en": "Some argue that privacy concerns are overblown for those with nothing to hide. However, privacy protects more than criminal activity—it safeguards political dissent, personal exploration, and intimate relationships. Societies where surveillance is ubiquitous tend toward conformity and self-censorship that stifle innovation and democracy.",
+      "zh": "一些人认为，对于没有什么可隐藏的人来说，隐私担忧被夸大了。然而，隐私保护的不仅仅是犯罪活动——它保护政治异见、个人探索和亲密关系。监控无处不在的社会往往趋向于一致性和自我审查，这会扼杀创新和民主。",
+      "words": [
+        {
+          "word": "overblown",
+          "phonetic": "/ˌəʊvəˈbləʊn/",
+          "meaning": "adj. 夸大的"
+        },
+        {
+          "word": "safeguard",
+          "phonetic": "/ˈseɪfɡɑːd/",
+          "meaning": "v. 保护"
+        },
+        {
+          "word": "dissent",
+          "phonetic": "/dɪˈsent/",
+          "meaning": "n. 异议，异见"
+        },
+        {
+          "word": "conformity",
+          "phonetic": "/kənˈfɔːməti/",
+          "meaning": "n. 一致性，顺从"
+        }
+      ]
+    },
+    {
+      "en": "Protecting privacy requires both individual actions and structural changes. Encryption tools, privacy-focused browsers, and mindful sharing practices offer personal protection. Regulatory frameworks like Europe's GDPR attempt to establish meaningful rights over personal data. The battle between convenience and privacy will define digital citizenship for generations.",
+      "zh": "保护隐私既需要个人行动也需要结构性变革。加密工具、注重隐私的浏览器和谨慎的分享做法提供个人保护。像欧洲GDPR这样的监管框架试图建立对个人数据的有意义的权利。便利与隐私之间的斗争将定义几代人的数字公民身份。",
+      "words": [
+        {
+          "word": "encryption",
+          "phonetic": "/ɪnˈkrɪpʃn/",
+          "meaning": "n. 加密"
+        },
+        {
+          "word": "mindful",
+          "phonetic": "/ˈmaɪndfʊl/",
+          "meaning": "adj. 留心的，谨慎的"
+        },
+        {
+          "word": "citizenship",
+          "phonetic": "/ˈsɪtɪznʃɪp/",
+          "meaning": "n. 公民身份"
+        },
+        {
+          "word": "generation",
+          "phonetic": "/ˌdʒenəˈreɪʃn/",
+          "meaning": "n. 一代人"
+        }
+      ]
+    }
+  ]
+}

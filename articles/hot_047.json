@@ -1,0 +1,140 @@
+{
+  "id": "hot_047",
+  "category": "hot",
+  "title": "Ocean Acidification Threatens Marine Life",
+  "subtitle": "海洋正在变酸，生态系统面临崩溃",
+  "readTime": 7,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "The ocean absorbs approximately one-quarter of human carbon dioxide emissions, triggering chemical changes with profound consequences for marine ecosystems. As seawater absorbs carbon dioxide, it becomes more acidic—a phenomenon called ocean acidification. Since the industrial revolution, ocean acidity has increased by thirty percent, a rate unprecedented in millions of years.",
+      "zh": "海洋吸收了大约四分之一的人类二氧化碳排放，引发了对海洋生态系统产生深远影响的化学变化。当海水吸收二氧化碳时，它会变得更加酸性——这种现象被称为海洋酸化。自工业革命以来，海洋酸度增加了30%，这一速度在数百万年来是前所未有的。",
+      "words": [
+        {
+          "word": "acidification",
+          "phonetic": "/əˌsɪdɪfɪˈkeɪʃn/",
+          "meaning": "n. 酸化"
+        },
+        {
+          "word": "consequence",
+          "phonetic": "/ˈkɒnsɪkwəns/",
+          "meaning": "n. 后果，结果"
+        },
+        {
+          "word": "acidity",
+          "phonetic": "/əˈsɪdəti/",
+          "meaning": "n. 酸度"
+        },
+        {
+          "word": "unprecedented",
+          "phonetic": "/ʌnˈpresɪdentɪd/",
+          "meaning": "adj. 前所未有的"
+        }
+      ]
+    },
+    {
+      "en": "Shell-forming organisms face the most immediate threat from acidification. Corals, mollusks, and certain plankton species build skeletons and shells from calcium carbonate. Acidic conditions dissolve these structures and make their formation more difficult, potentially devastating species that form the foundation of marine food webs.",
+      "zh": "形成外壳的生物面临着酸化最直接的威胁。珊瑚、软体动物和某些浮游生物物种用碳酸钙构建骨骼和外壳。酸性条件会溶解这些结构并使其形成更加困难，可能会摧毁构成海洋食物网基础的物种。",
+      "words": [
+        {
+          "word": "mollusk",
+          "phonetic": "/ˈmɒləsk/",
+          "meaning": "n. 软体动物"
+        },
+        {
+          "word": "plankton",
+          "phonetic": "/ˈplæŋktən/",
+          "meaning": "n. 浮游生物"
+        },
+        {
+          "word": "carbonate",
+          "phonetic": "/ˈkɑːbənət/",
+          "meaning": "n. 碳酸盐"
+        },
+        {
+          "word": "devastate",
+          "phonetic": "/ˈdevəsteɪt/",
+          "meaning": "v. 摧毁"
+        }
+      ]
+    },
+    {
+      "en": "Coral reefs, already stressed by warming waters, suffer compounding damage from acidification. These biodiversity hotspots support roughly one-quarter of all marine species despite covering less than one percent of the ocean floor. Their decline threatens not only ecological richness but also coastal protection and fishing industries that billions depend upon.",
+      "zh": "珊瑚礁已经受到海水变暖的压力，又遭受酸化造成的复合损害。这些生物多样性热点地区支撑着大约四分之一的海洋物种，尽管覆盖面积不到海底的1%。它们的衰退不仅威胁到生态丰富性，还威胁到数十亿人依赖的海岸保护和渔业。",
+      "words": [
+        {
+          "word": "compound",
+          "phonetic": "/kəmˈpaʊnd/",
+          "meaning": "v. 使加剧，使恶化"
+        },
+        {
+          "word": "biodiversity",
+          "phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+          "meaning": "n. 生物多样性"
+        },
+        {
+          "word": "hotspot",
+          "phonetic": "/ˈhɒtspɒt/",
+          "meaning": "n. 热点地区"
+        },
+        {
+          "word": "coastal",
+          "phonetic": "/ˈkəʊstl/",
+          "meaning": "adj. 沿海的"
+        }
+      ]
+    },
+    {
+      "en": "Fish and other marine animals also suffer from changing ocean chemistry. Acidification can impair sensory abilities, making it harder for fish to detect predators or find suitable habitats. Larval stages appear particularly vulnerable, potentially disrupting reproduction across numerous commercially important species.",
+      "zh": "鱼类和其他海洋动物也受到海洋化学变化的影响。酸化可能损害感官能力，使鱼类更难发现捕食者或找到合适的栖息地。幼虫阶段似乎特别脆弱，可能会扰乱众多具有重要商业价值物种的繁殖。",
+      "words": [
+        {
+          "word": "impair",
+          "phonetic": "/ɪmˈpeər/",
+          "meaning": "v. 损害，削弱"
+        },
+        {
+          "word": "sensory",
+          "phonetic": "/ˈsensəri/",
+          "meaning": "adj. 感官的"
+        },
+        {
+          "word": "larval",
+          "phonetic": "/ˈlɑːvəl/",
+          "meaning": "adj. 幼虫的"
+        },
+        {
+          "word": "commercially",
+          "phonetic": "/kəˈmɜːʃəli/",
+          "meaning": "adv. 商业上"
+        }
+      ]
+    },
+    {
+      "en": "Addressing ocean acidification requires reducing carbon dioxide emissions at the source. No technological solution can reverse acidification once it occurs at scale. Marine protected areas and pollution reduction can improve ecosystem resilience, but the fundamental solution remains transitioning away from fossil fuels before irreversible thresholds are crossed.",
+      "zh": "应对海洋酸化需要从源头减少二氧化碳排放。一旦酸化大规模发生，没有技术解决方案可以逆转。海洋保护区和污染减少可以提高生态系统的韧性，但根本解决方案仍然是在跨越不可逆的临界点之前从化石燃料转型。",
+      "words": [
+        {
+          "word": "reverse",
+          "phonetic": "/rɪˈvɜːs/",
+          "meaning": "v. 逆转，反转"
+        },
+        {
+          "word": "resilience",
+          "phonetic": "/rɪˈzɪliəns/",
+          "meaning": "n. 韧性，恢复力"
+        },
+        {
+          "word": "threshold",
+          "phonetic": "/ˈθreʃhəʊld/",
+          "meaning": "n. 临界点，门槛"
+        },
+        {
+          "word": "irreversible",
+          "phonetic": "/ˌɪrɪˈvɜːsəbl/",
+          "meaning": "adj. 不可逆的"
+        }
+      ]
+    }
+  ]
+}

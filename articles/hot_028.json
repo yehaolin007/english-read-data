@@ -1,0 +1,140 @@
+{
+  "id": "hot_028",
+  "category": "hot",
+  "title": "Global Supply Chains Under Stress",
+  "subtitle": "为什么一艘货轮能让全球经济陷入混乱",
+  "readTime": 8,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Recent years have exposed the fragility of global supply chains that underpin modern commerce. From semiconductor shortages crippling automobile production to container ship backlogs creating empty shelves, disruptions have cascaded across industries. These crises reveal how interconnected and vulnerable our economic systems have become.",
+      "zh": "近年来暴露了支撑现代商业的全球供应链的脆弱性。从半导体短缺导致汽车生产瘫痪，到集装箱船积压造成货架空空，中断已经波及各个行业。这些危机揭示了我们的经济体系已经变得多么相互关联和脆弱。",
+      "words": [
+        {
+          "word": "fragility",
+          "phonetic": "/frəˈdʒɪləti/",
+          "meaning": "n. 脆弱性"
+        },
+        {
+          "word": "semiconductor",
+          "phonetic": "/ˌsemikənˈdʌktər/",
+          "meaning": "n. 半导体"
+        },
+        {
+          "word": "cripple",
+          "phonetic": "/ˈkrɪpl/",
+          "meaning": "v. 使瘫痪，削弱"
+        },
+        {
+          "word": "cascade",
+          "phonetic": "/kæˈskeɪd/",
+          "meaning": "v. 连锁反应，层叠"
+        }
+      ]
+    },
+    {
+      "en": "Just-in-time manufacturing, which minimizes inventory costs by ordering components precisely when needed, amplified supply chain vulnerabilities. While efficient during normal operations, this approach left companies without buffers when disruptions occurred. Many manufacturers lacked weeks of critical supplies when production suddenly halted.",
+      "zh": "准时制造业通过在需要时精确订购零部件来最小化库存成本，但这放大了供应链的脆弱性。虽然在正常运营期间很高效，但当中断发生时，这种方法使公司没有缓冲。当生产突然停止时，许多制造商缺乏数周的关键供应。",
+      "words": [
+        {
+          "word": "inventory",
+          "phonetic": "/ˈɪnvəntri/",
+          "meaning": "n. 库存，存货"
+        },
+        {
+          "word": "component",
+          "phonetic": "/kəmˈpəʊnənt/",
+          "meaning": "n. 组件，零部件"
+        },
+        {
+          "word": "amplify",
+          "phonetic": "/ˈæmplɪfaɪ/",
+          "meaning": "v. 放大，增强"
+        },
+        {
+          "word": "buffer",
+          "phonetic": "/ˈbʌfər/",
+          "meaning": "n. 缓冲"
+        }
+      ]
+    },
+    {
+      "en": "Concentration of production in specific regions created additional risks. Taiwan produces the majority of advanced computer chips, while China dominates electronics manufacturing. Political tensions, natural disasters, or health crises in these locations can ripple throughout global commerce within days.",
+      "zh": "生产集中在特定地区造成了额外的风险。台湾生产了大部分先进计算机芯片，而中国主导着电子产品制造。这些地区的政治紧张、自然灾害或健康危机可能在几天内波及全球商业。",
+      "words": [
+        {
+          "word": "concentration",
+          "phonetic": "/ˌkɒnsnˈtreɪʃn/",
+          "meaning": "n. 集中"
+        },
+        {
+          "word": "dominate",
+          "phonetic": "/ˈdɒmɪneɪt/",
+          "meaning": "v. 主导，支配"
+        },
+        {
+          "word": "tension",
+          "phonetic": "/ˈtenʃn/",
+          "meaning": "n. 紧张，张力"
+        },
+        {
+          "word": "ripple",
+          "phonetic": "/ˈrɪpl/",
+          "meaning": "v. 波及，扩散"
+        }
+      ]
+    },
+    {
+      "en": "Companies and governments now prioritize supply chain resilience alongside efficiency. Strategies include diversifying suppliers across multiple regions, maintaining larger safety stocks, and relocating some production closer to end markets. These adjustments may increase costs but provide insurance against future disruptions.",
+      "zh": "企业和政府现在在追求效率的同时，也优先考虑供应链韧性。策略包括在多个地区分散供应商、保持更大的安全库存，以及将部分生产转移到更靠近终端市场的地方。这些调整可能会增加成本，但可以为未来的中断提供保障。",
+      "words": [
+        {
+          "word": "resilience",
+          "phonetic": "/rɪˈzɪliəns/",
+          "meaning": "n. 韧性，弹性"
+        },
+        {
+          "word": "diversify",
+          "phonetic": "/daɪˈvɜːsɪfaɪ/",
+          "meaning": "v. 多样化，分散"
+        },
+        {
+          "word": "relocate",
+          "phonetic": "/ˌriːləʊˈkeɪt/",
+          "meaning": "v. 迁移，搬迁"
+        },
+        {
+          "word": "adjustment",
+          "phonetic": "/əˈdʒʌstmənt/",
+          "meaning": "n. 调整"
+        }
+      ]
+    },
+    {
+      "en": "Climate change adds another dimension to supply chain vulnerabilities. Extreme weather events increasingly damage infrastructure and disrupt transportation networks. Building truly resilient supply chains requires anticipating not only economic and political risks but also environmental changes that will intensify in coming decades.",
+      "zh": "气候变化为供应链脆弱性增添了另一个维度。极端天气事件越来越多地破坏基础设施并扰乱运输网络。建立真正有韧性的供应链不仅需要预测经济和政治风险，还需要预测未来几十年将加剧的环境变化。",
+      "words": [
+        {
+          "word": "dimension",
+          "phonetic": "/daɪˈmenʃn/",
+          "meaning": "n. 维度，方面"
+        },
+        {
+          "word": "infrastructure",
+          "phonetic": "/ˈɪnfrəstrʌktʃər/",
+          "meaning": "n. 基础设施"
+        },
+        {
+          "word": "anticipate",
+          "phonetic": "/ænˈtɪsɪpeɪt/",
+          "meaning": "v. 预测，预料"
+        },
+        {
+          "word": "intensify",
+          "phonetic": "/ɪnˈtensɪfaɪ/",
+          "meaning": "v. 加剧，增强"
+        }
+      ]
+    }
+  ]
+}

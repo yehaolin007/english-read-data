@@ -1,0 +1,140 @@
+{
+  "id": "hot_040",
+  "category": "hot",
+  "title": "Ancient Wisdom Meets Modern Science",
+  "subtitle": "传统医学能否通过现代科学的检验",
+  "readTime": 7,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Traditional medicine systems developed over thousands of years are receiving renewed scientific attention. Researchers are systematically investigating remedies from Chinese medicine, Ayurveda, and indigenous healing traditions using modern methodologies. Some ancient treatments have yielded breakthrough drugs, while others fail empirical testing.",
+      "zh": "发展了数千年的传统医学体系正在获得新的科学关注。研究人员正在使用现代方法系统地调查中医、阿育吠陀和土著治疗传统中的药方。一些古老的疗法已经产生了突破性的药物，而另一些则未能通过实证检验。",
+      "words": [
+        {
+          "word": "remedy",
+          "phonetic": "/ˈremədi/",
+          "meaning": "n. 疗法，治疗方法"
+        },
+        {
+          "word": "Ayurveda",
+          "phonetic": "/ˌɑːjʊəˈveɪdə/",
+          "meaning": "n. 阿育吠陀"
+        },
+        {
+          "word": "indigenous",
+          "phonetic": "/ɪnˈdɪdʒənəs/",
+          "meaning": "adj. 土著的，本土的"
+        },
+        {
+          "word": "empirical",
+          "phonetic": "/ɪmˈpɪrɪkl/",
+          "meaning": "adj. 实证的，经验的"
+        }
+      ]
+    },
+    {
+      "en": "The antimalarial drug artemisinin exemplifies successful integration of traditional and modern approaches. Chinese scientist Tu Youyou discovered this compound by studying ancient medical texts describing herbal fever treatments. Her Nobel Prize-winning work has saved millions of lives and demonstrated the potential locked within traditional knowledge.",
+      "zh": "抗疟疾药物青蒿素是传统和现代方法成功结合的典范。中国科学家屠呦呦通过研究描述草药发热治疗的古代医学文献发现了这种化合物。她获得诺贝尔奖的工作拯救了数百万人的生命，并展示了传统知识中蕴含的潜力。",
+      "words": [
+        {
+          "word": "antimalarial",
+          "phonetic": "/ˌæntɪməˈleəriəl/",
+          "meaning": "adj. 抗疟疾的"
+        },
+        {
+          "word": "exemplify",
+          "phonetic": "/ɪɡˈzemplɪfaɪ/",
+          "meaning": "v. 例证，是…的典型"
+        },
+        {
+          "word": "compound",
+          "phonetic": "/ˈkɒmpaʊnd/",
+          "meaning": "n. 化合物"
+        },
+        {
+          "word": "herbal",
+          "phonetic": "/ˈhɜːbl/",
+          "meaning": "adj. 草药的"
+        }
+      ]
+    },
+    {
+      "en": "However, many traditional remedies lack scientific support despite centuries of use. Cultural belief and placebo effects can sustain practices that controlled trials reveal as ineffective. Dangerous interactions between traditional and conventional treatments also concern healthcare providers treating patients who combine both approaches.",
+      "zh": "然而，尽管使用了几个世纪，许多传统疗法仍缺乏科学支持。文化信仰和安慰剂效应可以维持对照试验证明无效的做法。传统疗法和常规治疗之间的危险相互作用也让治疗同时使用两种方法的患者的医疗保健提供者感到担忧。",
+      "words": [
+        {
+          "word": "placebo",
+          "phonetic": "/pləˈsiːbəʊ/",
+          "meaning": "n. 安慰剂"
+        },
+        {
+          "word": "sustain",
+          "phonetic": "/səˈsteɪn/",
+          "meaning": "v. 维持"
+        },
+        {
+          "word": "ineffective",
+          "phonetic": "/ˌɪnɪˈfektɪv/",
+          "meaning": "adj. 无效的"
+        },
+        {
+          "word": "conventional",
+          "phonetic": "/kənˈvenʃənl/",
+          "meaning": "adj. 常规的，传统的"
+        }
+      ]
+    },
+    {
+      "en": "Ethical questions arise about intellectual property and benefit sharing. Pharmaceutical companies profiting from traditional knowledge raise concerns about exploitation of indigenous communities. International frameworks attempt to ensure fair compensation when traditional remedies become commercial products, though enforcement remains challenging.",
+      "zh": "关于知识产权和利益分享的伦理问题出现了。从传统知识中获利的制药公司引发了对剥削土著社区的担忧。国际框架试图确保当传统疗法成为商业产品时进行公平补偿，尽管执行仍然具有挑战性。",
+      "words": [
+        {
+          "word": "intellectual property",
+          "phonetic": "/ˌɪntəˈlektʃuəl ˈprɒpəti/",
+          "meaning": "n. 知识产权"
+        },
+        {
+          "word": "exploitation",
+          "phonetic": "/ˌeksplɔɪˈteɪʃn/",
+          "meaning": "n. 剥削，利用"
+        },
+        {
+          "word": "compensation",
+          "phonetic": "/ˌkɒmpenˈseɪʃn/",
+          "meaning": "n. 补偿，赔偿"
+        },
+        {
+          "word": "enforcement",
+          "phonetic": "/ɪnˈfɔːsmənt/",
+          "meaning": "n. 执行，实施"
+        }
+      ]
+    },
+    {
+      "en": "The most productive approach likely integrates respect for traditional wisdom with scientific rigor. Ancient healers observed human bodies for millennia, accumulating insights that deserve serious investigation. Yet claims must ultimately prove themselves through reproducible evidence. This balanced perspective honors heritage while demanding effectiveness.",
+      "zh": "最有成效的方法可能是将对传统智慧的尊重与科学严谨性结合起来。古代医者观察人体数千年，积累了值得认真研究的见解。然而，声称最终必须通过可重复的证据来证明自己。这种平衡的观点在尊重遗产的同时要求有效性。",
+      "words": [
+        {
+          "word": "rigor",
+          "phonetic": "/ˈrɪɡər/",
+          "meaning": "n. 严谨，严格"
+        },
+        {
+          "word": "millennia",
+          "phonetic": "/mɪˈleniə/",
+          "meaning": "n. 数千年（millennium的复数）"
+        },
+        {
+          "word": "reproducible",
+          "phonetic": "/ˌriːprəˈdjuːsəbl/",
+          "meaning": "adj. 可重复的"
+        },
+        {
+          "word": "heritage",
+          "phonetic": "/ˈherɪtɪdʒ/",
+          "meaning": "n. 遗产，传统"
+        }
+      ]
+    }
+  ]
+}

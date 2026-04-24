@@ -1,0 +1,140 @@
+{
+  "id": "hot_061",
+  "category": "hot",
+  "title": "The Global Water Crisis Deepens",
+  "subtitle": "水资源短缺正成为21世纪最大挑战",
+  "readTime": 8,
+  "difficulty": 4,
+  "paragraphs": [
+    {
+      "en": "Water scarcity affects billions of people worldwide and threatens to become the defining crisis of the twenty-first century. Climate change intensifies droughts while population growth and industrialization increase demand. By 2050, nearly half the global population may face severe water stress unless dramatic action is taken.",
+      "zh": "水资源短缺影响着全球数十亿人，并有可能成为21世纪决定性的危机。气候变化加剧干旱，而人口增长和工业化增加了需求。到2050年，如果不采取重大行动，近一半的全球人口可能面临严重的水资源压力。",
+      "words": [
+        {
+          "word": "scarcity",
+          "phonetic": "/ˈskeəsəti/",
+          "meaning": "n. 短缺，稀缺"
+        },
+        {
+          "word": "drought",
+          "phonetic": "/draʊt/",
+          "meaning": "n. 干旱"
+        },
+        {
+          "word": "industrialization",
+          "phonetic": "/ɪnˌdʌstriəlaɪˈzeɪʃn/",
+          "meaning": "n. 工业化"
+        },
+        {
+          "word": "dramatic",
+          "phonetic": "/drəˈmætɪk/",
+          "meaning": "adj. 重大的，戏剧性的"
+        }
+      ]
+    },
+    {
+      "en": "Agriculture consumes approximately seventy percent of global freshwater withdrawals. Inefficient irrigation practices waste enormous quantities while depleting underground aquifers that accumulated over millennia. Shifting to water-efficient farming techniques offers one of the largest opportunities for conservation.",
+      "zh": "农业消耗了全球淡水取水量的约70%。低效的灌溉做法浪费了大量水资源，同时耗尽了积累了数千年的地下含水层。转向节水农业技术提供了最大的节水机会之一。",
+      "words": [
+        {
+          "word": "withdrawal",
+          "phonetic": "/wɪðˈdrɔːəl/",
+          "meaning": "n. 取水，提取"
+        },
+        {
+          "word": "irrigation",
+          "phonetic": "/ˌɪrɪˈɡeɪʃn/",
+          "meaning": "n. 灌溉"
+        },
+        {
+          "word": "deplete",
+          "phonetic": "/dɪˈpliːt/",
+          "meaning": "v. 耗尽"
+        },
+        {
+          "word": "aquifer",
+          "phonetic": "/ˈækwɪfər/",
+          "meaning": "n. 含水层"
+        }
+      ]
+    },
+    {
+      "en": "Water pollution compounds scarcity problems by making existing supplies unusable. Industrial discharge, agricultural runoff, and inadequate sanitation contaminate rivers, lakes, and groundwater sources. In many developing regions, people must choose between traveling long distances for clean water or using contaminated local supplies.",
+      "zh": "水污染使现有供应无法使用，从而加剧了短缺问题。工业排放、农业径流和不充分的卫生设施污染了河流、湖泊和地下水源。在许多发展中地区，人们必须在长途跋涉取水和使用受污染的当地水源之间做出选择。",
+      "words": [
+        {
+          "word": "compound",
+          "phonetic": "/kəmˈpaʊnd/",
+          "meaning": "v. 加剧，使恶化"
+        },
+        {
+          "word": "discharge",
+          "phonetic": "/dɪsˈtʃɑːdʒ/",
+          "meaning": "n. 排放"
+        },
+        {
+          "word": "runoff",
+          "phonetic": "/ˈrʌnɒf/",
+          "meaning": "n. 径流"
+        },
+        {
+          "word": "sanitation",
+          "phonetic": "/ˌsænɪˈteɪʃn/",
+          "meaning": "n. 卫生设施"
+        }
+      ]
+    },
+    {
+      "en": "Innovative technologies offer promising solutions to water challenges. Desalination plants convert seawater to freshwater, though energy costs remain high. Advanced recycling systems can make wastewater suitable for agriculture or even drinking. Atmospheric water harvesting captures moisture from air in arid regions.",
+      "zh": "创新技术为水资源挑战提供了有前景的解决方案。海水淡化厂将海水转化为淡水，尽管能源成本仍然很高。先进的回收系统可以使废水适合农业甚至饮用。大气水收集技术在干旱地区从空气中捕获水分。",
+      "words": [
+        {
+          "word": "desalination",
+          "phonetic": "/diːˌsælɪˈneɪʃn/",
+          "meaning": "n. 海水淡化"
+        },
+        {
+          "word": "wastewater",
+          "phonetic": "/ˈweɪstwɔːtər/",
+          "meaning": "n. 废水"
+        },
+        {
+          "word": "atmospheric",
+          "phonetic": "/ˌætməsˈferɪk/",
+          "meaning": "adj. 大气的"
+        },
+        {
+          "word": "arid",
+          "phonetic": "/ˈærɪd/",
+          "meaning": "adj. 干旱的"
+        }
+      ]
+    },
+    {
+      "en": "Addressing water scarcity requires both technological solutions and governance reforms. Pricing water appropriately encourages conservation, while international cooperation manages shared river basins. Water must be recognized as a human right requiring protection, not merely a commodity subject to market forces.",
+      "zh": "解决水资源短缺既需要技术解决方案，也需要治理改革。适当的水价鼓励节约，而国际合作则管理共享流域。水必须被认定为需要保护的人权，而不仅仅是受市场力量支配的商品。",
+      "words": [
+        {
+          "word": "governance",
+          "phonetic": "/ˈɡʌvənəns/",
+          "meaning": "n. 治理"
+        },
+        {
+          "word": "appropriately",
+          "phonetic": "/əˈprəʊpriətli/",
+          "meaning": "adv. 适当地"
+        },
+        {
+          "word": "basin",
+          "phonetic": "/ˈbeɪsn/",
+          "meaning": "n. 流域，盆地"
+        },
+        {
+          "word": "commodity",
+          "phonetic": "/kəˈmɒdəti/",
+          "meaning": "n. 商品"
+        }
+      ]
+    }
+  ]
+}
